@@ -12,7 +12,7 @@
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 ![screenshot der wikipedia](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
 
-- I update my hole gits and than make it public again. 
+- I update my hole gits and than make it public again. (Till yet only some % finished)
 - Come back later if you cant find needed yet
 - the privat repos will not longer stay privat in future
 
