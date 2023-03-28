@@ -4,15 +4,11 @@
 
 ### Links
 - [About me](https://github.com/VolkanSah/About-Me)
+- [My hobby](https://anna-ps.de)
+- [My work](https://wordpress-webmaster.de)
+- [Learn how to use a terminal while](https://jugendamt-deutschland.de)
 
-
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
+- 🔭 I’m currently working on [miniGreX CMS](https://github.com/VolkanSah/MiniGreX-CMS)and some stuff for customers
 
 <!--
 **VolkanSah/VolkanSah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
