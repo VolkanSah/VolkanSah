@@ -5,7 +5,7 @@
 ### Links
 - [About me](https://github.com/VolkanSah/About-Me)
 - [My hobby](https://anna-ps.de)
-- [My work](https://wordpress-webmaster.de)
+- [a pice of my work](https://wordpress-webmaster.de)
 - [Learn how to use a terminal while](https://jugendamt-deutschland.de)
 
 - 🔭 I’m currently working on [miniGreX CMS](https://github.com/VolkanSah/MiniGreX-CMS)and some stuff for customers
