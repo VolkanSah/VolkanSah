@@ -15,5 +15,5 @@
 - I update my hole gits and than make it public again. 
 - Come back later if you cant find needed yet, 
 - the privat repos will not longer stay privat in future
-
-    Maybe you want help me with ideas for MiniGreX CMS?
+### Disclaimer
+"Just like Batman, I may not possess any superpowers, but I'm determined to make the world a better place. Even though I know I can't change everything, I keep pushing forward for the greater good. And who knows, perhaps one day I'll even outsmart the ever-annoying Superman!"
