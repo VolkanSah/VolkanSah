@@ -1,6 +1,6 @@
 
 [Become a sponsor](https://github.com/sponsors/VolkanSah) • [about me](https://github.com/VolkanSah/About-Me) • [one of my hobbies](https://anna-ps.de) • [a pice of my work](https://wordpress-webmaster.de) • [reason for my development](https://jugendamt-deutschland.de) •
-### Hi there 👋 i am Volkan Şah
+### Hi there 👋 it`s me
 
 - DevOps+ 
 - love freedom -> not broken windows or rotten fruits 
