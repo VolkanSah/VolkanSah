@@ -1,7 +1,7 @@
 [about me](https://github.com/VolkanSah/About-Me) | [my hobby](https://anna-ps.de) | [a pice of my work](https://wordpress-webmaster.de) | [learn how to use a terminal while](https://jugendamt-deutschland.de)
-### Hi there 👋
-![screenshot der wikipedia](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+### Hi there 👋 i am Volkan Şah
+I am a dad and a human, thats it!
+
 
 
 
@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![screenshot der wikipedia](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
