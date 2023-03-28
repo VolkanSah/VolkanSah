@@ -6,7 +6,7 @@
 - love freedom -> not broken windows or rotten fruits 
 - html(5), xml, css³, php, js, pyhton, perl, smalltalk, c, sql (mMysql, MariaDB, PostGre)
 - Lingua: german, english, turkish
-- I am Batman and love to create. Maybe you must understand how to open it to make it more secure. I see you understand me ;)
+- I am Batman and love to create. Maybe you must understand how to open it to make it more secure.
 
 ![screenshot der wikipedia](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
