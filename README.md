@@ -3,8 +3,8 @@
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 ### Links
-- [About me](https://github.com/VolkanSah/About-Me)
-- [My hobby](https://anna-ps.de)
+[About me](https://github.com/VolkanSah/About-Me)
+[My hobby](https://anna-ps.de)
 - [a pice of my work](https://wordpress-webmaster.de)
 - [Learn how to use a terminal while](https://jugendamt-deutschland.de)
 
