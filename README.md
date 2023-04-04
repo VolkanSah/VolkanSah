@@ -35,7 +35,7 @@ Start sorting:
 [monitoring and restarting services](https://github.com/VolkanSah/Bash-script-for-monitoring-and-restarting-services)
 
 ### Social Networks (updated 2023)
-[Instagram Suspicious Followers Detection](https://github.com/VolkanSah/Instagram-Suspicious-Followers-Detection)
+[Instagram Suspicious Followers Detection](https://github.com/VolkanSah/Instagram-Suspicious-Followers-Detection) • 
 [Best Human Like - Instagram Unfollower](https://github.com/VolkanSah/Human-like-Instagram-Unfollower)
 
 ### Misk
