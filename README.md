@@ -16,3 +16,10 @@
 - Come back later if you cant find needed yet
 - the privat repos will not longer stay privat in future
 
+Start sorting:
+
+## WordPress
+
+[Facebook Engagement Metrics (lite) WordPress Plugin](https://github.com/VolkanSah/WP-Facebook-Engagement-Metrics)
+[WordPress Security with WPScan (Advanced usage for ethnical Hackers](https://github.com/VolkanSah/wpscan-advanced-use)
+
