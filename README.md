@@ -23,7 +23,13 @@ Start sorting:
 [Facebook Engagement Metrics (lite) Plugin](https://github.com/VolkanSah/WP-Facebook-Engagement-Metrics) • 
 [WordPress Security with WPScan (Advanced usage for ethnical Hackers](https://github.com/VolkanSah/wpscan-advanced-use) • 
 
-## Server Security
+## Server Security & Performance
 
 [ModSecurity Webserver Protection Guide](https://github.com/VolkanSah/ModSecurity-Webserver-Protection-Guide) • 
-
+[Install Apache2 with Nginx Reverse Proxy and Let's Encrypt SSL](https://github.com/VolkanSah/Apache2-with-Nginx-Reverse-Proxy-and-Let-s-Encrypt-SSL-on-Debian-Ubuntu) • 
+[Writethrough caching](https://github.com/VolkanSah/writethrough-caching) • [Advanced RAM use](https://github.com/VolkanSah/advanced-RAM-use-on-Bash-installed-systems) • 
+[Optimize your Samba Server](https://github.com/VolkanSah/optimize-Samba-settings) • 
+[Several ways to optimize MySQL or MariaDB for performance](https://github.com/VolkanSah/optimize-MySQL-or-MariaDB) • 
+[encode and decode files in PHP 8](https://github.com/VolkanSah/encode-and-decode-php8) • 
+[ModSecurity-rule-to-block-SQL-injection-attacks-in-PHP](https://github.com/VolkanSah/ModSecurity-rule-to-block-SQL-injection-attacks-in-PHP) • 
+[monitoring and restarting services](https://github.com/VolkanSah/Bash-script-for-monitoring-and-restarting-services)
