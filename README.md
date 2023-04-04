@@ -6,7 +6,7 @@
 - DevOps+ 
 - love freedom -> not broken windows or rotten fruits 
 - html(5), xml, css³, php, js, pyhton, perl, smalltalk, c, sql (Mysql, MariaDB, PostGre) ...
-- Lingua: german, english, turkish (learn arabic & russian)
+- Lingua: german, english, turkish
 
 ![screenshot der wikipedia](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
