@@ -21,7 +21,7 @@ php?>start sorting ;)
 ### WordPress (updated 2023)
 
 [Facebook Engagement Metrics (lite) Plugin](https://github.com/VolkanSah/WP-Facebook-Engagement-Metrics) • 
-[WordPress Security with WPScan (Advanced usage for ethnical Hackers](https://github.com/VolkanSah/wpscan-advanced-use) • 
+[WordPress Security with WPScan (Advanced usage for ethnical hacking](https://github.com/VolkanSah/wpscan-advanced-use) • 
 
 ### Server Security & Performance (updated 2023)
 
