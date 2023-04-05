@@ -17,6 +17,7 @@
 - I update my hole gits and than make it public again. (Till yet only some % finished)
 - Come back later if you cant find needed yet
 - the privat repos will not longer stay privat in future
+- If you like my work, follow me, give me a star or become a sponsor
 
 php?>start sorting ;)
 
