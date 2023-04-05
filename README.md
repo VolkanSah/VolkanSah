@@ -3,7 +3,7 @@
 ### print 'Disclaimer'
 "Just like Batman, I may not possess any superpowers, but I'm determined to make the world a better place. Even though I know I can't change everything, I keep pushing forward for the greater good. And who knows, perhaps one day I'll even outsmart the ever-annoying Superman!"
 
-##### Since my birthday, this year, my github account will be public. I see i get old! This is for you my son, so you know who your father really is.
+##### Since my birthday, this year, my github account will be public. I see i get old! This is for you my son, so you know who your father really is. A brocken soul!
 
 - DevOps+ 
 - love freedom -> not broken windows or rotten fruits 
