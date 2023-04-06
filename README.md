@@ -12,7 +12,7 @@
 ![screenshot der wikipedia](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 ![screenshot der wikipedia](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
-#### Since my birthday, this year, my github account will be public. I see i get old! This is for you my son, so you know who your father really is. Ask for the truth!
+#### Since my birthday, this year, my github account will be public. I see i get old! This is for you my son, so you know who your father really is. Ask for the truth and be BATMAN too!
 
 
 - I update my hole gits and than make it public again. (Till yet only some % finished)
