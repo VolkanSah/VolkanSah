@@ -42,4 +42,5 @@ php?>start sorting ;)
 [Instagram Suspicious Followers Detection](https://github.com/VolkanSah/Instagram-Suspicious-Followers-Detection) • 
 [Best Human Like - Instagram Unfollower](https://github.com/VolkanSah/Human-like-Instagram-Unfollower)
 
-### Misk
+### Lingua Basics
+
