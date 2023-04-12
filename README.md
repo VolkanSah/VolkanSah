@@ -44,8 +44,8 @@ php?>start sorting ;)
 
 ### Coding-Lingua Basics (good for beginners)
 [Python-Modules-Overview](https://github.com/VolkanSah/Python-Modules-Overview)
-##### soon more, updating than public, i wallah!
+##### soon more, updating than public, wallah!
 
 ### Drarknet/Deepweb
-soon, updating than public, i wallah! you will love it!
+soon, updating than public, wallah! you will love it!
 
