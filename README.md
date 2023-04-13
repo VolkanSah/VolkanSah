@@ -15,14 +15,14 @@
 #### Since my birthday, this year, my github account will be public. I see i get old! This is for you my son, so you know who your father really is. Ask for the truth!
 
 
-- I update my hole gits and than make it public again. (Till yet only some % finished)
+- I update my hole gits and than make it public again. **(Till yet only some % finished)**
 - Come back later if you cant find needed yet
 - the privat repos will not longer stay privat in future
 - If you like my work, follow me, give me a star or become a sponsor
 
 php?>start sorting ;)
 
-### WordPress (updated 2023)
+### WordPress (updated 2023) 
 
 [Facebook Engagement Metrics (lite) Plugin](https://github.com/VolkanSah/WP-Facebook-Engagement-Metrics) • 
 [WordPress Security with WPScan (advanced usage](https://github.com/VolkanSah/wpscan-advanced-use) • 
