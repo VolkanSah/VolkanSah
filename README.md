@@ -42,10 +42,10 @@ php?>start sorting ;)
 [Instagram Suspicious Followers Detection](https://github.com/VolkanSah/Instagram-Suspicious-Followers-Detection) • 
 [Best Human Like - Instagram Unfollower](https://github.com/VolkanSah/Human-like-Instagram-Unfollower)
 
-### Coding-Lingua Basics (good for beginners)
+### for remember, i get old! (good for beginners)
 [Python-Modules-Overview](https://github.com/VolkanSah/Python-Modules-Overview)
 ##### soon more, updating than public, wallah!
 
-### Drarknet/Deepweb
+### Darknet/Deepweb
 soon, updating than public, wallah! you will love it!
 
