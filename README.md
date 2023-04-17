@@ -46,6 +46,6 @@ php?>start sorting ;)
 [Python-Modules-Overview](https://github.com/VolkanSah/Python-Modules-Overview)
 ##### soon more, updating than public, wallah!
 
-### Darknet/Deepweb
-soon, updating than public, wallah! you will love it!
+### Darknet/Deepweb (soon)
+- [first step: CHF](https://github.com/CounterHackForce)
 
