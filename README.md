@@ -48,4 +48,5 @@ php?>start sorting ;)
 
 ### Darknet/Deepweb (soon)
 - [first step: CHF](https://github.com/CounterHackForce)
+- https://github.com/CounterHackForce/how-to-kill-the-onion/
 
