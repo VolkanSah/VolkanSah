@@ -46,8 +46,7 @@ php?>start sorting ;)
 [Python-Modules-Overview](https://github.com/VolkanSah/Python-Modules-Overview)
 ##### soon more, updating than public, wallah!
 
-### Ethical hacking
-Examples for beginners (privat, you need access!)
+### Ethical hacking (privat!)
 [The Extractor (GHDB Version)](https://github.com/VolkanSah/Extractor.py-vGHDB) • [The Collector](https://github.com/VolkanSah/Extractor.py-vGHDB)
 
 
