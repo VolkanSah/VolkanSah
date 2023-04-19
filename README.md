@@ -47,6 +47,6 @@ php?>start sorting ;)
 ##### soon more, updating than public, wallah!
 
 ### Ethical hacking
-[The Extractor (GHDB)](https://github.com/VolkanSah/The-Extractor) • [The Collector](https://github.com/VolkanSah/Extractor.py-vGHDB)
+[The Extractor (GHDB)](https://github.com/VolkanSah/The-Extractor) • [The Collector](https:/#)
 
 
