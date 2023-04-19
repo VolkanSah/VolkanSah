@@ -50,3 +50,8 @@ php?>start sorting ;)
 - [first step: CHF](https://github.com/CounterHackForce)
 - https://github.com/CounterHackForce/how-to-kill-the-onion/ (Privat)
 
+### Ethical hacking
+Examples for beginners
+- [The Extractor (GHDB Version)](https://github.com/VolkanSah/Extractor.py-vGHDB)
+
+
