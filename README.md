@@ -48,7 +48,6 @@ php?>start sorting ;)
 
 ### Ethical hacking
 Examples for beginners (privat, you need access!)
-- [The Extractor (GHDB Version)](https://github.com/VolkanSah/Extractor.py-vGHDB)
-- [The Collector](https://github.com/VolkanSah/Extractor.py-vGHDB)
+[The Extractor (GHDB Version)](https://github.com/VolkanSah/Extractor.py-vGHDB) • [The Collector](https://github.com/VolkanSah/Extractor.py-vGHDB)
 
 
