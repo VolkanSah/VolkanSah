@@ -46,12 +46,9 @@ php?>start sorting ;)
 [Python-Modules-Overview](https://github.com/VolkanSah/Python-Modules-Overview)
 ##### soon more, updating than public, wallah!
 
-### Darknet/Deepweb (Orga)
-- [first step: CHF](https://github.com/CounterHackForce)
-- https://github.com/CounterHackForce/how-to-kill-the-onion/ (Privat)
-
 ### Ethical hacking
-Examples for beginners
+Examples for beginners (privat, you need access!)
 - [The Extractor (GHDB Version)](https://github.com/VolkanSah/Extractor.py-vGHDB)
+- [The Collector](https://github.com/VolkanSah/Extractor.py-vGHDB)
 
 
