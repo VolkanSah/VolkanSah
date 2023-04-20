@@ -43,8 +43,7 @@ php?>start sorting ;)
 [Best Human Like - Instagram Unfollower](https://github.com/VolkanSah/Human-like-Instagram-Unfollower)
 
 ### for remember, i get old! (good for beginners)
-[Python-Modules-Overview](https://github.com/VolkanSah/Python-Modules-Overview)
-##### soon more, updating than public, wallah!
+[Python-Modules-Overview](https://github.com/VolkanSah/Python-Modules-Overview) • [PythonnXPath Tutorial](https://github.com/VolkanSah/Python-XPath-Tutorial)
 
 ### Ethical hacking 
 
