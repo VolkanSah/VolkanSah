@@ -22,13 +22,10 @@
 
 php?>start sorting ;)
 
-### WordPress (updated 2023) 
-
-[Facebook Engagement Metrics (lite) Plugin](https://github.com/VolkanSah/WP-Facebook-Engagement-Metrics) • 
-[WordPress Security with WPScan (advanced usage](https://github.com/VolkanSah/wpscan-advanced-use) • 
+### for remember, i get old! (good for beginners) update 2023
+[Python-Modules-Overview](https://github.com/VolkanSah/Python-Modules-Overview) • [Pythonn XPath Tutorial](https://github.com/VolkanSah/Python-XPath-Tutorial) • [JavaScript XPath Tutorial](https://github.com/VolkanSah/JavaScript-XPath-Tutorial)
 
 ### Server Security & Performance (updated 2023)
-
 [ModSecurity Webserver Protection Guide](https://github.com/VolkanSah/ModSecurity-Webserver-Protection-Guide) • 
 [Install Apache2 with Nginx Reverse Proxy and Let's Encrypt SSL](https://github.com/VolkanSah/Apache2-with-Nginx-Reverse-Proxy-and-Let-s-Encrypt-SSL-on-Debian-Ubuntu) • 
 [Writethrough caching](https://github.com/VolkanSah/writethrough-caching) • [Advanced RAM use](https://github.com/VolkanSah/advanced-RAM-use-on-Bash-installed-systems) • 
@@ -42,11 +39,9 @@ php?>start sorting ;)
 [Instagram Suspicious Followers Detection](https://github.com/VolkanSah/Instagram-Suspicious-Followers-Detection) • 
 [Best Human Like - Instagram Unfollower](https://github.com/VolkanSah/Human-like-Instagram-Unfollower)
 
-### for remember, i get old! (good for beginners) update 2023
-[Python-Modules-Overview](https://github.com/VolkanSah/Python-Modules-Overview) • [Pythonn XPath Tutorial](https://github.com/VolkanSah/Python-XPath-Tutorial) • [JavaScript XPath Tutorial](https://github.com/VolkanSah/JavaScript-XPath-Tutorial)
+### WordPress (updated 2023) 
+[Facebook Engagement Metrics (lite) Plugin](https://github.com/VolkanSah/WP-Facebook-Engagement-Metrics) • 
+[WordPress Security with WPScan (advanced usage](https://github.com/VolkanSah/wpscan-advanced-use) • 
 
 ### Ethical hacking 
-
 [The Extractor (GHDB) lite](https://github.com/VolkanSah/The_Extractor.py) • [The Collector](https://github.com/VolkanSah/The_Collector.py) • [PoisonIvory](https://github.com/VolkanSah/PoisonIvory)
-
-
