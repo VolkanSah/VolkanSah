@@ -42,8 +42,8 @@ php?>start sorting ;)
 [Instagram Suspicious Followers Detection](https://github.com/VolkanSah/Instagram-Suspicious-Followers-Detection) • 
 [Best Human Like - Instagram Unfollower](https://github.com/VolkanSah/Human-like-Instagram-Unfollower)
 
-### for remember, i get old! (good for beginners)
-[Python-Modules-Overview](https://github.com/VolkanSah/Python-Modules-Overview) • [PythonnXPath Tutorial](https://github.com/VolkanSah/Python-XPath-Tutorial)
+### for remember, i get old! (good for beginners) update 2023
+[Python-Modules-Overview](https://github.com/VolkanSah/Python-Modules-Overview) • [Pythonn XPath Tutorial](https://github.com/VolkanSah/Python-XPath-Tutorial) • [JavaScript XPath Tutorial](https://github.com/VolkanSah/JavaScript-XPath-Tutorial)
 
 ### Ethical hacking 
 
