@@ -1,4 +1,7 @@
+## new released
+![Screenshot](img/screenshot.jpg)
 
+##### links
 [Become a sponsor](https://github.com/sponsors/VolkanSah) • [about me](https://github.com/VolkanSah/About-Me) • [one of my hobbies](https://anna-ps.de) • [a pice of my work](https://wordpress-webmaster.de) • [one reason for my development](https://jugendamt-deutschland.de) • [chf](https://github.com/counterhackforce)
 ### print 'Disclaimer'
 "Just like Batman, I may not possess any superpowers, but I'm determined to make the world a better place. Even though I know I can't change everything, I keep pushing forward for the greater good. And who knows, perhaps one day I'll even outsmart the ever-annoying Superman!"
@@ -41,12 +44,11 @@ php?>start sorting ;)
 
 ### WordPress (updated 2023) 
  
-[WordPress Security with WPScan (advanced usage](https://github.com/VolkanSah/wpscan-advanced-use) • 
+[WordPress Security with WPScan (advanced usage](https://github.com/VolkanSah/wpscan-advanced-use) • [Facebook Engagement Metrics (lite) Plugin](https://github.com/VolkanSah/WP-Facebook-Engagement-Metrics)
 
 ### Ethical hacking 
 [The Extractor (GHDB) lite](https://github.com/VolkanSah/The_Extractor.py) • [The Collector](https://github.com/VolkanSah/The_Collector.py) • [PoisonIvory](https://github.com/VolkanSah/PoisonIvory)
 
-## Plugins
-![Screenshot](img/screenshot.jpg)
-- [Facebook Engagement Metrics (lite) Plugin](https://github.com/VolkanSah/WP-Facebook-Engagement-Metrics)
+
+
 
