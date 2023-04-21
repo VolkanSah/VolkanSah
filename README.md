@@ -40,12 +40,13 @@ php?>start sorting ;)
 [Best Human Like - Instagram Unfollower](https://github.com/VolkanSah/Human-like-Instagram-Unfollower)
 
 ### WordPress (updated 2023) 
-[Facebook Engagement Metrics (lite) Plugin](https://github.com/VolkanSah/WP-Facebook-Engagement-Metrics) • 
+ 
 [WordPress Security with WPScan (advanced usage](https://github.com/VolkanSah/wpscan-advanced-use) • 
 
 ### Ethical hacking 
 [The Extractor (GHDB) lite](https://github.com/VolkanSah/The_Extractor.py) • [The Collector](https://github.com/VolkanSah/The_Collector.py) • [PoisonIvory](https://github.com/VolkanSah/PoisonIvory)
 
 ## Plugins
-![Screenshot](https://github.com/VolkanSah/ChatGPT-Comments-Reply-WordPress-Plugin/screenshot.jpg)
+![Screenshot](screenshot.jpg)
+- [Facebook Engagement Metrics (lite) Plugin](https://github.com/VolkanSah/WP-Facebook-Engagement-Metrics)
 
