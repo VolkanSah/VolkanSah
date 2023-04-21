@@ -47,6 +47,6 @@ php?>start sorting ;)
 [The Extractor (GHDB) lite](https://github.com/VolkanSah/The_Extractor.py) • [The Collector](https://github.com/VolkanSah/The_Collector.py) • [PoisonIvory](https://github.com/VolkanSah/PoisonIvory)
 
 ## Plugins
-![Screenshot](screenshot.jpg)
+![Screenshot](img/screenshot.jpg)
 - [Facebook Engagement Metrics (lite) Plugin](https://github.com/VolkanSah/WP-Facebook-Engagement-Metrics)
 
