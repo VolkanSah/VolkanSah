@@ -1,5 +1,4 @@
 ## new released
-![Screenshot](img/screenshot.jpg)
 [![ChatGPT comment reply plugin](img/screenshot.jpg)](https://github.com/VolkanSah/ChatGPT-Comments-Reply-WordPress-Plugin)
 ##### links
 [Become a sponsor](https://github.com/sponsors/VolkanSah) • [about me](https://github.com/VolkanSah/About-Me) • [one of my hobbies](https://anna-ps.de) • [a pice of my work](https://wordpress-webmaster.de) • [one reason for my development](https://jugendamt-deutschland.de) • [chf](https://github.com/counterhackforce)
