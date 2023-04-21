@@ -45,3 +45,7 @@ php?>start sorting ;)
 
 ### Ethical hacking 
 [The Extractor (GHDB) lite](https://github.com/VolkanSah/The_Extractor.py) • [The Collector](https://github.com/VolkanSah/The_Collector.py) • [PoisonIvory](https://github.com/VolkanSah/PoisonIvory)
+
+## Plugins
+![Screenshot](https://github.com/VolkanSah/ChatGPT-Comments-Reply-WordPress-Plugin/screenshot.jpg)
+
