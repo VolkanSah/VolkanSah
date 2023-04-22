@@ -44,7 +44,7 @@ php?>start sorting ;)
 
 ### WordPress (updated 2023) 
  
-[WordPress Security with WPScan (advanced usage](https://github.com/VolkanSah/wpscan-advanced-use) • [Facebook Engagement Metrics (lite) Plugin](https://github.com/VolkanSah/WP-Facebook-Engagement-Metrics) • [Plugin: Comements Reply with ChatGPT](https://github.com/VolkanSah/ChatGPT-Comments-Reply-WordPress-Plugin)
+[WordPress Security with WPScan (advanced usage](https://github.com/VolkanSah/wpscan-advanced-use) • [Facebook Engagement Metrics (lite) Plugin](https://github.com/VolkanSah/WP-Facebook-Engagement-Metrics) • [Comements Reply with ChatGPT](https://github.com/VolkanSah/ChatGPT-Comments-Reply-WordPress-Plugin)
 
 ### Ethical hacking 
 [The Extractor (GHDB) lite](https://github.com/VolkanSah/The_Extractor.py) • [The Collector](https://github.com/VolkanSah/The_Collector.py) • [PoisonIvory](https://github.com/VolkanSah/PoisonIvory) • [run multiple TOR instances](https://github.com/VolkanSah/run-multiple-Tor-instances)
