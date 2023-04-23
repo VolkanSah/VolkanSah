@@ -1,5 +1,4 @@
 ## new released
-[![ChatGPT comment reply plugin](img/chatgpt.png)](https://github.com/VolkanSah/ChatGPT-API-Integration-in-HTML-CSS-with-JS-PHP)
 [![ChatGPT comment reply plugin](img/wp-chatgpt-comments-reply.jpg)](https://github.com/VolkanSah/ChatGPT-Comments-Reply-WordPress-Plugin)
 
 ##### a bit about me
@@ -51,5 +50,6 @@ php?>start sorting ;)
 [The Extractor (GHDB) lite](https://github.com/VolkanSah/The_Extractor.py) • [The Collector](https://github.com/VolkanSah/The_Collector.py) • [PoisonIvory](https://github.com/VolkanSah/PoisonIvory) • [run multiple TOR instances](https://github.com/VolkanSah/run-multiple-Tor-instances)
 
 
-
+## Misk
+[![ChatGPT comment reply plugin](img/chatgpt.png)](https://github.com/VolkanSah/ChatGPT-API-Integration-in-HTML-CSS-with-JS-PHP)
 
