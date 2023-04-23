@@ -5,9 +5,12 @@
 [Become a sponsor](https://github.com/sponsors/VolkanSah) • [about me](https://github.com/VolkanSah/About-Me) • [one of my hobbies](https://anna-ps.de) • [a pice of my work](https://wordpress-webmaster.de) • [one reason for my development](https://jugendamt-deutschland.de) • [chf](https://github.com/counterhackforce)
 ```
 
- ╦┬ ┬┌─┐┌┬┐  ┬  ┬┬┌─┌─┐  ╔╗ ┌─┐┌┬┐┌┬┐┌─┐┌┐┌                                                          
- ║│ │└─┐ │   │  │├┴┐├┤   ╠╩╗├─┤ │ │││├─┤│││                                                          
-╚╝└─┘└─┘ ┴   ┴─┘┴┴ ┴└─┘  ╚═╝┴ ┴ ┴ ┴ ┴┴ ┴┘└┘┘                                                         
+     ____.               __    .__  .__ __            __________         __                         
+    |    |__ __  _______/  |_  |  | |__|  | __ ____   \______   \_____ _/  |_  _____ _____    ____  
+    |    |  |  \/  ___/\   __\ |  | |  |  |/ // __ \   |    |  _/\__  \\   __\/     \\__  \  /    \ 
+/\__|    |  |  /\___ \  |  |   |  |_|  |    <\  ___/   |    |   \ / __ \|  | |  Y Y  \/ __ \|   |  \
+\________|____//____  > |__|   |____/__|__|_ \\___  >  |______  /(____  /__| |__|_|  (____  /___|  /
+                    \/                      \/    \/          \/      \/           \/     \/     \/                                                  
 
 ```
 "I may not possess any superpowers, but I'm determined to make the world a better place. Even though I know I can't change everything, I keep pushing forward for the greater good. And who knows, perhaps one day I'll even outsmart the ever-annoying Superman!"
