@@ -1,4 +1,4 @@
-## new released
+## new released (always 4 free)
 [![ChatGPT comment reply plugin](img/wp-chatgpt-comments-reply.jpg)](https://github.com/VolkanSah/ChatGPT-Comments-Reply-WordPress-Plugin)
 
 ##### a bit about me
