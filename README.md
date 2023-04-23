@@ -1,6 +1,3 @@
-## new released (always 4 free)
-[![ChatGPT comment reply plugin](img/wp-chatgpt-comments-reply.jpg)](https://github.com/VolkanSah/ChatGPT-Comments-Reply-WordPress-Plugin)
-
 ##### a bit about me
 [Become a sponsor](https://github.com/sponsors/VolkanSah) • [about me](https://github.com/VolkanSah/About-Me) • [one of my hobbies](https://anna-ps.de) • [a pice of my work](https://wordpress-webmaster.de) • [one reason for my development](https://jugendamt-deutschland.de) • [chf](https://github.com/counterhackforce)
 ```python
@@ -14,6 +11,8 @@
 ```
 "I may not possess any superpowers, but I'm determined to make the world a better place. Even though I know I can't change everything, I keep pushing forward for the greater good. And who knows, perhaps one day I'll even outsmart the ever-annoying Superman!"
 
+## new released (always 4 free)
+[![ChatGPT comment reply plugin](img/wp-chatgpt-comments-reply.jpg)](https://github.com/VolkanSah/ChatGPT-Comments-Reply-WordPress-Plugin)
 
 - DevOps+ 
 - love freedom -> not broken windows or rotten fruits 
