@@ -62,7 +62,6 @@ php?>start sorting ;)
 ### want learn ethical hacking ? 
 [The Extractor (GHDB) lite](https://github.com/VolkanSah/The_Extractor.py) • [The Collector](https://github.com/VolkanSah/The_Collector.py) • [PoisonIvory](https://github.com/VolkanSah/PoisonIvory) • [run multiple TOR instances](https://github.com/VolkanSah/run-multiple-Tor-instances) • [SQL XSS-Exploit Example](https://github.com/VolkanSah/SQL-Payload-XSS-Exploit-Example) • [understand Ransomware (with Example)](https://github.com/VolkanSah/Ransomware-Code-in-JavaScript-Example) • [NMAP (Black Python)](https://github.com/VolkanSah/NMAP-Black-Python)
 
-
 ## Misk
 [![ChatGPT comment reply plugin](img/chatgpt.png)](https://github.com/VolkanSah/ChatGPT-API-Integration-in-HTML-CSS-with-JS-PHP)
 
