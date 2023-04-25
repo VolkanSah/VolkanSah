@@ -31,7 +31,7 @@ __________         __
 - some privat repos will not longer stay privat in future
 - If you like my work, follow me, give me a star or become a sponsor
 
-###### Since my birthday, this year, my github account will be public. I see i get old! This is for you my son, so you know who your father really is. Ask for the truth!
+#### Since my birthday, this year, my github account will be public. I see i get old! This is for you my son, so you know who your father really is. Ask for the truth!
 
 ## new released (always 4 free)
 [![ChatGPT comment reply plugin](img/wp-chatgpt-comments-reply.jpg)](https://github.com/VolkanSah/ChatGPT-Comments-Reply-WordPress-Plugin)
