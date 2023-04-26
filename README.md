@@ -1,6 +1,6 @@
 [![ChatGPT Security](img/gptbestp1.png)](https://github.com/VolkanSah/ChatGPT-Security-Best-Practices)
 ##### a bit about me
-[Become a sponsor](https://github.com/sponsors/VolkanSah) • [about me](https://github.com/VolkanSah/About-Me) • [one of my hobbies](https://anna-ps.de) • [4 WordPress Webmasters](https://wordpress-webmaster.de) • [one reason for my development](https://jugendamt-deutschland.de) • [chf](https://github.com/counterhackforce)
+[Developer Site](https://volkansah.github.com) •  [Become a sponsor](https://github.com/sponsors/VolkanSah) • [about me](https://github.com/VolkanSah/About-Me) • [one of my hobbies](https://anna-ps.de) • [one reason for my development](https://jugendamt-deutschland.de) • [chf](https://github.com/counterhackforce)
 ```python
 
      __                __    .__  .__ __           
