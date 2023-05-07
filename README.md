@@ -58,8 +58,7 @@ php?>start sorting ;)
 
 ### WordPress (updated 2023) 
  
-[WordPress Security with WPScan (advanced usage](https://github.com/VolkanSah/wpscan-advanced-use) • [Facebook Engagement Metrics (lite) Plugin](https://github.com/VolkanSah/WP-Facebook-Engagement-Metrics) • [Comements Reply with ChatGPT](https://github.com/VolkanSah/ChatGPT-Comments-Reply-WordPress-Plugin)
-[Upload (admin only)](https://github.com/VolkanSah/Media-Upload-only-for-Admins-in-WordPress)
+[WordPress Security with WPScan (advanced usage](https://github.com/VolkanSah/wpscan-advanced-use) • [Facebook Engagement Metrics (lite) Plugin](https://github.com/VolkanSah/WP-Facebook-Engagement-Metrics) • [Comements Reply with ChatGPT](https://github.com/VolkanSah/ChatGPT-Comments-Reply-WordPress-Plugin) • [Upload (admin only)](https://github.com/VolkanSah/Media-Upload-only-for-Admins-in-WordPress)
 
 #### want learn ethical hacking ? 
 for educational and ethical purposes only.
