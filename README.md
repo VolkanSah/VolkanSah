@@ -67,6 +67,12 @@ for educational and ethical purposes only.
 
 
 ## Misk
-
-
-
+```
+Dünyayı değiştirmek, her ne kadar zor olsa da,
+Üstün yeteneklerim olmasa bile, kararlıyım ben bu yolda.
+Nefreti silmek, sevgiyi yüceltmek, her zaman amacım,
+Yaşamı kolaylaştırmak, başkalarına yardım etmek, kalbimdeki inançtır.
+Olumsuzluklara karşı mücadele etmek, insanlığın yararına ilerlemek,
+Rakiplerimin bile üstesinden gelebilirim, gözlerim hep yarına bakar.
+Akrostichon Copyright by Volkan Kücükbudak
+```
