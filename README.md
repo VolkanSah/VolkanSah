@@ -34,8 +34,8 @@ __________         __
 
 #### Since my birthday, this year, my github account will be public. I see i get old! This is for you my son, so you know who your father really is. Ask for the truth!
 
-## new released (always 4 free)
-[![ChatGPT comment reply plugin](img/wp-chatgpt-comments-reply.jpg)](https://github.com/VolkanSah/ChatGPT-Comments-Reply-WordPress-Plugin)
+[![ChatGPT Security](img/gptbestp1.png)](https://github.com/VolkanSah/ChatGPT-Security-Best-Practices)
+
 
 php?>start sorting ;)
 
@@ -76,5 +76,5 @@ Olumsuzluklara karşı mücadele etmek, insanlığın yararına ilerlemek,
 Rakiplerimin bile üstesinden gelebilirim, gözlerim hep yarına bakar.
 Akrostichon Copyright by Volkan Kücükbudak
 ```
-[![ChatGPT Security](img/gptbestp1.png)](https://github.com/VolkanSah/ChatGPT-Security-Best-Practices)
-
+## (always 4 free)
+[![ChatGPT comment reply plugin](img/wp-chatgpt-comments-reply.jpg)](https://github.com/VolkanSah/ChatGPT-Comments-Reply-WordPress-Plugin)
