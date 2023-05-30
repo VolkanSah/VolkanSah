@@ -50,7 +50,8 @@ php?>start sorting ;)
 [Several ways to optimize MySQL or MariaDB for performance](https://github.com/VolkanSah/optimize-MySQL-or-MariaDB) • 
 [encode and decode files in PHP 8](https://github.com/VolkanSah/encode-and-decode-php8) • 
 [ModSecurity-rule-to-block-SQL-injection-attacks-in-PHP](https://github.com/VolkanSah/ModSecurity-rule-to-block-SQL-injection-attacks-in-PHP) • 
-[monitoring and restarting services](https://github.com/VolkanSah/Bash-script-for-monitoring-and-restarting-services)
+[monitoring and restarting services](https://github.com/VolkanSah/Bash-script-for-monitoring-and-restarting-services) • 
+[Monitoring Outgoing TCP-Connections](https://github.com/VolkanSah/Monitoring-outgoing-connections)
 
 ### Papers
 soon, sorry to much to update
