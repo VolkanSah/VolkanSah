@@ -65,7 +65,7 @@ soon, sorry to much to update
 
 #### want learn ethical hacking ? 
 for educational and ethical purposes only.
-[The Extractor (GHDB) lite](https://github.com/VolkanSah/The_Extractor.py) • [The Collector](https://github.com/VolkanSah/The_Collector.py) • [PoisonIvory](https://github.com/VolkanSah/PoisonIvory) • [run multiple TOR instances](https://github.com/VolkanSah/run-multiple-Tor-instances) • [SQLp-XSS](https://github.com/VolkanSah/SQLp-EDU) • [JADE Example](https://github.com/VolkanSah/JADE-edu) • [NMAP (Black Python)](https://github.com/VolkanSah/NMAP-Black-Python) • [SherlocksHome - Get all Bastards!](https://github.com/VolkanSah/SherlocksHome)
+[The Extractor (GHDB) lite](https://github.com/VolkanSah/The_Extractor.py) • [The Collector](https://github.com/VolkanSah/The_Collector.py) • [PoisonIvory (lite)](https://github.com/VolkanSah/PoisonIvory-lite) • [run multiple TOR instances](https://github.com/VolkanSah/run-multiple-Tor-instances) • [SQLp-XSS](https://github.com/VolkanSah/SQLp-EDU) • [JADE Example](https://github.com/VolkanSah/JADE-edu) • [NMAP (Black Python)](https://github.com/VolkanSah/NMAP-Black-Python) • [SherlocksHome - Get all Bastards!](https://github.com/VolkanSah/SherlocksHome)
 
 
 
