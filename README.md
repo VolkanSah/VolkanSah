@@ -53,10 +53,10 @@ php?>start sorting ;)
 [monitoring and restarting services](https://github.com/VolkanSah/Bash-script-for-monitoring-and-restarting-services) • 
 [Monitoring Outgoing TCP-Connections](https://github.com/VolkanSah/Monitoring-outgoing-connections)
 
-#### Papers
-soon more, sorry to much to update
 
-[ChatGPT Security Best Practices](https://github.com/VolkanSah/ChatGPT-Security-Best-Practices) • [Implementation of Artificial Intelligence (AI)](https://github.com/VolkanSah/Implementing-AI-Systems-Whitepaper) • [Implementierung von Künstlicher Intelligenz (KI)](https://github.com/VolkanSah/Implementierung-von-KI-Systemen-Whitepaper)
+#### Papers
+-> soon more, sorry to much to update <-
+[ChatGPT Security Best Practices](https://github.com/VolkanSah/ChatGPT-Security-Best-Practices) • [Implementation of Artificial Intelligence (AI)](https://github.com/VolkanSah/Implementing-AI-Systems-Whitepaper) • [Implementierung von Künstlicher Intelligenz (KI)](https://github.com/VolkanSah/Implementierung-von-KI-Systemen-Whitepaper) • [Debian-Based AI Developer Server](https://github.com/VolkanSah/Debian-Based-AI-Developer-Server)
 
 #### Social Networks (updated 2023)
 [Instagram Suspicious Followers Detection](https://github.com/VolkanSah/Instagram-Suspicious-Followers-Detection) • 
