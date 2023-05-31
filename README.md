@@ -54,7 +54,8 @@ php?>start sorting ;)
 [Monitoring Outgoing TCP-Connections](https://github.com/VolkanSah/Monitoring-outgoing-connections)
 
 ### Papers
-soon, sorry to much to update
+soon more, sorry to much to update
+[ChatGPT Security Best Practices](https://github.com/VolkanSah/ChatGPT-Security-Best-Practices) • [Implementation of Artificial Intelligence (AI)](https://github.com/VolkanSah/Implementing-AI-Systems-Whitepaper) • [Implementierung von Künstlicher Intelligenz (KI)](https://github.com/VolkanSah/Implementierung-von-KI-Systemen-Whitepaper)
 
 ### Social Networks (updated 2023)
 [Instagram Suspicious Followers Detection](https://github.com/VolkanSah/Instagram-Suspicious-Followers-Detection) • 
