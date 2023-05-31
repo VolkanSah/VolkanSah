@@ -33,7 +33,6 @@ __________         __
 
 #### Since my birthday, this year, my github account will be public. I see i get old! This is for you my son, so you know who your father really is. Ask for the truth!
 
-[![ChatGPT Security](img/gptbestp1.png)](https://github.com/VolkanSah/ChatGPT-Security-Best-Practices)
 
 
 php?>start sorting ;)
