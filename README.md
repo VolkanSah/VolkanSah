@@ -39,10 +39,10 @@ __________         __
 
 php?>start sorting ;)
 
-### for remember, i get old! (good for beginners) update 2023
+#### for remember, i get old! (good for beginners) update 2023
 [Python-Modules-Overview](https://github.com/VolkanSah/Python-Modules-Overview) • [Pythonn XPath Tutorial](https://github.com/VolkanSah/Python-XPath-Tutorial) • [JavaScript XPath Tutorial](https://github.com/VolkanSah/JavaScript-XPath-Tutorial) • [PHP Libraries Overview](https://github.com/VolkanSah/PHP-Libraries-Overview)
 
-### Server Security & Performance (updated 2023)
+#### Server Security & Performance (updated 2023)
 [ModSecurity Webserver Protection Guide](https://github.com/VolkanSah/ModSecurity-Webserver-Protection-Guide) • 
 [Install Apache2 with Nginx Reverse Proxy and Let's Encrypt SSL](https://github.com/VolkanSah/Apache2-with-Nginx-Reverse-Proxy-and-Let-s-Encrypt-SSL-on-Debian-Ubuntu) • 
 [Writethrough caching](https://github.com/VolkanSah/writethrough-caching) • [Advanced RAM use](https://github.com/VolkanSah/advanced-RAM-use-on-Bash-installed-systems) • 
@@ -53,16 +53,16 @@ php?>start sorting ;)
 [monitoring and restarting services](https://github.com/VolkanSah/Bash-script-for-monitoring-and-restarting-services) • 
 [Monitoring Outgoing TCP-Connections](https://github.com/VolkanSah/Monitoring-outgoing-connections)
 
-### Papers
+#### Papers
 soon more, sorry to much to update
 
 [ChatGPT Security Best Practices](https://github.com/VolkanSah/ChatGPT-Security-Best-Practices) • [Implementation of Artificial Intelligence (AI)](https://github.com/VolkanSah/Implementing-AI-Systems-Whitepaper) • [Implementierung von Künstlicher Intelligenz (KI)](https://github.com/VolkanSah/Implementierung-von-KI-Systemen-Whitepaper)
 
-### Social Networks (updated 2023)
+#### Social Networks (updated 2023)
 [Instagram Suspicious Followers Detection](https://github.com/VolkanSah/Instagram-Suspicious-Followers-Detection) • 
 [Best Human Like - Instagram Unfollower](https://github.com/VolkanSah/Human-like-Instagram-Unfollower)
 
-### WordPress (updated 2023) 
+#### WordPress (updated 2023) 
  [WordPress Security with WPScan (advanced usage](https://github.com/VolkanSah/wpscan-advanced-use) • [Facebook Engagement Metrics (lite) Plugin](https://github.com/VolkanSah/WP-Facebook-Engagement-Metrics) • [Comements Reply with ChatGPT](https://github.com/VolkanSah/ChatGPT-Comments-Reply-WordPress-Plugin) • [Upload (admin only)](https://github.com/VolkanSah/Media-Upload-only-for-Admins-in-WordPress)
 
 ### Want learn hacking ? 
@@ -83,5 +83,3 @@ Olumsuzluklara karşı mücadele etmek, insanlığın yararına ilerlemek,
 Rakiplerimin bile üstesinden gelebilirim, gözlerim hep yarına bakar.
 Akrostichon Copyright by Volkan Kücükbudak
 ```
-## (always 4 free)
-[![ChatGPT comment reply plugin](img/wp-chatgpt-comments-reply.jpg)](https://github.com/VolkanSah/ChatGPT-Comments-Reply-WordPress-Plugin)
