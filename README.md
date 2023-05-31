@@ -55,6 +55,7 @@ php?>start sorting ;)
 
 ### Papers
 soon more, sorry to much to update
+
 [ChatGPT Security Best Practices](https://github.com/VolkanSah/ChatGPT-Security-Best-Practices) • [Implementation of Artificial Intelligence (AI)](https://github.com/VolkanSah/Implementing-AI-Systems-Whitepaper) • [Implementierung von Künstlicher Intelligenz (KI)](https://github.com/VolkanSah/Implementierung-von-KI-Systemen-Whitepaper)
 
 ### Social Networks (updated 2023)
