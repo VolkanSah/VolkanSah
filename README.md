@@ -63,11 +63,11 @@ soon, sorry to much to update
 ### WordPress (updated 2023) 
  [WordPress Security with WPScan (advanced usage](https://github.com/VolkanSah/wpscan-advanced-use) • [Facebook Engagement Metrics (lite) Plugin](https://github.com/VolkanSah/WP-Facebook-Engagement-Metrics) • [Comements Reply with ChatGPT](https://github.com/VolkanSah/ChatGPT-Comments-Reply-WordPress-Plugin) • [Upload (admin only)](https://github.com/VolkanSah/Media-Upload-only-for-Admins-in-WordPress)
 
-#### want learn hacking ? 
+### Want learn hacking ? 
 for educational and ethical purposes only.
-### Offensive
+#### Offensive
 [The Extractor (GHDB) lite](https://github.com/VolkanSah/The_Extractor.py) • [The Collector](https://github.com/VolkanSah/The_Collector.py) • [PoisonIvory (lite)](https://github.com/VolkanSah/PoisonIvory-lite) • [run multiple TOR instances](https://github.com/VolkanSah/run-multiple-Tor-instances) • [SQLp-XSS](https://github.com/VolkanSah/SQLp-EDU) • [JADE Example](https://github.com/VolkanSah/JADE-edu) • [NMAP (Black Python)](https://github.com/VolkanSah/NMAP-Black-Python) • [SherlocksHome - Get all Bastards!](https://github.com/VolkanSah/SherlocksHome)
-### Defensive
+#### Defensive
 [Ransomware Defense Script](https://github.com/VolkanSah/Ransomware-Defense-Script-Example/)
 
 
