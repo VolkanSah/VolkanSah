@@ -51,6 +51,9 @@ php?>start sorting ;)
 [monitoring and restarting services](https://github.com/VolkanSah/Bash-script-for-monitoring-and-restarting-services) • 
 [Monitoring Outgoing TCP-Connections](https://github.com/VolkanSah/Monitoring-outgoing-connections) • [Debian-Based AI Developer Server](https://github.com/VolkanSah/Debian-Based-AI-Developer-Server)
 
+## WEB
+[simple small lazyload function](https://github.com/VolkanSah/simple-lazyload-function) • [Web Interface for Running Python Scripts](https://github.com/VolkanSah/Web-Interface-for-Running-Python-Scripts)
+
 
 #### Papers
 -> soon more, sorry to much to update <-
