@@ -47,8 +47,7 @@ php?>start sorting ;)
 [Several ways to optimize MySQL or MariaDB for performance](https://github.com/VolkanSah/optimize-MySQL-or-MariaDB) • 
 [encode and decode files in PHP 8](https://github.com/VolkanSah/encode-and-decode-php8) • 
 [ModSecurity-rule-to-block-SQL-injection-attacks-in-PHP](https://github.com/VolkanSah/ModSecurity-rule-to-block-SQL-injection-attacks-in-PHP) • 
-[monitoring and restarting services](https://github.com/VolkanSah/Bash-script-for-monitoring-and-restarting-services) • 
-[Monitoring Outgoing TCP-Connections](https://github.com/VolkanSah/Monitoring-outgoing-connections) • [Debian-Based AI Developer Server](https://github.com/VolkanSah/Debian-Based-AI-Developer-Server)
+[monitoring and restarting services](https://github.com/VolkanSah/Bash-script-for-monitoring-and-restarting-services)  • [Debian-Based AI Developer Server](https://github.com/VolkanSah/Debian-Based-AI-Developer-Server)
 
 #### WEB
 [simple small lazyload function](https://github.com/VolkanSah/simple-lazyload-function) • [Web Interface for Running Python Scripts](https://github.com/VolkanSah/Web-Interface-for-Running-Python-Scripts)
@@ -71,7 +70,8 @@ for educational and ethical purposes only.
 #### Offensive
 [The Extractor (GHDB) lite](https://github.com/VolkanSah/The_Extractor.py) • [The Collector](https://github.com/VolkanSah/The_Collector.py) • [PoisonIvory (lite)](https://github.com/VolkanSah/PoisonIvory-lite) • [run multiple TOR instances](https://github.com/VolkanSah/run-multiple-Tor-instances) • [SQLp-XSS](https://github.com/VolkanSah/SQLp-EDU) • [JADE Example](https://github.com/VolkanSah/JADE-edu) • [NMAP (Black Python)](https://github.com/VolkanSah/NMAP-Black-Python) • [SherlocksHome - Get all Bastards!](https://github.com/VolkanSah/SherlocksHome)
 #### Defensive
-[Ransomware Defense Script](https://github.com/VolkanSah/Ransomware-Defense-Script-Example/)
+[Ransomware Defense Script](https://github.com/VolkanSah/Ransomware-Defense-Script-Example/) • 
+[Monitoring Outgoing TCP-Connections](https://github.com/VolkanSah/Monitoring-outgoing-connections)
 
 
 ## Misk
