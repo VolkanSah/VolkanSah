@@ -1,5 +1,4 @@
-##### a bit about me
-[My Github Site](https://volkansah.github.io) •  [Become a sponsor](https://github.com/sponsors/VolkanSah) • [about me](https://github.com/VolkanSah/About-Me) • [one of my hobbies](https://anna-ps.de) • [one reason for my development](https://jugendamt-deutschland.de) • [NCF](https://github.com/NemesisCyberForce)
+[Github Site](https://volkansah.github.io)  • [about me](https://github.com/VolkanSah/About-Me)  • [one reason for my development](https://jugendamt-deutschland.de) • [NCF](https://github.com/NemesisCyberForce) •  [Become a sponsor](https://github.com/sponsors/VolkanSah)
 ```python
 
      __                __    .__  .__ __           
