@@ -1,7 +1,6 @@
 [![ChatGPt Shellmaster](img/chatgpt-shellmaster.png)](https://github.com/VolkanSah/ChatGPT-ShellMaster)
 #### [Github Site](https://volkansah.github.io)  • [ME!](https://github.com/VolkanSah/About-Me)  • [one reason for my development](https://jugendamt-deutschland.de) • [NCF](https://github.com/NemesisCyberForce) •  [Become a sponsor](https://github.com/sponsors/VolkanSah)
 ### Table of my own content
-- [About Me](#about-me)
 - [For Remember - I get old](#for-remember-i-get-old)
 - [Server Security & Performance](#server-security--performance)
 - [Web](#web)
@@ -49,7 +48,7 @@
 
 php?>start sorting ;)
 
-#### for remember, i get old! (good for beginners) update 2023
+#### for remember, i get old
 [Python-Modules-Overview](https://github.com/VolkanSah/Python-Modules-Overview) • [Pythonn XPath Tutorial](https://github.com/VolkanSah/Python-XPath-Tutorial) • [JavaScript XPath Tutorial](https://github.com/VolkanSah/JavaScript-XPath-Tutorial) • [PHP Libraries Overview](https://github.com/VolkanSah/PHP-Libraries-Overview)
 
 #### Server Security & Performance (updated 2023)
@@ -78,7 +77,7 @@ php?>start sorting ;)
 #### WordPress
  [WordPress Security with WPScan (advanced usage](https://github.com/VolkanSah/wpscan-advanced-use) • [Facebook Engagement Metrics (lite) Plugin](https://github.com/VolkanSah/WP-Facebook-Engagement-Metrics) • [Comements Reply with ChatGPT](https://github.com/VolkanSah/ChatGPT-Comments-Reply-WordPress-Plugin) • [Upload (admin only)](https://github.com/VolkanSah/Media-Upload-only-for-Admins-in-WordPress)
 
-### Want learn hacking ? 
+### Want learn hacking
 for educational and ethical purposes only.
 #### Offensive
 [The Extractor (GHDB) lite](https://github.com/VolkanSah/The_Extractor.py) • [The Collector](https://github.com/VolkanSah/The_Collector.py) • [PoisonIvory (lite)](https://github.com/VolkanSah/PoisonIvory-lite) • [run multiple TOR instances](https://github.com/VolkanSah/run-multiple-Tor-instances) • [SQLp-XSS](https://github.com/VolkanSah/SQLp-EDU) • [JADE Example](https://github.com/VolkanSah/JADE-edu) • [NMAP (Black Python)](https://github.com/VolkanSah/NMAP-Black-Python) • [SherlocksHome - Get all Bastards!](https://github.com/VolkanSah/SherlocksHome)
