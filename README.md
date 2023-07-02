@@ -87,3 +87,15 @@ Olumsuzluklara karşı mücadele etmek, insanlığın yararına ilerlemek,
 Rakiplerimin bile üstesinden gelebilirim, gözlerim hep yarına bakar.
 Akrostichon Copyright by Volkan Kücükbudak
 ```
+
+<div style="display: flex; justify-content: space-around;">
+    <a href="https://github.com/username/project1">
+        <img src="https://example.com/image1.png" alt="Project 1" style="width: 200px;">
+    </a>
+    <a href="https://github.com/username/project2">
+        <img src="https://example.com/image2.png" alt="Project 2" style="width: 200px;">
+    </a>
+    <a href="https://github.com/username/project3">
+        <img src="https://example.com/image3.png" alt="Project 3" style="width: 200px;">
+    </a>
+</div>
