@@ -39,7 +39,6 @@
 
 php?>start sorting ;)
 ### Table of my own content
-- [For Remember - I get old](#for-remember--i-get-old)
 - [Server Security and Performance](#server-security-and-performance)
 - [Web](#web)
 - [Papers](#papers)
@@ -48,8 +47,7 @@ php?>start sorting ;)
 - [Learn Hacking](#learn-hacking)
 - [Misk](#misk)
 
-#### for remember - i get old
-[Python-Modules-Overview](https://github.com/VolkanSah/Python-Modules-Overview) • [Pythonn XPath Tutorial](https://github.com/VolkanSah/Python-XPath-Tutorial) • [JavaScript XPath Tutorial](https://github.com/VolkanSah/JavaScript-XPath-Tutorial) • [PHP Libraries Overview](https://github.com/VolkanSah/PHP-Libraries-Overview)
+
 
 #### Server Security and Performance
 [ModSecurity Webserver Protection Guide](https://github.com/VolkanSah/ModSecurity-Webserver-Protection-Guide) • 
@@ -96,15 +94,6 @@ Olumsuzluklara karşı mücadele etmek, insanlığın yararına ilerlemek,
 Rakiplerimin bile üstesinden gelebilirim, gözlerim hep yarına bakar.
 Akrostichon Copyright by Volkan Kücükbudak
 ```
+#### for remember - i get old
+[Python-Modules-Overview](https://github.com/VolkanSah/Python-Modules-Overview) • [Pythonn XPath Tutorial](https://github.com/VolkanSah/Python-XPath-Tutorial) • [JavaScript XPath Tutorial](https://github.com/VolkanSah/JavaScript-XPath-Tutorial) • [PHP Libraries Overview](https://github.com/VolkanSah/PHP-Libraries-Overview)
 
-<div style="display: flex; justify-content: space-around;">
-    <a href="https://github.com/username/project1">
-        <img src="https://example.com/image1.png" alt="Project 1" style="width: 200px;">
-    </a>
-    <a href="https://github.com/username/project2">
-        <img src="https://example.com/image2.png" alt="Project 2" style="width: 200px;">
-    </a>
-    <a href="https://github.com/username/project3">
-        <img src="https://example.com/image3.png" alt="Project 3" style="width: 200px;">
-    </a>
-</div>
