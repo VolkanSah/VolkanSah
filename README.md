@@ -98,7 +98,7 @@ Akrostichon Copyright by Volkan Kücükbudak
 #### for remember - i get old
 [Python-Modules-Overview](https://github.com/VolkanSah/Python-Modules-Overview) • [Pythonn XPath Tutorial](https://github.com/VolkanSah/Python-XPath-Tutorial) • [JavaScript XPath Tutorial](https://github.com/VolkanSah/JavaScript-XPath-Tutorial) • [PHP Libraries Overview](https://github.com/VolkanSah/PHP-Libraries-Overview)
 ## GPT
-[ChatGPT Plugin `ShellMaster`](https://github.com/VolkanSah/ChatGPT-ShellMaster)
+[ChatGPT ShellMaster](https://github.com/VolkanSah/ChatGPT-ShellMaster)
  • [Comments Reply with GPT (davinci3)](https://github.com/VolkanSah/GPT-Comments-Reply-WordPress-Plugin)
  • [Secure Implementation of Artificial Intelligence (AI)](https://github.com/VolkanSah/Implementing-AI-Systems-Whitepaper)
  • [Basic GPT Webinterface](https://github.com/VolkanSah/GPT-API-Integration-in-HTML-CSS-with-JS-PHP)
