@@ -46,6 +46,7 @@ php?>start sorting ;)
 - [WordPress](#wordpress)
 - [Learn Hacking](#learn-hacking)
 - [Misk](#misk)
+- [GPT](#gpt)
 
 
 
@@ -66,14 +67,14 @@ php?>start sorting ;)
 #### Papers
 -> soon more, sorry to much to update <-
 
-[ChatGPT Security Best Practices](https://github.com/VolkanSah/ChatGPT-Security-Best-Practices) • [Implementation of Artificial Intelligence (AI)](https://github.com/VolkanSah/Implementing-AI-Systems-Whitepaper) • [Implementierung von Künstlicher Intelligenz (KI)](https://github.com/VolkanSah/Implementierung-von-KI-Systemen-Whitepaper)
+[GPT Security Best Practices](https://github.com/VolkanSah/GPT-Security-Best-Practices) • [Implementation of Artificial Intelligence (AI)](https://github.com/VolkanSah/Implementing-AI-Systems-Whitepaper) • [Implementierung von Künstlicher Intelligenz (KI)](https://github.com/VolkanSah/Implementierung-von-KI-Systemen-Whitepaper)
 
 #### Social Networks
 [Instagram Suspicious Followers Detection](https://github.com/VolkanSah/Instagram-Suspicious-Followers-Detection) • 
 [Best Human Like - Instagram Unfollower](https://github.com/VolkanSah/Human-like-Instagram-Unfollower)
 
 #### WordPress
- [WordPress Security with WPScan (advanced usage](https://github.com/VolkanSah/wpscan-advanced-use) • [Facebook Engagement Metrics (lite) Plugin](https://github.com/VolkanSah/WP-Facebook-Engagement-Metrics) • [Comements Reply with ChatGPT](https://github.com/VolkanSah/ChatGPT-Comments-Reply-WordPress-Plugin) • [Upload (admin only)](https://github.com/VolkanSah/Media-Upload-only-for-Admins-in-WordPress)
+ [WordPress Security with WPScan (advanced usage](https://github.com/VolkanSah/wpscan-advanced-use) • [Facebook Engagement Metrics (lite) Plugin](https://github.com/VolkanSah/WP-Facebook-Engagement-Metrics) • [Comements Reply with GPT](https://github.com/VolkanSah/GPT-Comments-Reply-WordPress-Plugin) • [Upload (admin only)](https://github.com/VolkanSah/Media-Upload-only-for-Admins-in-WordPress)
 
 ### Learn hacking
 for educational and ethical purposes only.
@@ -96,4 +97,13 @@ Akrostichon Copyright by Volkan Kücükbudak
 ```
 #### for remember - i get old
 [Python-Modules-Overview](https://github.com/VolkanSah/Python-Modules-Overview) • [Pythonn XPath Tutorial](https://github.com/VolkanSah/Python-XPath-Tutorial) • [JavaScript XPath Tutorial](https://github.com/VolkanSah/JavaScript-XPath-Tutorial) • [PHP Libraries Overview](https://github.com/VolkanSah/PHP-Libraries-Overview)
+## GPT
+- [ChatGPT Plugin `ShellMaster`](https://github.com/VolkanSah/ChatGPT-ShellMaster)
+- [Comments Reply with GPT (davinci3)](https://github.com/VolkanSah/GPT-Comments-Reply-WordPress-Plugin)
+- [Secure Implementation of Artificial Intelligence (AI)](https://github.com/VolkanSah/Implementing-AI-Systems-Whitepaper)
+- [Basic GPT Webinterface](https://github.com/VolkanSah/GPT-API-Integration-in-HTML-CSS-with-JS-PHP)
+- [GPT-Security-Best-Practices](https://github.com/VolkanSah/GPT-Security-Best-Practices)
+- [OpenAi cost calculator](https://github.com/VolkanSah/OpenAI-Cost-Calculator)
+- [GPT over CLI](https://github.com/VolkanSah/GPT-over-CLI)
+
 
