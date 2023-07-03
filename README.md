@@ -45,8 +45,9 @@ php?>start sorting ;)
 - [Social Networks](#social-networks)
 - [WordPress](#wordpress)
 - [Learn Hacking](#learn-hacking)
-- [Misk](#misk)
 - [GPT](#gpt)
+- [Misk](#misk)
+
 
 
 
@@ -84,8 +85,16 @@ for educational and ethical purposes only.
 [Ransomware Defense Script](https://github.com/VolkanSah/Ransomware-Defense-Script-Example/) • 
 [Monitoring Outgoing TCP-Connections](https://github.com/VolkanSah/Monitoring-outgoing-connections)
 
+## GPT
+[ChatGPT ShellMaster](https://github.com/VolkanSah/ChatGPT-ShellMaster)
+ • [Comments Reply with GPT (davinci3)](https://github.com/VolkanSah/GPT-Comments-Reply-WordPress-Plugin)
+ • [Secure Implementation of Artificial Intelligence (AI)](https://github.com/VolkanSah/Implementing-AI-Systems-Whitepaper)
+ • [Basic GPT Webinterface](https://github.com/VolkanSah/GPT-API-Integration-in-HTML-CSS-with-JS-PHP)
+ • [GPT-Security-Best-Practices](https://github.com/VolkanSah/GPT-Security-Best-Practices)
+ • [OpenAi cost calculator](https://github.com/VolkanSah/OpenAI-Cost-Calculator)
+ • [GPT over CLI](https://github.com/VolkanSah/GPT-over-CLI)
 
-## Misk
+ ## Misk
 ```
 Dünyayı değiştirmek, her ne kadar zor olsa da,
 Üstün yeteneklerim olmasa bile, kararlıyım ben bu yolda.
@@ -95,15 +104,7 @@ Olumsuzluklara karşı mücadele etmek, insanlığın yararına ilerlemek,
 Rakiplerimin bile üstesinden gelebilirim, gözlerim hep yarına bakar.
 Akrostichon Copyright by Volkan Kücükbudak
 ```
-#### for remember - i get old
+#### for remember - i get old good for beginners!
 [Python-Modules-Overview](https://github.com/VolkanSah/Python-Modules-Overview) • [Pythonn XPath Tutorial](https://github.com/VolkanSah/Python-XPath-Tutorial) • [JavaScript XPath Tutorial](https://github.com/VolkanSah/JavaScript-XPath-Tutorial) • [PHP Libraries Overview](https://github.com/VolkanSah/PHP-Libraries-Overview)
-## GPT
-[ChatGPT ShellMaster](https://github.com/VolkanSah/ChatGPT-ShellMaster)
- • [Comments Reply with GPT (davinci3)](https://github.com/VolkanSah/GPT-Comments-Reply-WordPress-Plugin)
- • [Secure Implementation of Artificial Intelligence (AI)](https://github.com/VolkanSah/Implementing-AI-Systems-Whitepaper)
- • [Basic GPT Webinterface](https://github.com/VolkanSah/GPT-API-Integration-in-HTML-CSS-with-JS-PHP)
- • [GPT-Security-Best-Practices](https://github.com/VolkanSah/GPT-Security-Best-Practices)
- • [OpenAi cost calculator](https://github.com/VolkanSah/OpenAI-Cost-Calculator)
- • [GPT over CLI](https://github.com/VolkanSah/GPT-over-CLI)
 
 
