@@ -111,8 +111,6 @@ for educational and ethical purposes only.
  • [GPT over CLI](https://github.com/VolkanSah/GPT-over-CLI)
 
  ## Misk
-
- • [OpenAI-Cost-Calculator](https://github.com/VolkanSah/OpenAI-Cost-Calculator)
 ```
 Dünyayı değiştirmek, her ne kadar zor olsa da,
 Üstün yeteneklerim olmasa bile, kararlıyım ben bu yolda.
