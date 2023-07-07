@@ -51,36 +51,52 @@ php?>start sorting ;)
 
 
 
-#### Server Security and Performance
-[ModSecurity Webserver Protection Guide](https://github.com/VolkanSah/ModSecurity-Webserver-Protection-Guide) • 
-[Install Apache2 with Nginx Reverse Proxy and Let's Encrypt SSL](https://github.com/VolkanSah/Apache2-with-Nginx-Reverse-Proxy-and-Let-s-Encrypt-SSL-on-Debian-Ubuntu) • 
-[Writethrough caching](https://github.com/VolkanSah/writethrough-caching) • [Advanced RAM use](https://github.com/VolkanSah/advanced-RAM-use-on-Bash-installed-systems) • 
-[Optimize your Samba Server](https://github.com/VolkanSah/optimize-Samba-settings) • 
-[Several ways to optimize MySQL or MariaDB for performance](https://github.com/VolkanSah/optimize-MySQL-or-MariaDB) • 
-[encode and decode files in PHP 8](https://github.com/VolkanSah/encode-and-decode-php8) • 
-[ModSecurity-rule-to-block-SQL-injection-attacks-in-PHP](https://github.com/VolkanSah/ModSecurity-rule-to-block-SQL-injection-attacks-in-PHP) • 
-[monitoring and restarting services](https://github.com/VolkanSah/Bash-script-for-monitoring-and-restarting-services)  • [Debian-Based AI Developer Server](https://github.com/VolkanSah/Debian-Based-AI-Developer-Server)
+#### Server (Security and Performance and more)
+[ModSecurity Webserver Protection Guide](https://github.com/VolkanSah/ModSecurity-Webserver-Protection-Guide) 
+• [Install Apache2 with Nginx Reverse Proxy and Let's Encrypt SSL](https://github.com/VolkanSah/Apache2-with-Nginx-Reverse-Proxy-and-Let-s-Encrypt-SSL-on-Debian-Ubuntu) 
+• [Writethrough caching](https://github.com/VolkanSah/writethrough-caching) 
+• [Advanced RAM use](https://github.com/VolkanSah/advanced-RAM-use-on-Bash-installed-systems) 
+• [Optimize your Samba Server](https://github.com/VolkanSah/optimize-Samba-settings) 
+• [Several ways to optimize MySQL or MariaDB for performance](https://github.com/VolkanSah/optimize-MySQL-or-MariaDB) 
+• [encode and decode files in PHP 8](https://github.com/VolkanSah/encode-and-decode-php8) 
+• [ModSecurity-rule-to-block-SQL-injection-attacks-in-PHP](https://github.com/VolkanSah/ModSecurity-rule-to-block-SQL-injection-attacks-in-PHP) 
+• [monitoring and restarting services](https://github.com/VolkanSah/Bash-script-for-monitoring-and-restarting-services)  
+• [Debian-Based AI Developer Server](https://github.com/VolkanSah/Debian-Based-AI-Developer-Server) 
+• [Python Script Runner Debugger](https://github.com/VolkanSah/Python-Script-Runner-Debugger)
 
 #### WEB
-[simple small lazyload function](https://github.com/VolkanSah/simple-lazyload-function) • [Web Interface for Running Python Scripts](https://github.com/VolkanSah/Web-Interface-for-Running-Python-Scripts)
+[simple small lazyload function](https://github.com/VolkanSah/simple-lazyload-function) 
+• [Web Interface for Running Python Scripts](https://github.com/VolkanSah/Web-Interface-for-Running-Python-Scripts)
 
 
 #### Papers
 -> soon more, sorry to much to update <-
 
-[GPT Security Best Practices](https://github.com/VolkanSah/GPT-Security-Best-Practices) • [Implementation of Artificial Intelligence (AI)](https://github.com/VolkanSah/Implementing-AI-Systems-Whitepaper) • [Implementierung von Künstlicher Intelligenz (KI)](https://github.com/VolkanSah/Implementierung-von-KI-Systemen-Whitepaper)
+[GPT Security Best Practices](https://github.com/VolkanSah/GPT-Security-Best-Practices) 
+• [Implementation of Artificial Intelligence (AI)](https://github.com/VolkanSah/Implementing-AI-Systems-Whitepaper) 
+• [Implementierung von Künstlicher Intelligenz (KI)](https://github.com/VolkanSah/Implementierung-von-KI-Systemen-Whitepaper)
 
 #### Social Networks
 [Instagram Suspicious Followers Detection](https://github.com/VolkanSah/Instagram-Suspicious-Followers-Detection) • 
-[Best Human Like - Instagram Unfollower](https://github.com/VolkanSah/Human-like-Instagram-Unfollower)
+[Human Like - Instagram Unfollower](https://github.com/VolkanSah/Human-like-Instagram-Unfollower)
 
 #### WordPress
- [WordPress Security with WPScan (advanced usage](https://github.com/VolkanSah/wpscan-advanced-use) • [Facebook Engagement Metrics (lite) Plugin](https://github.com/VolkanSah/WP-Facebook-Engagement-Metrics) • [Comements Reply with GPT](https://github.com/VolkanSah/GPT-Comments-Reply-WordPress-Plugin) • [Upload (admin only)](https://github.com/VolkanSah/Media-Upload-only-for-Admins-in-WordPress)
+ [WordPress Security with WPScan (advanced usage)](https://github.com/VolkanSah/wpscan-advanced-use) 
+ • [Facebook Engagement Metrics (lite) Plugin](https://github.com/VolkanSah/WP-Facebook-Engagement-Metrics) 
+ • [Comements Reply with GPT](https://github.com/VolkanSah/GPT-Comments-Reply-WordPress-Plugin) 
+ • [Upload (admin only)](https://github.com/VolkanSah/Media-Upload-only-for-Admins-in-WordPress)
 
 ### Learn hacking
 for educational and ethical purposes only.
 #### Offensive
-[The Extractor (GHDB) lite](https://github.com/VolkanSah/The_Extractor.py) • [The Collector](https://github.com/VolkanSah/The_Collector.py) • [PoisonIvory (lite)](https://github.com/VolkanSah/PoisonIvory-lite) • [run multiple TOR instances](https://github.com/VolkanSah/run-multiple-Tor-instances) • [SQLp-XSS](https://github.com/VolkanSah/SQLp-EDU) • [JADE Example](https://github.com/VolkanSah/JADE-edu) • [NMAP (Black Python)](https://github.com/VolkanSah/NMAP-Black-Python) • [SherlocksHome - Get all Bastards!](https://github.com/VolkanSah/SherlocksHome)
+[The Extractor (GHDB) lite](https://github.com/VolkanSah/The_Extractor.py) 
+• [The Collector](https://github.com/VolkanSah/The_Collector.py) 
+• [PoisonIvory (lite)](https://github.com/VolkanSah/PoisonIvory-lite) 
+• [run multiple TOR instances](https://github.com/VolkanSah/run-multiple-Tor-instances) 
+• [SQLp-XSS](https://github.com/VolkanSah/SQLp-EDU) • [JADE Example](https://github.com/VolkanSah/JADE-edu) 
+• [NMAP (Black Python)](https://github.com/VolkanSah/NMAP-Black-Python) 
+• [SherlocksHome - Get all Bastards!](https://github.com/VolkanSah/SherlocksHome) 
+• [Stem_Log](https://github.com/VolkanSah/Stem-local-log.py)
 #### Defensive
 [Ransomware Defense Script](https://github.com/VolkanSah/Ransomware-Defense-Script-Example/) • 
 [Monitoring Outgoing TCP-Connections](https://github.com/VolkanSah/Monitoring-outgoing-connections)
@@ -95,6 +111,8 @@ for educational and ethical purposes only.
  • [GPT over CLI](https://github.com/VolkanSah/GPT-over-CLI)
 
  ## Misk
+
+ • [OpenAI-Cost-Calculator](https://github.com/VolkanSah/OpenAI-Cost-Calculator)
 ```
 Dünyayı değiştirmek, her ne kadar zor olsa da,
 Üstün yeteneklerim olmasa bile, kararlıyım ben bu yolda.
@@ -105,6 +123,9 @@ Rakiplerimin bile üstesinden gelebilirim, gözlerim hep yarına bakar.
 Akrostichon Copyright by Volkan Kücükbudak
 ```
 #### for remember - i get old good for beginners!
-[Python-Modules-Overview](https://github.com/VolkanSah/Python-Modules-Overview) • [Pythonn XPath Tutorial](https://github.com/VolkanSah/Python-XPath-Tutorial) • [JavaScript XPath Tutorial](https://github.com/VolkanSah/JavaScript-XPath-Tutorial) • [PHP Libraries Overview](https://github.com/VolkanSah/PHP-Libraries-Overview)
+[Python-Modules-Overview](https://github.com/VolkanSah/Python-Modules-Overview) 
+• [Pythonn XPath Tutorial](https://github.com/VolkanSah/Python-XPath-Tutorial) 
+• [JavaScript XPath Tutorial](https://github.com/VolkanSah/JavaScript-XPath-Tutorial) 
+• [PHP Libraries Overview](https://github.com/VolkanSah/PHP-Libraries-Overview)
 
 
