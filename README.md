@@ -21,6 +21,8 @@
 
 ## New released
 [![ChatGPt Shellmaster](img/chatgpt-shellmaster1.png)](https://github.com/VolkanSah/ChatGPT-ShellMaster)
+[![Comments Reply with GPT](img/screenshot.png)](https://github.com/VolkanSah/GPT-Comments-Reply-WordPress-Plugin)
+
 
 php?>start sorting ;)
 ### Table of my own content
