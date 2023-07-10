@@ -67,6 +67,9 @@ php?>start sorting ;)
 [Human Like - Instagram Unfollower](https://github.com/VolkanSah/Human-like-Instagram-Unfollower)
 
 #### WordPress
+##### New released
+[![Comments Reply with GPT](img/screenshot.png)](https://github.com/VolkanSah/GPT-Comments-Reply-WordPress-Plugin)
+
  [WordPress Security with WPScan (advanced usage)](https://github.com/VolkanSah/wpscan-advanced-use) 
  • [Facebook Engagement Metrics (lite) Plugin](https://github.com/VolkanSah/WP-Facebook-Engagement-Metrics) 
  • [Comements Reply with GPT](https://github.com/VolkanSah/GPT-Comments-Reply-WordPress-Plugin) 
@@ -114,7 +117,7 @@ Akrostichon Copyright by Volkan Kücükbudak
 • [PHP Libraries Overview](https://github.com/VolkanSah/PHP-Libraries-Overview)
 • [Handling (big) files wit Python](https://github.com/VolkanSah/Python-Command-Overview-for-handling-files)
 
-[![Comments Reply with GPT](img/screenshot.png)](https://github.com/VolkanSah/GPT-Comments-Reply-WordPress-Plugin)
+
 
 
 
