@@ -61,6 +61,11 @@ php?>start sorting 😅
 [GPT Security Best Practices](https://github.com/VolkanSah/GPT-Security-Best-Practices) 
 • [Implementation of Artificial Intelligence (AI)](https://github.com/VolkanSah/Implementing-AI-Systems-Whitepaper) 
 • [Implementierung von Künstlicher Intelligenz (KI)](https://github.com/VolkanSah/Implementierung-von-KI-Systemen-Whitepaper)
+• [Python-Modules-Overview](https://github.com/VolkanSah/Python-Modules-Overview) 
+• [Pythonn XPath Tutorial](https://github.com/VolkanSah/Python-XPath-Tutorial) 
+• [JavaScript XPath Tutorial](https://github.com/VolkanSah/JavaScript-XPath-Tutorial) 
+• [PHP Libraries Overview](https://github.com/VolkanSah/PHP-Libraries-Overview)
+• [Handling (big) files wit Python](https://github.com/VolkanSah/Python-Command-Overview-for-handling-files)
 
 #### Social Networks
 [Instagram Suspicious Followers Detection](https://github.com/VolkanSah/Instagram-Suspicious-Followers-Detection) • 
@@ -110,12 +115,6 @@ Olumsuzluklara karşı mücadele etmek, insanlığın yararına ilerlemek,
 Rakiplerimin bile üstesinden gelebilirim, gözlerim hep yarına bakar.
 Akrostichon Copyright by Volkan Kücükbudak
 ```
-#### for remember - i get old good for beginners!
-[Python-Modules-Overview](https://github.com/VolkanSah/Python-Modules-Overview) 
-• [Pythonn XPath Tutorial](https://github.com/VolkanSah/Python-XPath-Tutorial) 
-• [JavaScript XPath Tutorial](https://github.com/VolkanSah/JavaScript-XPath-Tutorial) 
-• [PHP Libraries Overview](https://github.com/VolkanSah/PHP-Libraries-Overview)
-• [Handling (big) files wit Python](https://github.com/VolkanSah/Python-Command-Overview-for-handling-files)
 
 
 
