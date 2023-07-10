@@ -128,4 +128,6 @@ Akrostichon Copyright by Volkan Kücükbudak
 • [PHP Libraries Overview](https://github.com/VolkanSah/PHP-Libraries-Overview)
 • [Handling (big) files wit Python](https://github.com/VolkanSah/Python-Command-Overview-for-handling-files)
 
+![Do not toy with me, for you might not like how I play back](img/volkan_toy.png)
+
 
