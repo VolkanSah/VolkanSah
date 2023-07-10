@@ -21,7 +21,6 @@
 
 ## New released
 [![ChatGPt Shellmaster](img/chatgpt-shellmaster1.png)](https://github.com/VolkanSah/ChatGPT-ShellMaster)
-[![Comments Reply with GPT](img/screenshot.png)](https://github.com/VolkanSah/GPT-Comments-Reply-WordPress-Plugin)
 
 
 php?>start sorting ;)
@@ -114,6 +113,8 @@ Akrostichon Copyright by Volkan Kücükbudak
 • [JavaScript XPath Tutorial](https://github.com/VolkanSah/JavaScript-XPath-Tutorial) 
 • [PHP Libraries Overview](https://github.com/VolkanSah/PHP-Libraries-Overview)
 • [Handling (big) files wit Python](https://github.com/VolkanSah/Python-Command-Overview-for-handling-files)
+
+[![Comments Reply with GPT](img/screenshot.png)](https://github.com/VolkanSah/GPT-Comments-Reply-WordPress-Plugin)
 
 
 
