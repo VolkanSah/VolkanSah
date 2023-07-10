@@ -1,25 +1,9 @@
-[![ChatGPt Shellmaster](img/chatgpt-shellmaster1.png)](https://github.com/VolkanSah/ChatGPT-ShellMaster)
-### [Github Site](https://volkansah.github.io)  • [ME!](https://github.com/VolkanSah/About-Me)  • [one reason for my development](https://jugendamt-deutschland.de) • [NCF](https://github.com/NemesisCyberForce) •  [Become a sponsor](https://github.com/sponsors/VolkanSah)
+![Do not toy with me, for you might not like how I play back](img/volkan_toy.png)
+
+#### [Github Site](https://volkansah.github.io)  • [ME!](https://github.com/VolkanSah/About-Me)  • [one reason for my development](https://jugendamt-deutschland.de) • [NCF](https://github.com/NemesisCyberForce) •  [Become a sponsor](https://github.com/sponsors/VolkanSah)
 
 
-```python
-
-     __                __    .__  .__ __           
-    |__|__ __  _______/  |_  |  | |__|  | __ ____  
-    |  |  |  \/  ___/\   __\ |  | |  |  |/ // __ \ 
-    |  |  |  /\___ \  |  |   |  |_|  |    <\  ___/ 
-/\__|  |____//____  > |__|   |____/__|__|_ \\___  >
-\______|          \/                      \/    \/ 
-     __________         __                              
-     \______   \_____ _/  |_  _____ _____    ____       
-      |    |  _/\__  \\   __\/     \\__  \  /    \      
-      |    |   \ / __ \|  | |  Y Y  \/ __ \|   |  \     
-      |______  /(____  /__| |__|_|  (____  /___|  /     
-             \/      \/           \/     \/     \/      
-
-
-```
-"I may not possess any superpowers, but I'm determined to make the world a better place. Even though I know I can't change everything, I keep pushing forward for the greater good. And who knows, perhaps one day I'll even outsmart the ever-annoying Superman!"
+"Just like Batman! I may not possess any superpowers, but I'm determined to make the world a better place. Even though I know I can't change everything, I keep pushing forward for the greater good. And who knows, perhaps one day I'll even outsmart the ever-annoying Superman!"
 
 - DevOps+ 
 - love freedom -> not broken windows or rotten fruits 
@@ -35,7 +19,8 @@
 
 #### Since my birthday, this year (2023), my github account will be public. I see i get old! This is for you my son, so you know who your father really is. Ask your mom for the truth, please!
 
-
+## New released
+[![ChatGPt Shellmaster](img/chatgpt-shellmaster1.png)](https://github.com/VolkanSah/ChatGPT-ShellMaster)
 
 php?>start sorting ;)
 ### Table of my own content
@@ -128,6 +113,6 @@ Akrostichon Copyright by Volkan Kücükbudak
 • [PHP Libraries Overview](https://github.com/VolkanSah/PHP-Libraries-Overview)
 • [Handling (big) files wit Python](https://github.com/VolkanSah/Python-Command-Overview-for-handling-files)
 
-![Do not toy with me, for you might not like how I play back](img/volkan_toy.png)
+
 
 
