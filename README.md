@@ -23,7 +23,7 @@
 [![ChatGPt Shellmaster](img/chatgpt-shellmaster1.png)](https://github.com/VolkanSah/ChatGPT-ShellMaster)
 
 
-php?>start sorting ;)
+php?>start sorting 😅
 ### Table of my own content
 - [Server Security and Performance](#server-security-and-performance)
 - [Web](#web)
