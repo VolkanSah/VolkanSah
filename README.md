@@ -17,8 +17,6 @@
 - some privat repos will not longer stay privat in future
 - If you like my work, follow me, give me a star or become a sponsor
 
-#### Since my birthday, this year (2023), my github account will be public. I see i get old! This is for you my son, so you know who your father really is. Ask your mom for the truth, please!
-
 ## New released
 [![ChatGPt Shellmaster](img/chatgpt-shellmaster1.png)](https://github.com/VolkanSah/ChatGPT-ShellMaster)
 
