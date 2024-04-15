@@ -95,7 +95,7 @@ for educational and ethical purposes only.
 [Monitoring Outgoing TCP-Connections](https://github.com/VolkanSah/Monitoring-outgoing-connections)
 
 ## GPT
-[ChatGPT ShellMaster](https://github.com/VolkanSah/ChatGPT-ShellMaster)
+ • [ChatGPT ShellMaster](https://github.com/VolkanSah/ChatGPT-ShellMaster)
  • [Comments Reply with GPT (davinci3)](https://github.com/VolkanSah/GPT-Comments-Reply-WordPress-Plugin)
  • [Secure Implementation of Artificial Intelligence (AI)](https://github.com/VolkanSah/Implementing-AI-Systems-Whitepaper)
  • [Basic GPT Webinterface](https://github.com/VolkanSah/GPT-API-Integration-in-HTML-CSS-with-JS-PHP)
@@ -103,6 +103,7 @@ for educational and ethical purposes only.
  • [OpenAi cost calculator](https://github.com/VolkanSah/OpenAI-Cost-Calculator)
  • [GPT over CLI](https://github.com/VolkanSah/GPT-over-CLI)
  • [Exploring the Code Interpreter in OpenAI ChatGPT](https://github.com/VolkanSah/The-Code-Interpreter-in-OpenAI-ChatGPT)
+ •  [OpenAI-Text-to-Speech-Interface](https://github.com/VolkanSah/OpenAI-Text-to-Speech-Interface)
 
  ## Misk
 ```
