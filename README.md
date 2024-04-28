@@ -115,7 +115,7 @@ Olumsuzluklara karşı mücadele etmek, insanlığın yararına ilerlemek,
 Rakiplerimin bile üstesinden gelebilirim, gözlerim hep yarına bakar.
 Akrostichon Copyright by Volkan Kücükbudak
 ```
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=volkansah)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
