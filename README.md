@@ -79,6 +79,7 @@ php?>start sorting 😅
  • [Comements Reply with GPT](https://github.com/VolkanSah/GPT-Comments-Reply-WordPress-Plugin) 
  • [Upload (admin only)](https://github.com/VolkanSah/Media-Upload-only-for-Admins-in-WordPress)
  • [Admin Post-View "all"](https://github.com/VolkanSah/WP-Admin-Post-View-All)
+ • [Custom Fields Eraser (Manager)](https://github.com/VolkanSah/Custom-Fields-Eraser)
 
 ### Learn hacking
 for educational and ethical purposes only.
