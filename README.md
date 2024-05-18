@@ -106,6 +106,7 @@ for educational and ethical purposes only.
  • [GPT over CLI](https://github.com/VolkanSah/GPT-over-CLI)
  • [Exploring the Code Interpreter in OpenAI ChatGPT](https://github.com/VolkanSah/The-Code-Interpreter-in-OpenAI-ChatGPT)
  •  [OpenAI-Text-to-Speech-Interface](https://github.com/VolkanSah/OpenAI-Text-to-Speech-Interface)
+ • [Angular-GPT](https://github.com/VolkanSah/Angular-GPT)
 
  ## Misk
 ```
