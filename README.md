@@ -65,6 +65,7 @@ php?>start sorting 😅
 • [PHP Libraries Overview](https://github.com/VolkanSah/PHP-Libraries-Overview)
 • [Handling (big) files wit Python](https://github.com/VolkanSah/Python-Command-Overview-for-handling-files)
 • [Exploring the Code Interpreter in OpenAI ChatGPT](https://github.com/VolkanSah/The-Code-Interpreter-in-OpenAI-ChatGPT)
+• [The Power of "wget"](https://github.com/VolkanSah/Website-Backup-with-Wget)
 
 #### Social Networks
 [Instagram Suspicious Followers Detection](https://github.com/VolkanSah/Instagram-Suspicious-Followers-Detection) • 
