@@ -105,7 +105,7 @@ for educational and ethical purposes only.
  • [GPT-Security-Best-Practices](https://github.com/VolkanSah/GPT-Security-Best-Practices)
  • [OpenAi cost calculator](https://github.com/VolkanSah/OpenAI-Cost-Calculator)
  • [GPT over CLI](https://github.com/VolkanSah/GPT-over-CLI)
- • [Exploring the Code Interpreter in OpenAI ChatGPT](https://github.com/VolkanSah/The-Code-Interpreter-in-OpenAI-ChatGPT)
+ • [Exploring the Code Interpreter in OpenAI ChatGPT](https://volkansah.github.io/The-Code-Interpreter-in-OpenAI-GPT/)
  •  [OpenAI-Text-to-Speech-Interface](https://github.com/VolkanSah/OpenAI-Text-to-Speech-Interface)
  • [Angular-GPT](https://github.com/VolkanSah/Angular-GPT)
 
