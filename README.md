@@ -85,7 +85,7 @@ php?>start sorting 😅
 ### Learn hacking
 for educational and ethical purposes only.
 #### Offensive
-[The Extractor (GHDB) lite](https://github.com/VolkanSah/The_Extractor.py) 
+[The Extractor (GHDB) lite](https://volkansah.github.io/The_Extractor.py/)
 • [The Collector](https://github.com/VolkanSah/The_Collector.py) 
 • [PoisonIvory (lite)](https://github.com/VolkanSah/PoisonIvory-lite) 
 • [run multiple TOR instances](https://github.com/VolkanSah/run-multiple-Tor-instances) 
