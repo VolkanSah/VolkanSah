@@ -24,7 +24,7 @@
 
 ## New released
 [![ChatGPT Shellmaster](img/chatgpt-shellmaster1.png)](https://github.com/VolkanSah/ChatGPT-ShellMaster)
-  <img src="https://github-profile-trophy.vercel.app/?username=volkansah" style="width: 48%;"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=volkansah" style="width: 100%;"/>
 
 
 php?>start sorting 😅
