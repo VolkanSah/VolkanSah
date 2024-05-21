@@ -94,7 +94,7 @@ php?>start sorting 😅
 
 ## Learn Hacking
 
-For educational and ethical purposes only.
+For educational and ethical purposes only (more soon).
 
 ### Offensive
 
