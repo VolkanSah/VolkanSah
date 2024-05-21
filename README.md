@@ -82,16 +82,15 @@ php?>start sorting 😅
 
 ## WordPress
 
-### New released
-
-[![Comments Reply with GPT](img/screenshot.png)](https://github.com/VolkanSah/GPT-Comments-Reply-WordPress-Plugin)
-
 - [WordPress Security with WPScan (advanced usage)](https://github.com/VolkanSah/wpscan-advanced-use)
 - [Facebook Engagement Metrics (lite) Plugin](https://github.com/VolkanSah/WP-Facebook-Engagement-Metrics)
 - [Comments Reply with GPT](https://github.com/VolkanSah/GPT-Comments-Reply-WordPress-Plugin)
 - [Upload (admin only)](https://github.com/VolkanSah/Media-Upload-only-for-Admins-in-WordPress)
 - [Admin Post-View "all"](https://github.com/VolkanSah/WP-Admin-Post-View-All)
 - [Custom Fields Eraser (Manager)](https://github.com/VolkanSah/Custom-Fields-Eraser)
+
+## Typo3
+- soon sorry!
 
 ## Learn Hacking
 
@@ -142,6 +141,6 @@ Olumsuzluklara karşı mücadele etmek, insanlığın yararına ilerlemek,
 Rakiplerimin bile üstesinden gelebilirim, gözlerim hep yarına bakar.
 Akrostichon Copyright by Volkan Kücükbudak
 ```
-<img src="https://github-profile-trophy.vercel.app/?username=volkansah" style="width: 80%;"/>
+<img src="https://github-profile-trophy.vercel.app/?username=volkansah" style="width: 100%;"/>
 
 
