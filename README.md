@@ -24,7 +24,6 @@
 
 ## New released
 [![ChatGPT Shellmaster](img/chatgpt-shellmaster1.png)](https://github.com/VolkanSah/ChatGPT-ShellMaster)
-  <img src="https://github-profile-trophy.vercel.app/?username=volkansah" style="width: 100%;"/>
 
 
 php?>start sorting 😅
@@ -142,4 +141,15 @@ For educational and ethical purposes only.
 - [InteliLink](https://github.com/VolkanSah/InteliLink)
 
 ## Misk
+```
+Dünyayı değiştirmek, her ne kadar zor olsa da,
+Üstün yeteneklerim olmasa bile, kararlıyım ben bu yolda.
+Nefreti silmek, sevgiyi yüceltmek, her zaman amacım,
+Yaşamı kolaylaştırmak, başkalarına yardım etmek, kalbimdeki inançtır.
+Olumsuzluklara karşı mücadele etmek, insanlığın yararına ilerlemek,
+Rakiplerimin bile üstesinden gelebilirim, gözlerim hep yarına bakar.
+Akrostichon Copyright by Volkan Kücükbudak
+```
+<img src="https://github-profile-trophy.vercel.app/?username=volkansah" style="width: 80%;"/>
+
 
