@@ -41,12 +41,13 @@ php?>start sorting 😅
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=volkansah&show_icons=true&theme=radical" style="width: 48%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=volkansah&layout=compact" style="width: 48%;"/>
 
 </div>
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-profile-trophy.vercel.app/?username=volkansah" style="width: 48%;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=volkansah&theme=dark" style="width: 48%;"/>
+
 </div>
 
 ## Server (Security and Performance and more)
