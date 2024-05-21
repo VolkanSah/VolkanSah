@@ -34,7 +34,7 @@ php?>start sorting 😅
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=volkansah&show_icons=true&theme=radical" style="width: 48%;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=volkansah&theme=dark" style="width: 50%;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=volkansah&theme=dark" style="width: 51%;"/>
 
 </div>
 
