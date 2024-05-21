@@ -61,7 +61,7 @@ php?>start sorting 😅
 ## Papers
 
 - [GPT Security Best Practices](https://github.com/VolkanSah/GPT-Security-Best-Practices)
-- [Implementation of Artificial Intelligence (AI)](https://github.com/VolkanSah/Implementing-AI-Systems-Whitepaper)
+- [Implementation of Artificial Intelligence (AI)](https://volkansah.github.io/Implementing-AI-Systems-Whitepaper/)
 - [Implementierung von Künstlicher Intelligenz (KI)](https://github.com/VolkanSah/Implementierung-von-KI-Systemen-Whitepaper)
 - [Python Modules Overview](https://github.com/VolkanSah/Python-Modules-Overview)
 - [Python XPath Tutorial](https://github.com/VolkanSah/Python-XPath-Tutorial)
