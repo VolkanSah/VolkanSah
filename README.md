@@ -109,6 +109,9 @@ for educational and ethical purposes only.
  •  [OpenAI-Text-to-Speech-Interface](https://github.com/VolkanSah/OpenAI-Text-to-Speech-Interface)
  • [Angular-GPT](https://github.com/VolkanSah/Angular-GPT)
 
+ ## Bots
+ • [Twitter-X-AINewsBot](https://github.com/VolkanSah/Twitter-X-AINewsBot)
+
  ## Misk
 ```
 Dünyayı değiştirmek, her ne kadar zor olsa da,
