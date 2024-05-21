@@ -1,5 +1,3 @@
-# Hi there, I'm Volkan 👋
-
 ![GitHub Stars](https://img.shields.io/github/stars/VOLKANSAH?style=social)
 
 [![Do not toy with me, for you might not like how I play back](img/volkan_toy.png)](https://github.com/VOLKANSAH)
