@@ -1,4 +1,6 @@
-[![Do not toy with me, for you might not like how I play back](img/volkan_toy.png)](https://github.com/VOLKANSAH)
+[![Do not toy with me, for you might not like how I play back](img/nice-shit-dude.png)](https://github.com/VOLKANSAH)
+
+
 
 #### [![GitHub Stars](https://img.shields.io/github/stars/VOLKANSAH?style=social)](https://github.com/VOLKANSAH?tab=stars) 
 
@@ -88,6 +90,8 @@ php?>start sorting 😅
 ## Typo3
 - soon sorry!
 
+[![Do not toy with me, for you might not like how I play back](img/volkan_toy.png)](https://github.com/VOLKANSAH)
+
 ## Learn Hacking
 
 For educational and ethical purposes only.
@@ -138,5 +142,6 @@ Rakiplerimin bile üstesinden gelebilirim, gözlerim hep yarına bakar.
 Akrostichon Copyright by Volkan Kücükbudak
 ```
 <img src="https://github-profile-trophy.vercel.app/?username=volkansah" style="width: 100%;"/>
+
 
 
