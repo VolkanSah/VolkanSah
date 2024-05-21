@@ -22,10 +22,6 @@
 - Some private repos will not longer stay private in future
 - If you like my work, follow me, give me a star or become a sponsor
 
-## New released
-[![ChatGPT Shellmaster](img/chatgpt-shellmaster1.png)](https://github.com/VolkanSah/ChatGPT-ShellMaster)
-
-
 php?>start sorting 😅
 ### Table of my own content
 - [Server Security and Performance](#server-security-and-performance)
@@ -46,10 +42,6 @@ php?>start sorting 😅
 
 </div>
 
-<div style="display: flex; justify-content: space-between;">
-
-
-</div>
 
 ## Server (Security and Performance and more)
 
