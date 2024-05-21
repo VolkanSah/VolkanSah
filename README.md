@@ -32,6 +32,7 @@ php?>start sorting 😅
 - [WordPress](#wordpress)
 - [Learn Hacking](#learn-hacking)
 - [GPT](#gpt)
+- [Bots](#bots)
 - [Misk](#misk)
 
 
