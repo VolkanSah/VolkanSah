@@ -112,6 +112,7 @@ for educational and ethical purposes only.
 
  ## Bots
  • [Twitter-X-AINewsBot](https://github.com/VolkanSah/Twitter-X-AINewsBot)
+ •  [InteliLink](https://github.com/VolkanSah/InteliLink)
 
  ## Misk
 ```
