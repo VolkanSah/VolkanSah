@@ -99,7 +99,7 @@ For educational and ethical purposes only.
 - [PoisonIvory (lite)](https://github.com/VolkanSah/PoisonIvory-lite)
 - [Run multiple TOR instances](https://github.com/VolkanSah/run-multiple-Tor-instances)
 - [SQLp-XSS](https://github.com/VolkanSah/SQLp-EDU)
-- [JADE Example](https://github.com/VolkanSah/JADE-edu)
+- [Ransy Example](https://github.com/VolkanSah/JADE-edu)
 - [NMAP (Black Python)](https://github.com/VolkanSah/NMAP-Black-Python)
 - [SherlocksHome - Get all Bastards!](https://github.com/VolkanSah/SherlocksHome)
 - [Stem_Log](https://github.com/VolkanSah/Stem-local-log.py)
