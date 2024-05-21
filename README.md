@@ -46,7 +46,7 @@ php?>start sorting 😅
 </div>
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-profile-trophy.vercel.app/?username=volkansah" style="width: 48%;"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=volkansah&theme=dark" style="width: 48%;"/>
 
 </div>
 
