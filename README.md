@@ -6,6 +6,7 @@
 
 
 
+
 #### [![GitHub Stars](https://img.shields.io/github/stars/VOLKANSAH?style=social)](https://github.com/VOLKANSAH?tab=stars) 
 
 [Github Site](https://volkansah.github.io) • [ME!](https://github.com/VolkanSah/About-Me) • [JadeGPT](https://jugendamt-deutschland.de) • [NCF](https://github.com/NemesisCyberForce) • [Become a sponsor](https://github.com/sponsors/VolkanSah) • [Help wanted](https://github.com/VolkanSah/Family-Legal-Support-System)
@@ -69,6 +70,8 @@ php?>start sorting 😅
 - [Web Interface for Running Python Scripts](https://github.com/VolkanSah/Web-Interface-for-Running-Python-Scripts)
 
 ## Papers
+[![Do not toy with me, for you might not like how I play back](img/papers.webp)](https://github.com/VOLKANSAH)
+###### Blueprints, Security-Papers & more
 
 - [GPT Security Best Practices](https://github.com/VolkanSah/GPT-Security-Best-Practices)
 - [Implementation of Artificial Intelligence (AI)](https://github.com/VolkanSah//Implementing-AI-Systems-Whitepaper/)
