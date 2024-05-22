@@ -115,7 +115,7 @@ php?>start sorting 😅
 
 ## Ai 
 [![Do not toy with me, for you might not like how I play back](img/bot.webp)](https://github.com/VOLKANSAH)
-
+###### OpenAi, Google, Amazon & Co
 - [ChatGPT ShellMaster](https://github.com/VolkanSah/ChatGPT-ShellMaster)
 - [Comments Reply with GPT (davinci3)](https://github.com/VolkanSah/GPT-Comments-Reply-WordPress-Plugin)
 - [Secure Implementation of Artificial Intelligence (AI)](https://github.com/VolkanSah/Implementing-AI-Systems-Whitepaper)
