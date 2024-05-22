@@ -1,5 +1,5 @@
 [![Do not toy with me, for you might not like how I play back](img/hacknions2.webp)](https://github.com/VOLKANSAH)
-<img src="https://github-profile-trophy.vercel.app/?username=volkansah" style="width: 95%;"/>
+
 
 [Github Site](https://volkansah.github.io) • [ME!](https://github.com/VolkanSah/About-Me) • [JadeGPT](https://jugendamt-deutschland.de) • [NCF](https://github.com/NemesisCyberForce) • [Become a sponsor](https://github.com/sponsors/VolkanSah) • [Help wanted](https://github.com/VolkanSah/Family-Legal-Support-System)
 
@@ -38,6 +38,7 @@ php?>start sorting 😅
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=volkansah&theme=dark" style="width: 51%;"/>
 
 </div>
+<img src="https://github-profile-trophy.vercel.app/?username=volkansah" style="width: 100%;"/>
 
 
 ## Server 
