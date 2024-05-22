@@ -132,7 +132,7 @@ php?>start sorting 😅
 - [Twitter-X-AINewsBot](https://github.com/VolkanSah/Twitter-X-AINewsBot)
 - [InteliLink](https://github.com/VolkanSah/InteliLink)
 
-<img src="https://github-profile-trophy.vercel.app/?username=volkansah" style="width: 100%;"/>
+<img src="https://github-profile-trophy.vercel.app/?username=volkansah" style="width: 95%;"/>
 
 [![Do not toy with me, for you might not like how I play back](img/nice-shit.webp)](https://github.com/VOLKANSAH)
 
