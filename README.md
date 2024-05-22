@@ -24,7 +24,7 @@
 
 php?>start sorting 😅
 ### Table of my own content
-- [Server Security and Performance](#server-security-and-performance)
+- [Server Security and Performance](#server)
 - [Web](#web)
 - [Papers](#papers)
 - [Social Networks](#social-networks)
@@ -43,7 +43,7 @@ php?>start sorting 😅
 </div>
 
 
-## Server (Security, Performance and more)
+## Server 
 [![Do not toy with me, for you might not like how I play back](img/serversecurity.webp)](https://github.com/VOLKANSAH)
 ###### Server (Security, Performance and more)
 
