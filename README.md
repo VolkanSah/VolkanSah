@@ -30,7 +30,6 @@ php?>start sorting 😅
   - [Defensive](#Defensive)
 - [AI](#AI)
 - [Bots](#bots)
-- [Misk](#misk)
 
 ## GitHub Stats
 
@@ -133,16 +132,6 @@ php?>start sorting 😅
 - [Twitter-X-AINewsBot](https://github.com/VolkanSah/Twitter-X-AINewsBot)
 - [InteliLink](https://github.com/VolkanSah/InteliLink)
 
-## Misk
-```
-Dünyayı değiştirmek, her ne kadar zor olsa da,
-Üstün yeteneklerim olmasa bile, kararlıyım ben bu yolda.
-Nefreti silmek, sevgiyi yüceltmek, her zaman amacım,
-Yaşamı kolaylaştırmak, başkalarına yardım etmek, kalbimdeki inançtır.
-Olumsuzluklara karşı mücadele etmek, insanlığın yararına ilerlemek,
-Rakiplerimin bile üstesinden gelebilirim, gözlerim hep yarına bakar.
-Akrostichon Copyright by Volkan Kücükbudak
-```
 <img src="https://github-profile-trophy.vercel.app/?username=volkansah" style="width: 100%;"/>
 
 [![Do not toy with me, for you might not like how I play back](img/nice-shit.webp)](https://github.com/VOLKANSAH)
