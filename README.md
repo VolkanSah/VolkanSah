@@ -1,17 +1,5 @@
 [![Do not toy with me, for you might not like how I play back](img/hacknions2.webp)](https://github.com/VOLKANSAH)
-
-
-
-
-
-
-
-
-
-
-
-
-#### [![GitHub Stars](https://img.shields.io/github/stars/VOLKANSAH?style=social)](https://github.com/VOLKANSAH?tab=stars) 
+##### [![GitHub Stars](https://img.shields.io/github/stars/VOLKANSAH?style=social)](https://github.com/VOLKANSAH?tab=stars) 
 
 [Github Site](https://volkansah.github.io) • [ME!](https://github.com/VolkanSah/About-Me) • [JadeGPT](https://jugendamt-deutschland.de) • [NCF](https://github.com/NemesisCyberForce) • [Become a sponsor](https://github.com/sponsors/VolkanSah) • [Help wanted](https://github.com/VolkanSah/Family-Legal-Support-System)
 
@@ -34,9 +22,12 @@ php?>start sorting 😅
 - [Server Security and Performance](#server)
 - [Papers](#papers)
 - [Web](#web)
-- [Social Networks](#social-networks)
-- [WordPress](#wordpress)
+  - [WordPress](#wordpress)
+  - [Typo3](#typo3)
+  - [Social Networks](#social-networks)
 - [Learn Hacking](#learn-hacking)
+  - [Offensive](#offensive)
+  - [Defensive](#Defensive)
 - [AI](#AI)
 - [Bots](#bots)
 - [Misk](#misk)
