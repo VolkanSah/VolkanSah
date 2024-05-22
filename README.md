@@ -32,12 +32,12 @@
 php?>start sorting 😅
 ### Table of my own content
 - [Server Security and Performance](#server)
-- [Web](#web)
 - [Papers](#papers)
+- [Web](#web)
 - [Social Networks](#social-networks)
 - [WordPress](#wordpress)
 - [Learn Hacking](#learn-hacking)
-- [GPT](#gpt)
+- [AI](#AI)
 - [Bots](#bots)
 - [Misk](#misk)
 
@@ -65,13 +65,6 @@ php?>start sorting 😅
 - [Debian-Based AI Developer Server](https://github.com/VolkanSah/Debian-Based-AI-Developer-Server)
 - [Python Script Runner Debugger](https://github.com/VolkanSah/Python-Script-Runner-Debugger)
 
-## Web
-[![Do not toy with me, for you might not like how I play back](img/webdesign.webp)](https://github.com/VOLKANSAH)
-###### Webtools, Design & more
-
-- [Simple small lazyload function](https://github.com/VolkanSah/simple-lazyload-function)
-- [Web Interface for Running Python Scripts](https://github.com/VolkanSah/Web-Interface-for-Running-Python-Scripts)
-
 ## Papers
 [![Do not toy with me, for you might not like how I play back](img/papers.webp)](https://github.com/VOLKANSAH)
 ###### Blueprints, Security-Papers & more
@@ -86,6 +79,14 @@ php?>start sorting 😅
 - [Handling (big) files with Python](https://github.com/VolkanSah/Python-Command-Overview-for-handling-files)
 - [Exploring the Code Interpreter in OpenAI ChatGPT](https://github.com/VolkanSah/The-Code-Interpreter-in-OpenAI-ChatGPT)
 - [The Power of "wget"](https://github.com/VolkanSah//Website-Backup-with-Wget/)
+
+## Web
+[![Do not toy with me, for you might not like how I play back](img/webdesign.webp)](https://github.com/VOLKANSAH)
+###### Webtools, Design & more
+
+- [Simple small lazyload function](https://github.com/VolkanSah/simple-lazyload-function)
+- [Web Interface for Running Python Scripts](https://github.com/VolkanSah/Web-Interface-for-Running-Python-Scripts)
+
 
 ## Social Networks
 [![Do not toy with me, for you might not like how I play back](img/socialnetwork.webp)](https://github.com/VOLKANSAH)
@@ -106,9 +107,7 @@ php?>start sorting 😅
 ## Learn Hacking
 [![Do not toy with me, for you might not like how I play back](img/hacking.webp)](https://github.com/VOLKANSAH)
 ###### For educational and ethical purposes only (more soon).
-
 ### Offensive
-
 - [The Extractor (GHDB) lite](https://github.com/VolkanSah//The_Extractor.py/)
 - [The Collector](https://github.com/VolkanSah/The_Collector.py)
 - [PoisonIvory (lite)](https://github.com/VolkanSah/PoisonIvory-lite)
@@ -120,7 +119,6 @@ php?>start sorting 😅
 - [Stem_Log](https://github.com/VolkanSah/Stem-local-log.py)
 
 ### Defensive
-
 - [Ransomware Defense Script](https://github.com/VolkanSah/Ransomware-Defense-Script-Example/)
 - [Monitoring Outgoing TCP-Connections](https://github.com/VolkanSah/Monitoring-outgoing-connections)
 
