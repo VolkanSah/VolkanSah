@@ -43,7 +43,7 @@ php?>start sorting 😅
 
 ## Server (Security and Performance and more)
 
-- [ModSecurity Webserver Protection Guide](https://volkansah.github.io/ModSecurity-Webserver-Protection-Guide/)
+- [ModSecurity Webserver Protection Guide](https://github.com/VolkanSah//ModSecurity-Webserver-Protection-Guide/)
 - [Install Apache2 with Nginx Reverse Proxy and Let's Encrypt SSL](https://github.com/VolkanSah/Apache2-with-Nginx-Reverse-Proxy-and-Let-s-Encrypt-SSL-on-Debian-Ubuntu)
 - [Writethrough caching](https://github.com/VolkanSah/writethrough-caching)
 - [Advanced RAM use](https://github.com/VolkanSah/advanced-RAM-use-on-Bash-installed-systems)
@@ -63,7 +63,7 @@ php?>start sorting 😅
 ## Papers
 
 - [GPT Security Best Practices](https://github.com/VolkanSah/GPT-Security-Best-Practices)
-- [Implementation of Artificial Intelligence (AI)](https://volkansah.github.io/Implementing-AI-Systems-Whitepaper/)
+- [Implementation of Artificial Intelligence (AI)](https://github.com/VolkanSah//Implementing-AI-Systems-Whitepaper/)
 - [Implementierung von Künstlicher Intelligenz (KI)](https://github.com/VolkanSah/Implementierung-von-KI-Systemen-Whitepaper)
 - [Python Modules Overview](https://github.com/VolkanSah/Python-Modules-Overview)
 - [Python XPath Tutorial](https://github.com/VolkanSah/Python-XPath-Tutorial)
@@ -71,7 +71,7 @@ php?>start sorting 😅
 - [PHP Libraries Overview](https://github.com/VolkanSah/PHP-Libraries-Overview)
 - [Handling (big) files with Python](https://github.com/VolkanSah/Python-Command-Overview-for-handling-files)
 - [Exploring the Code Interpreter in OpenAI ChatGPT](https://github.com/VolkanSah/The-Code-Interpreter-in-OpenAI-ChatGPT)
-- [The Power of "wget"](https://volkansah.github.io/Website-Backup-with-Wget/)
+- [The Power of "wget"](https://github.com/VolkanSah//Website-Backup-with-Wget/)
 
 ## Social Networks
 
@@ -98,7 +98,7 @@ For educational and ethical purposes only (more soon).
 
 ### Offensive
 
-- [The Extractor (GHDB) lite](https://volkansah.github.io/The_Extractor.py/)
+- [The Extractor (GHDB) lite](https://github.com/VolkanSah//The_Extractor.py/)
 - [The Collector](https://github.com/VolkanSah/The_Collector.py)
 - [PoisonIvory (lite)](https://github.com/VolkanSah/PoisonIvory-lite)
 - [Run multiple TOR instances](https://github.com/VolkanSah/run-multiple-Tor-instances)
@@ -122,7 +122,7 @@ For educational and ethical purposes only (more soon).
 - [GPT Security Best Practices](https://github.com/VolkanSah/GPT-Security-Best-Practices)
 - [OpenAI cost calculator](https://github.com/VolkanSah/OpenAI-Cost-Calculator)
 - [GPT over CLI](https://github.com/VolkanSah/GPT-over-CLI)
-- [Exploring the Code Interpreter in OpenAI ChatGPT](https://volkansah.github.io/The-Code-Interpreter-in-OpenAI-GPT/)
+- [Exploring the Code Interpreter in OpenAI ChatGPT](https://github.com/VolkanSah//The-Code-Interpreter-in-OpenAI-GPT/)
 - [OpenAI Text-to-Speech Interface](https://github.com/VolkanSah/OpenAI-Text-to-Speech-Interface)
 - [Angular GPT](https://github.com/VolkanSah/Angular-GPT)
 
