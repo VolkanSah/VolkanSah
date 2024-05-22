@@ -78,7 +78,7 @@ php?>start sorting 😅
 - [Simple small lazyload function](https://github.com/VolkanSah/simple-lazyload-function)
 - [Web Interface for Running Python Scripts](https://github.com/VolkanSah/Web-Interface-for-Running-Python-Scripts)
 
-## WordPress
+### WordPress
 
 - [WordPress Security with WPScan (advanced usage)](https://github.com/VolkanSah/wpscan-advanced-use)
 - [Facebook Engagement Metrics (lite) Plugin](https://github.com/VolkanSah/WP-Facebook-Engagement-Metrics)
@@ -88,9 +88,7 @@ php?>start sorting 😅
 - [Custom Fields Eraser (Manager)](https://github.com/VolkanSah/Custom-Fields-Eraser)
 
 
-## Social Networks
-[![Do not toy with me, for you might not like how I play back](img/socialnetwork.webp)](https://github.com/VOLKANSAH)
-###### Tools, Scripts & more
+### Social Networks
 
 - [Instagram Suspicious Followers Detection](https://github.com/VolkanSah/Instagram-Suspicious-Followers-Detection)
 - [Human Like - Instagram Unfollower](https://github.com/VolkanSah/Human-like-Instagram-Unfollower)
@@ -130,7 +128,8 @@ php?>start sorting 😅
 - [Angular GPT](https://github.com/VolkanSah/Angular-GPT)
 
 ## Bots
-
+[![Do not toy with me, for you might not like how I play back](img/socialnetwork.webp)](https://github.com/VOLKANSAH)
+###### Bots who makes you life more easy 😄
 - [Twitter-X-AINewsBot](https://github.com/VolkanSah/Twitter-X-AINewsBot)
 - [InteliLink](https://github.com/VolkanSah/InteliLink)
 
