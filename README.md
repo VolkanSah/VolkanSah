@@ -43,8 +43,9 @@ php?>start sorting 😅
 </div>
 
 
-## Server (Security and Performance and more)
+## Server (Security, Performance and more)
 [![Do not toy with me, for you might not like how I play back](img/serversecurity.webp)](https://github.com/VOLKANSAH)
+###### Server (Security, Performance and more)
 
 - [ModSecurity Webserver Protection Guide](https://github.com/VolkanSah//ModSecurity-Webserver-Protection-Guide/)
 - [Install Apache2 with Nginx Reverse Proxy and Let's Encrypt SSL](https://github.com/VolkanSah/Apache2-with-Nginx-Reverse-Proxy-and-Let-s-Encrypt-SSL-on-Debian-Ubuntu)
