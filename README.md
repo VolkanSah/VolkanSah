@@ -1,5 +1,5 @@
 [![Do not toy with me, for you might not like how I play back](img/hacknions2.webp)](https://github.com/VOLKANSAH)
-##### [![GitHub Stars](https://img.shields.io/github/stars/VOLKANSAH?style=social)](https://github.com/VOLKANSAH?tab=stars) 
+<img src="https://github-profile-trophy.vercel.app/?username=volkansah" style="width: 95%;"/>
 
 [Github Site](https://volkansah.github.io) • [ME!](https://github.com/VolkanSah/About-Me) • [JadeGPT](https://jugendamt-deutschland.de) • [NCF](https://github.com/NemesisCyberForce) • [Become a sponsor](https://github.com/sponsors/VolkanSah) • [Help wanted](https://github.com/VolkanSah/Family-Legal-Support-System)
 
@@ -132,8 +132,10 @@ php?>start sorting 😅
 - [Twitter-X-AINewsBot](https://github.com/VolkanSah/Twitter-X-AINewsBot)
 - [InteliLink](https://github.com/VolkanSah/InteliLink)
 
+## Nice Shit 
+
 [![Do not toy with me, for you might not like how I play back](img/nice-shit.webp)](https://github.com/VOLKANSAH)
-<img src="https://github-profile-trophy.vercel.app/?username=volkansah" style="width: 95%;"/>
+
 
 
 
