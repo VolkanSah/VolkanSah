@@ -38,7 +38,7 @@ php?>start sorting 😅
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=volkansah&theme=dark" style="width: 51%;"/>
 
 </div>
-<img src="https://github-profile-trophy.vercel.app/?username=volkansah" style="width: 100%;"/>
+
 
 
 ## Server 
@@ -133,7 +133,8 @@ php?>start sorting 😅
 - [Twitter-X-AINewsBot](https://github.com/VolkanSah/Twitter-X-AINewsBot)
 - [InteliLink](https://github.com/VolkanSah/InteliLink)
 
-## Nice Shit 
+## Other Stats
+<img src="https://github-profile-trophy.vercel.app/?username=volkansah" style="width: 100%;"/>
 
 [![Do not toy with me, for you might not like how I play back](img/nice-shit.webp)](https://github.com/VOLKANSAH)
 
