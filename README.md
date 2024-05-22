@@ -112,6 +112,7 @@ php?>start sorting 😅
 ### Defensive
 - [Ransomware Defense Script](https://github.com/VolkanSah/Ransomware-Defense-Script-Example/)
 - [Monitoring Outgoing TCP-Connections](https://github.com/VolkanSah/Monitoring-outgoing-connections)
+- [Nemesis Cyber Force](https://github.com/NemesisCyberForce)
 
 ## Ai 
 [![Do not toy with me, for you might not like how I play back](img/bot.webp)](https://github.com/VOLKANSAH)
