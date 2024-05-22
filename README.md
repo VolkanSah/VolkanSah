@@ -78,14 +78,6 @@ php?>start sorting 😅
 - [Simple small lazyload function](https://github.com/VolkanSah/simple-lazyload-function)
 - [Web Interface for Running Python Scripts](https://github.com/VolkanSah/Web-Interface-for-Running-Python-Scripts)
 
-
-## Social Networks
-[![Do not toy with me, for you might not like how I play back](img/socialnetwork.webp)](https://github.com/VOLKANSAH)
-###### Tools, Scripts & more
-
-- [Instagram Suspicious Followers Detection](https://github.com/VolkanSah/Instagram-Suspicious-Followers-Detection)
-- [Human Like - Instagram Unfollower](https://github.com/VolkanSah/Human-like-Instagram-Unfollower)
-
 ## WordPress
 
 - [WordPress Security with WPScan (advanced usage)](https://github.com/VolkanSah/wpscan-advanced-use)
@@ -94,6 +86,16 @@ php?>start sorting 😅
 - [Upload (admin only)](https://github.com/VolkanSah/Media-Upload-only-for-Admins-in-WordPress)
 - [Admin Post-View "all"](https://github.com/VolkanSah/WP-Admin-Post-View-All)
 - [Custom Fields Eraser (Manager)](https://github.com/VolkanSah/Custom-Fields-Eraser)
+
+
+## Social Networks
+[![Do not toy with me, for you might not like how I play back](img/socialnetwork.webp)](https://github.com/VOLKANSAH)
+###### Tools, Scripts & more
+
+- [Instagram Suspicious Followers Detection](https://github.com/VolkanSah/Instagram-Suspicious-Followers-Detection)
+- [Human Like - Instagram Unfollower](https://github.com/VolkanSah/Human-like-Instagram-Unfollower)
+
+
 
 ## Learn Hacking
 [![Do not toy with me, for you might not like how I play back](img/hacking.webp)](https://github.com/VOLKANSAH)
