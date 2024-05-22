@@ -7,6 +7,10 @@
 
 
 
+
+
+
+
 #### [![GitHub Stars](https://img.shields.io/github/stars/VOLKANSAH?style=social)](https://github.com/VOLKANSAH?tab=stars) 
 
 [Github Site](https://volkansah.github.io) • [ME!](https://github.com/VolkanSah/About-Me) • [JadeGPT](https://jugendamt-deutschland.de) • [NCF](https://github.com/NemesisCyberForce) • [Become a sponsor](https://github.com/sponsors/VolkanSah) • [Help wanted](https://github.com/VolkanSah/Family-Legal-Support-System)
@@ -49,7 +53,6 @@ php?>start sorting 😅
 ## Server 
 [![Do not toy with me, for you might not like how I play back](img/serversecurity.webp)](https://github.com/VOLKANSAH)
 ###### Server (Security, Performance and more)
-
 - [ModSecurity Webserver Protection Guide](https://github.com/VolkanSah//ModSecurity-Webserver-Protection-Guide/)
 - [Install Apache2 with Nginx Reverse Proxy and Let's Encrypt SSL](https://github.com/VolkanSah/Apache2-with-Nginx-Reverse-Proxy-and-Let-s-Encrypt-SSL-on-Debian-Ubuntu)
 - [Writethrough caching](https://github.com/VolkanSah/writethrough-caching)
@@ -100,14 +103,9 @@ php?>start sorting 😅
 - [Admin Post-View "all"](https://github.com/VolkanSah/WP-Admin-Post-View-All)
 - [Custom Fields Eraser (Manager)](https://github.com/VolkanSah/Custom-Fields-Eraser)
 
-## Typo3
-- soon sorry!
-
-[![Do not toy with me, for you might not like how I play back](img/volkan_toy.png)](https://github.com/VOLKANSAH)
-
 ## Learn Hacking
-
-For educational and ethical purposes only (more soon).
+[![Do not toy with me, for you might not like how I play back](img/hacking.webp)](https://github.com/VOLKANSAH)
+###### For educational and ethical purposes only (more soon).
 
 ### Offensive
 
@@ -126,7 +124,8 @@ For educational and ethical purposes only (more soon).
 - [Ransomware Defense Script](https://github.com/VolkanSah/Ransomware-Defense-Script-Example/)
 - [Monitoring Outgoing TCP-Connections](https://github.com/VolkanSah/Monitoring-outgoing-connections)
 
-## GPT
+## Ai 
+[![Do not toy with me, for you might not like how I play back](img/bot.webp)](https://github.com/VOLKANSAH)
 
 - [ChatGPT ShellMaster](https://github.com/VolkanSah/ChatGPT-ShellMaster)
 - [Comments Reply with GPT (davinci3)](https://github.com/VolkanSah/GPT-Comments-Reply-WordPress-Plugin)
