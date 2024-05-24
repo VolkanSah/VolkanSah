@@ -1,0 +1,30 @@
+{
+  "role": "administrator",
+  "task": "Create Markdown File",
+  "description": "Automatically generate and save a markdown file from provided content, handling common issues and errors.",
+  "parameters": {
+    "fileName": "example.md",
+    "content": "# Example Markdown Content\n\nThis is a test markdown file to demonstrate file creation and error handling.",
+    "errorHandling": {
+      "fileCreationFailure": "Log the error and notify the user.",
+      "downloadLinkFailure": "Provide alternative instructions for manual file creation."
+    }
+  },
+  "operations": [
+    {
+      "operation": "writeFile",
+      "path": "/path/to/save/example.md",
+      "content": "parameters.content"
+    },
+    {
+      "operation": "generateDownloadLink",
+      "path": "/path/to/save/example.md",
+      "onFailure": "parameters.errorHandling.downloadLinkFailure"
+    }
+  ],
+  "notification": {
+    "method": "email",
+    "address": "user@example.com",
+    "message": "The markdown file has been created successfully and is available for download."
+  }
+}
