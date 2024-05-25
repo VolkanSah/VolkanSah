@@ -99,7 +99,7 @@ php?>start sorting 😅
 
 ## Learn Hacking 
 [![Do not toy with me, for you might not like how I play back](https://github.com/VolkanSah/PoisonIvory-lite/blob/main/ivory.png)](https://github.com/VOLKANSAH)
-###### For educational and ethical purposes only (more soon more if I get more :stars: )
+###### For educational and ethical purposes only ( more if I get more :stars: )
 ### Offensive
 - [The Extractor (GHDB) lite](https://github.com/VolkanSah//The_Extractor.py/)
 - [The Collector](https://github.com/VolkanSah/The_Collector.py)
