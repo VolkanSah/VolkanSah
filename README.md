@@ -90,6 +90,7 @@ php?>start sorting 😅
 - [Upload (admin only)](https://github.com/VolkanSah/Media-Upload-only-for-Admins-in-WordPress)
 - [Admin Post-View "all"](https://github.com/VolkanSah/WP-Admin-Post-View-All)
 - [Custom Fields Eraser (Manager)](https://github.com/VolkanSah/Custom-Fields-Eraser)
+- [Warning Popup](https://github.com/VolkanSah/Warning-function-for-WordPress)
 
 
 ### Social Networks
