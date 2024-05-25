@@ -56,6 +56,7 @@ php?>start sorting 😅
 - [Monitoring and restarting services](https://github.com/VolkanSah/Bash-script-for-monitoring-and-restarting-services)
 - [Debian-Based AI Developer Server](https://github.com/VolkanSah/Debian-Based-AI-Developer-Server)
 - [Python Script Runner Debugger](https://github.com/VolkanSah/Python-Script-Runner-Debugger)
+- [WIN_lookup_adminShares](https://github.com/VolkanSah/WIN_lookup_adminShares)
 
 ## Papers
 [![Do not toy with me, for you might not like how I play back](img/papers.webp)](https://github.com/VOLKANSAH)
@@ -79,6 +80,7 @@ php?>start sorting 😅
 - [Simple small lazyload function](https://github.com/VolkanSah/simple-lazyload-function)
 - [Web Interface for Running Python Scripts](https://github.com/VolkanSah/Web-Interface-for-Running-Python-Scripts)
 - [Automated-Markdown-File-Creation](https://github.com/VolkanSah/Automated-Markdown-File-Creation)
+- [Modern Web-Business-Card](https://github.com/VolkanSah/Web-Business-Card)
 
 ### WordPress
 
