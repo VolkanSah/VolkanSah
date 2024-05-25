@@ -116,6 +116,7 @@ php?>start sorting 😅
 - [Tor-Network-Application-with-Stem-and-Scapy](https://github.com/VolkanSah/Tor-Network-Application-with-Stem-and-Scapy/)
 - [Tor-Scapy-Application](https://github.com/VolkanSah/Tor-Scapy-Application)
 - [intelligent Proxy-Management-System for PythonScripts](https://github.com/VolkanSah/intelligent-Proxy-Management-System)
+- [XSSPY Rebuild 2024](https://github.com/VolkanSah/XSSPY_2024)
 ##### Privat Repo
 - [Privat: How to kill a CP-Server (Hidden_Service)](https://github.com/VolkanSah/How-to-kill-a-cp-server)
 - [Privat: Nemesis Cyber Force](https://github.com/NemesisCyberForce)
