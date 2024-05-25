@@ -97,7 +97,8 @@ php?>start sorting 😅
 
 
 
-## Learn Hacking
+## Learn Hacking 
+###### and some useful tools
 [![Do not toy with me, for you might not like how I play back](img/hacking.webp)](https://github.com/VOLKANSAH)
 ###### For educational and ethical purposes only (more soon).
 ### Offensive
@@ -111,6 +112,7 @@ php?>start sorting 😅
 - [SherlocksHome - Get all Bastards!](https://github.com/VolkanSah/SherlocksHome)
 - [Stem_Log](https://github.com/VolkanSah/Stem-local-log.py)
 - [Tor-Network-Application-with-Stem-and-Scapy](https://github.com/VolkanSah/Tor-Network-Application-with-Stem-and-Scapy/)
+- [Tor-Scapy-Application](https://github.com/VolkanSah/Tor-Scapy-Application)
 - [Nemesis Cyber Force](https://github.com/NemesisCyberForce)
 
 ### Defensive
