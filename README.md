@@ -110,6 +110,7 @@ php?>start sorting 😅
 - [NMAP (Black Python)](https://github.com/VolkanSah/NMAP-Black-Python)
 - [SherlocksHome - Get all Bastards!](https://github.com/VolkanSah/SherlocksHome)
 - [Stem_Log](https://github.com/VolkanSah/Stem-local-log.py)
+- [Tor-Network-Application-with-Stem-and-Scapy](https://github.com/VolkanSah/Tor-Network-Application-with-Stem-and-Scapy/)
 - [Nemesis Cyber Force](https://github.com/NemesisCyberForce)
 
 ### Defensive
