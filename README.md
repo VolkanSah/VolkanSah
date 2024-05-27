@@ -59,7 +59,6 @@ php?>start sorting 😅
 - [WIN_lookup_adminShares](https://github.com/VolkanSah/WIN_lookup_adminShares)
 
 ## Papers
-[![Do not toy with me, for you might not like how I play back](img/papers.webp)](https://github.com/VOLKANSAH)
 ###### Blueprints, Security-Papers & more
 
 - [GPT Security Best Practices](https://github.com/VolkanSah/GPT-Security-Best-Practices)
@@ -74,7 +73,7 @@ php?>start sorting 😅
 - [The Power of "wget"](https://github.com/VolkanSah//Website-Backup-with-Wget/)
 
 ## Web
-[![Do not toy with me, for you might not like how I play back](img/webdesign.webp)](https://github.com/VOLKANSAH)
+
 ###### Webtools, Design & more
 
 - [Simple small lazyload function](https://github.com/VolkanSah/simple-lazyload-function)
@@ -127,7 +126,7 @@ php?>start sorting 😅
 
 
 ## Ai 
-[![Do not toy with me, for you might not like how I play back](img/bot.webp)](https://github.com/VOLKANSAH)
+
 ###### OpenAi, Google, Amazon & Co
 - [ChatGPT ShellMaster](https://github.com/VolkanSah/ChatGPT-ShellMaster)
 - [Comments Reply with GPT (davinci3)](https://github.com/VolkanSah/GPT-Comments-Reply-WordPress-Plugin)
@@ -141,7 +140,7 @@ php?>start sorting 😅
 - [Angular GPT](https://github.com/VolkanSah/Angular-GPT)
 
 ## Bots
-[![Do not toy with me, for you might not like how I play back](img/socialnetwork.webp)](https://github.com/VOLKANSAH)
+
 ###### Bots who makes you life more easy 😄
 - [Twitter-X-AINewsBot](https://github.com/VolkanSah/Twitter-X-AINewsBot)
 - [InteliLink](https://github.com/VolkanSah/InteliLink)
@@ -149,7 +148,7 @@ php?>start sorting 😅
 ## Other Stats
 <img src="https://github-profile-trophy.vercel.app/?username=volkansah" style="width: 100%;"/>
 
-[![Do not toy with me, for you might not like how I play back](img/nice-shit.webp)](https://github.com/VOLKANSAH)
+
 
 
 
