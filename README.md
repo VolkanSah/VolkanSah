@@ -111,14 +111,15 @@ php?>start sorting 😅
 - [Ransy Example](https://github.com/VolkanSah/JADE-edu)
 - [NMAP (Black Python)](https://github.com/VolkanSah/NMAP-Black-Python)
 - [SherlocksHome - Get all Bastards!](https://github.com/VolkanSah/SherlocksHome)
+
+
+##### Misk
+- [Privat: How to kill a CP-Server (Hidden_Service)](https://github.com/VolkanSah/How-to-kill-a-cp-server)
+- [Privat: Nemesis Cyber Force](https://github.com/NemesisCyberForce)
 - [Stem_Log](https://github.com/VolkanSah/Stem-local-log.py)
 - [Tor-Network-Application-with-Stem-and-Scapy](https://github.com/VolkanSah/Tor-Network-Application-with-Stem-and-Scapy/)
 - [Tor-Scapy-Application](https://github.com/VolkanSah/Tor-Scapy-Application)
 - [intelligent Proxy-Management-System for PythonScripts](https://github.com/VolkanSah/intelligent-Proxy-Management-System)
-
-##### Privat Repo
-- [Privat: How to kill a CP-Server (Hidden_Service)](https://github.com/VolkanSah/How-to-kill-a-cp-server)
-- [Privat: Nemesis Cyber Force](https://github.com/NemesisCyberForce)
 
 ### Defensive
 - [Ransomware Defense Script](https://github.com/VolkanSah/Ransomware-Defense-Script-Example/)
