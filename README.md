@@ -26,7 +26,7 @@ php?>start sorting 😅
   - [Typo3](#typo3)
   - [Drupal](#drupal)
   - [Social Networks](#social-networks)
-- [Learn Hacking / Security](#learn-hacking-security)
+- [Learn Hacking - Security](#learn-hacking---security)
   - [Offensive](#offensive)
   - [Defensive](#Defensive)
 - [AI](#AI)
@@ -99,7 +99,7 @@ php?>start sorting 😅
 
 
 
-## Learn Hacking / Security
+## Learn Hacking - Security
 [![Do not toy with me, for you might not like how I play back](https://github.com/VolkanSah/PoisonIvory-lite/blob/main/ivory.png)](https://github.com/VOLKANSAH)
 ###### For educational and ethical purposes only ( more if I get more :stars: )
 ### Offensive
