@@ -26,7 +26,7 @@ php?>start sorting 😅
   - [Typo3](#typo3)
   - [Drupal](#drupal)
   - [Social Networks](#social-networks)
-- [Learn Hacking](#learn-hacking)
+- [Learn Hacking / Security](#learn-hacking-security)
   - [Offensive](#offensive)
   - [Defensive](#Defensive)
 - [AI](#AI)
@@ -99,7 +99,7 @@ php?>start sorting 😅
 
 
 
-## Learn Hacking 
+## Learn Hacking / Security
 [![Do not toy with me, for you might not like how I play back](https://github.com/VolkanSah/PoisonIvory-lite/blob/main/ivory.png)](https://github.com/VOLKANSAH)
 ###### For educational and ethical purposes only ( more if I get more :stars: )
 ### Offensive
@@ -115,7 +115,7 @@ php?>start sorting 😅
 - [Tor-Network-Application-with-Stem-and-Scapy](https://github.com/VolkanSah/Tor-Network-Application-with-Stem-and-Scapy/)
 - [Tor-Scapy-Application](https://github.com/VolkanSah/Tor-Scapy-Application)
 - [intelligent Proxy-Management-System for PythonScripts](https://github.com/VolkanSah/intelligent-Proxy-Management-System)
-- [XSSPY Rebuild 2024](https://github.com/VolkanSah/XSSPY_2024)
+
 ##### Privat Repo
 - [Privat: How to kill a CP-Server (Hidden_Service)](https://github.com/VolkanSah/How-to-kill-a-cp-server)
 - [Privat: Nemesis Cyber Force](https://github.com/NemesisCyberForce)
@@ -123,7 +123,7 @@ php?>start sorting 😅
 ### Defensive
 - [Ransomware Defense Script](https://github.com/VolkanSah/Ransomware-Defense-Script-Example/)
 - [Monitoring Outgoing TCP-Connections](https://github.com/VolkanSah/Monitoring-outgoing-connections)
-
+- [XSSPY Rebuild 2024](https://github.com/VolkanSah/XSSPY_2024)
 
 ## Ai 
 
