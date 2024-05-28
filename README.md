@@ -1,6 +1,7 @@
 ![Do not toy with me, for you might not like how I play back](https://github.com/VolkanSah/VolkanSah/blob/main/img/volkan_toy.png)
 
 
+
 [Github Site](https://volkansah.github.io) • [ME!](https://github.com/VolkanSah/About-Me) • [JadeGPT](https://jugendamt-deutschland.de) • [NCF](https://github.com/NemesisCyberForce) • [Become a sponsor](https://github.com/sponsors/VolkanSah) • [Help wanted](https://github.com/VolkanSah/Family-Legal-Support-System)
 
 "Just like Batman! I may not possess any superpowers, but I'm determined to make the world a better place. Even though I know I can't change everything, I keep pushing forward for the greater good. And who knows, perhaps one day I'll even outsmart the ever-annoying Superman!"
