@@ -63,7 +63,8 @@ php?>start sorting 😅
 ###### Blueprints, Security-Papers & more
 
 
-- [GPT Security Best Practices](https://github.com/VolkanSah/GPT-Security-Best-Practices) ![GitHub Repo stars](https://img.shields.io/github/stars/VolkanSah/GPT-Security-Best-Practices?style=flat&color=blue&label=Repo%20Stars)
+- [GPT Security Best Practices](https://github.com/VolkanSah/GPT-Security-Best-Practices) ![GitHub Repo stars](https://img.shields.io/github/stars/VolkanSah/GPT-Security-Best-Practices?color=007EC6)
+
 - [Implementation of Artificial Intelligence (AI)](https://github.com/VolkanSah//Implementing-AI-Systems-Whitepaper/)
 - [Implementierung von Künstlicher Intelligenz (KI)](https://github.com/VolkanSah/Implementierung-von-KI-Systemen-Whitepaper)
 - [Python Modules Overview](https://github.com/VolkanSah/Python-Modules-Overview)
