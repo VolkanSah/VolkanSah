@@ -27,6 +27,7 @@ php?>start sorting 😅
   - [Social Networks](#social-networks)
 - [Learn Hacking - Security](#learn-hacking---security)
   - [Offensive](#offensive)
+  - [Misk](#misk)
   - [Defensive](#Defensive)
 - [AI](#AI)
 - [Bots](#bots)
