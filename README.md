@@ -124,6 +124,7 @@ php?>start sorting 😅
 - [Tor-Network-Application-with-Stem-and-Scapy](https://github.com/VolkanSah/Tor-Network-Application-with-Stem-and-Scapy/)
 - [Tor-Scapy-Application](https://github.com/VolkanSah/Tor-Scapy-Application)
 - [intelligent Proxy-Management-System for PythonScripts](https://github.com/VolkanSah/intelligent-Proxy-Management-System)
+- [BrowserGamesSpy](https://github.com/VolkanSah/BrowserGamesSpy/)
 
 ### Defensive
 - [Ransomware Defense Script?](https://github.com/VolkanSah/Ransomware-Defense-Script-Example/)
