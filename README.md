@@ -144,7 +144,7 @@ php?>start sorting 😅
 - [GPT over CLI](https://github.com/VolkanSah/GPT-over-CLI)
 - [Exploring the Code Interpreter in OpenAI ChatGPT](https://github.com/VolkanSah//The-Code-Interpreter-in-OpenAI-GPT/)
 - [OpenAI Text-to-Speech Interface](https://github.com/VolkanSah/OpenAI-Text-to-Speech-Interface)
-- [Angular GPT](https://github.com/VolkanSah/Angular-GPT)
+- [Angular GPT](https://github.com/AiCodeCraft/Angular-GPT)
 
 ## Bots
 
