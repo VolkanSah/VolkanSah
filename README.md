@@ -32,7 +32,7 @@ php?>start sorting 😅
 - [AI](#AI)
 - [Bots](#bots)
 
-## New released
+## New released (privat!)
 [![Do not toy with me, for you might not like how I play back](https://github.com/VolkanSah/BrowserGamesSpy/blob/main/browser-games-spy.jpg)](https://github.com/VolkanSah/BrowserGamesSpy/)
 
 ## GitHub Stats
