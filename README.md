@@ -31,6 +31,9 @@ php?>start sorting 😅
 - [AI](#AI)
 - [Bots](#bots)
 
+## New released
+[![Do not toy with me, for you might not like how I play back](https://github.com/VolkanSah/BrowserGamesSpy/blob/main/browser-games-spy.jpg)](https://github.com/VolkanSah/BrowserGamesSpy/)
+
 ## GitHub Stats
 
 <div style="display: flex; justify-content: space-between;">
@@ -42,7 +45,7 @@ php?>start sorting 😅
 
 
 ## Server 
-[![Do not toy with me, for you might not like how I play back](img/serversecurity.webp)](https://github.com/VOLKANSAH)
+
 ###### Server (Security, Performance and more)
 - [ModSecurity Webserver Protection Guide](https://github.com/VolkanSah//ModSecurity-Webserver-Protection-Guide/)
 - [Install Apache2 with Nginx Reverse Proxy and Let's Encrypt SSL](https://github.com/VolkanSah/Apache2-with-Nginx-Reverse-Proxy-and-Let-s-Encrypt-SSL-on-Debian-Ubuntu)
