@@ -44,7 +44,6 @@ php?>start sorting 😅
 
 
 
-
 <div style="display: flex; justify-content: space-between;">
 
 <!-- Linke Spalte -->
@@ -67,11 +66,14 @@ php?>start sorting 😅
 </p>
 
 <!-- Rechte Spalte -->
-<p style="width: 48%;">  <img src="https://github-readme-stats.vercel.app/api?username=volkansah&show_icons=true&theme=radical" style="width: 98%;"/>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=volkansah&theme=dark" style="width: 98%;"/>
+<p style="width: 48%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=volkansah&show_icons=true&theme=radical" style="width: 100%;"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=volkansah&theme=dark" style="width: 100%;"/>
 </p>
 
 </div>
+
 
 
 
