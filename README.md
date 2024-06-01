@@ -181,12 +181,6 @@ InteliLink | ![Forks](https://img.shields.io/github/forks/VolkanSah/InteliLink) 
 
 
 
-Name | Forks | Downloads | Clones | Stars | Link to it
--- | -- | --- | --- | --- | ---
-Twitter-X-AINewsBot | ![Forks](https://img.shields.io/github/forks/VolkanSah/Twitter-X-AINewsBot) | [![Downloads](https://img.shields.io/github/downloads/VolkanSah/Twitter-X-AINewsBot/total)](https://github.com/VolkanSah/Twitter-X-AINewsBot/releases) | [![Clones](https://img.shields.io/github/clones/VolkanSah/Twitter-X-AINewsBot/total)](https://github.com/VolkanSah/Twitter-X-AINewsBot) | [![Stars](https://img.shields.io/github/stars/VolkanSah/Twitter-X-AINewsBot)](https://github.com/VolkanSah/Twitter-X-AINewsBot/) | [Link to](https://github.com/VolkanSah/Twitter-X-AINewsBot)
-InteliLink | ![Forks](https://img.shields.io/github/forks/VolkanSah/InteliLink) | [![Downloads](https://img.shields.io/github/downloads/VolkanSah/InteliLink/total)](https://github.com/VolkanSah/InteliLink/releases) | [![Clones](https://img.shields.io/github/clones/VolkanSah/InteliLink/total)](https://github.com/VolkanSah/InteliLink) | [![Stars](https://img.shields.io/github/stars/VolkanSah/InteliLink)](https://github.com/VolkanSah/InteliLink/) | [Link to](https://github.com/VolkanSah/InteliLink)
-
-
 
 ## Other Stats
 
