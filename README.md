@@ -44,6 +44,45 @@ php?>start sorting 😅
 
 
 
+
+<div style="display: flex; justify-content: space-between;">
+
+<!-- Linke Spalte -->
+<p style="width: 48%;">
+  ### Table of my own content
+- [Server Security and Performance](#server)
+- [Papers](#papers)
+- [Web](#web)
+  - [WordPress](#wordpress)
+  - [Typo3](#typo3)
+  - [Drupal](#drupal)
+  - [Social Networks](#social-networks)
+- [Learn Hacking - Security](#learn-hacking---security)
+  - [Offensive](#offensive)
+  - [Misk](#misk)
+  - [Defensive](#Defensive)
+- [AI](#AI)
+- [Bots](#bots)
+- [End](#end)
+</p>
+
+<!-- Rechte Spalte -->
+<p style="width: 48%;">  <img src="https://github-readme-stats.vercel.app/api?username=volkansah&show_icons=true&theme=radical" style="width: 98%;"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=volkansah&theme=dark" style="width: 98%;"/>
+</p>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
 ## Server
 
 ###### Server (Security, Performance and more)
