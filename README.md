@@ -31,7 +31,7 @@ php?>start sorting 😅
   - [Defensive](#Defensive)
 - [AI](#AI)
 - [Bots](#bots)
-- [Pinned](#Pinned)
+- [End](#end)
 
 #### New released (privat!)
 [![Do not toy with me, for you might not like how I play back](img/browser-games-spy.jpg)](https://github.com/VolkanSah/BrowserGamesSpy/)
@@ -177,6 +177,8 @@ Name | Forks | Stars | Link to it
 -- | -- | --- | ---
 Twitter-X-AINewsBot | ![Forks](https://img.shields.io/github/forks/VolkanSah/Twitter-X-AINewsBot) | [![Stars](https://img.shields.io/github/stars/VolkanSah/Twitter-X-AINewsBot)](https://github.com/VolkanSah/Twitter-X-AINewsBot/) | [Link to](https://github.com/VolkanSah/Twitter-X-AINewsBot)
 InteliLink | ![Forks](https://img.shields.io/github/forks/VolkanSah/InteliLink) | [![Stars](https://img.shields.io/github/stars/VolkanSah/InteliLink)](https://github.com/VolkanSah/InteliLink/) | [Link to](https://github.com/VolkanSah/InteliLink)
+
+###### end
 
 
 
