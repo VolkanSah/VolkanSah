@@ -31,6 +31,7 @@ php?>start sorting 😅
   - [Defensive](#Defensive)
 - [AI](#AI)
 - [Bots](#bots)
+- [Pinned](#Pinned)
 
 #### New released (privat!)
 [![Do not toy with me, for you might not like how I play back](img/browser-games-spy.jpg)](https://github.com/VolkanSah/BrowserGamesSpy/)
