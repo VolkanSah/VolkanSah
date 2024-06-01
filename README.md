@@ -142,7 +142,7 @@ php?>start sorting 😅
 - [GPT Security Best Practices](https://github.com/VolkanSah/GPT-Security-Best-Practices)
 - [OpenAI cost calculator](https://github.com/VolkanSah/OpenAI-Cost-Calculator)
 - [GPT over CLI](https://github.com/VolkanSah/GPT-over-CLI)
-- [Exploring the Code Interpreter in OpenAI ChatGPT](https://github.com/VolkanSah//The-Code-Interpreter-in-OpenAI-GPT/)
+- [Exploring the Code Interpreter in OpenAI ChatGPT](https://github.com/VolkanSah/Exploring-the-Code-Interpreter-in-OpenAI-GPT)
 - [OpenAI Text-to-Speech Interface](https://github.com/VolkanSah/OpenAI-Text-to-Speech-Interface)
 - [Angular GPT](https://github.com/AiCodeCraft/Angular-GPT)
 - [Awesome free GPTs](https://github.com/AiCodeCraft/Awesome-free-GPTs)
