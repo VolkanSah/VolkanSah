@@ -90,8 +90,7 @@ JavaScript XPath Tutorial | ![Forks](https://img.shields.io/github/forks/VolkanS
 PHP Libraries Overview | ![Forks](https://img.shields.io/github/forks/VolkanSah/PHP-Libraries-Overview) | [![Stars](https://img.shields.io/github/stars/VolkanSah/PHP-Libraries-Overview)](https://github.com/VolkanSah/PHP-Libraries-Overview/) | [Link to](https://github.com/VolkanSah/PHP-Libraries-Overview)
 Handling (big) files with Python | ![Forks](https://img.shields.io/github/forks/VolkanSah/Python-Command-Overview-for-handling-files) | [![Stars](https://img.shields.io/github/stars/VolkanSah/Python-Command-Overview-for-handling-files)](https://github.com/VolkanSah/Python-Command-Overview-for-handling-files/) | [Link to](https://github.com/VolkanSah/Python-Command-Overview-for-handling-files)
 Exploring the Code Interpreter in OpenAI ChatGPT | ![Forks](https://img.shields.io/github/forks/VolkanSah/The-Code-Interpreter-in-OpenAI-ChatGPT) | [![Stars](https://img.shields.io/github/stars/VolkanSah/The-Code-Interpreter-in-OpenAI-ChatGPT)](https://github.com/VolkanSah/The-Code-Interpreter-in-OpenAI-ChatGPT/) | [Link to](https://github.com/VolkanSah/The-Code-Interpreter-in-OpenAI-ChatGPT)
-The Power of "wget" | ![Forks](https://img.shields.io/github/forks/VolkanSah/Website-Backup-with-Wget) | [![Stars](https://img.shields.io/github/stars/VolkanSah/Website-Backup-with-Wget)](https://github.com/VolkanSah/Website-Backup-with-Wget/) | [Link to](https://github.com/VolkanSah/Website-Backup-with-Wget)
-DOM Control / Event Listener | ![Forks](https://img.shields.io/github/forks/VolkanSah/JavaScript-DOM-Control-and-Event-Listeners) | [![Stars](https://img.shields.io/github/stars/VolkanSah/JavaScript-DOM-Control-and-Event-Listener)](https://github.com/VolkanSah/JavaScript-DOM-Control-and-Event-Listener/) | [Link to](https://github.com/VolkanSah/JavaScript-DOM-Control-and-Event-Listeners/)
+
 
 
 ## Web
@@ -104,6 +103,8 @@ Simple small lazyload function | ![Forks](https://img.shields.io/github/forks/Vo
 Web Interface for Running Python Scripts | ![Forks](https://img.shields.io/github/forks/VolkanSah/Web-Interface-for-Running-Python-Scripts) | [![Stars](https://img.shields.io/github/stars/VolkanSah/Web-Interface-for-Running-Python-Scripts)](https://github.com/VolkanSah/Web-Interface-for-Running-Python-Scripts/) | [Link to](https://github.com/VolkanSah/Web-Interface-for-Running-Python-Scripts)
 Automated-Markdown-File-Creation | ![Forks](https://img.shields.io/github/forks/VolkanSah/Automated-Markdown-File-Creation) | [![Stars](https://img.shields.io/github/stars/VolkanSah/Automated-Markdown-File-Creation)](https://github.com/VolkanSah/Automated-Markdown-File-Creation/) | [Link to](https://github.com/VolkanSah/Automated-Markdown-File-Creation)
 Modern Web-Business-Card | ![Forks](https://img.shields.io/github/forks/VolkanSah/Web-Business-Card) | [![Stars](https://img.shields.io/github/stars/VolkanSah/Web-Business-Card)](https://github.com/VolkanSah/Web-Business-Card/) | [Link to](https://github.com/VolkanSah/Web-Business-Card/)
+The Power of "wget" | ![Forks](https://img.shields.io/github/forks/VolkanSah/Website-Backup-with-Wget) | [![Stars](https://img.shields.io/github/stars/VolkanSah/Website-Backup-with-Wget)](https://github.com/VolkanSah/Website-Backup-with-Wget/) | [Link to](https://github.com/VolkanSah/Website-Backup-with-Wget)
+DOM Control / Event Listener | ![Forks](https://img.shields.io/github/forks/VolkanSah/JavaScript-DOM-Control-and-Event-Listeners) | [![Stars](https://img.shields.io/github/stars/VolkanSah/JavaScript-DOM-Control-and-Event-Listener)](https://github.com/VolkanSah/JavaScript-DOM-Control-and-Event-Listener/) | [Link to](https://github.com/VolkanSah/JavaScript-DOM-Control-and-Event-Listeners/)
 
 ### WordPress
 
