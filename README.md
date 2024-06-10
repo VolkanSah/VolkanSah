@@ -1,4 +1,3 @@
-![Do not toy with me, for you might not like how I play back](https://raw.githubusercontent.com/AiCodeCraft/.github/main/profile/assets/markdown/img/aicodecraft-git.webp)
 [![Do not toy with me, for you might not like how I play back](https://raw.githubusercontent.com/AiCodeCraft/.github/main/profile/assets/markdown/img/aicodecraft-git.webp)](https://github.com/AiCodeCraft)
 
 [Github Site](https://volkansah.github.io) • [ME!](https://github.com/VolkanSah/About-Me) • [JadeGPT](https://jugendamt-deutschland.de) • [NCF](https://github.com/NemesisCyberForce) • [Become a sponsor](https://github.com/sponsors/VolkanSah) • [Help wanted](https://github.com/VolkanSah/Family-Legal-Support-System)
