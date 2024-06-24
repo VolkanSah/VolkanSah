@@ -147,6 +147,7 @@ NMAP (Black Python) | ![Forks](https://img.shields.io/github/forks/VolkanSah/NMA
 SherlocksHome - Get all Bastards! | ![Forks](https://img.shields.io/github/forks/VolkanSah/SherlocksHome) | [![Stars](https://img.shields.io/github/stars/VolkanSah/SherlocksHome)](https://github.com/VolkanSah/SherlocksHome/) | [Link to](https://github.com/VolkanSah/SherlocksHome)
 Privat: How to kill a CP-Server (Hidden_Service) | ![Forks](https://img.shields.io/github/forks/VolkanSah/How-to-kill-a-cp-server) | [![Stars](https://img.shields.io/github/stars/VolkanSah/How-to-kill-a-cp-server)](https://github.com/VolkanSah/How-to-kill-a-cp-server/) | [Link to](https://github.com/VolkanSah/How-to-kill-a-cp-server)
 Privat: Nemesis Cyber Force | ![Forks](https://img.shields.io/github/forks/NemesisCyberForce) | [![Stars](https://img.shields.io/github/stars/NemesisCyberForce)](https://github.com/NemesisCyberForce/) | [Link to](https://github.com/NemesisCyberForce/)
+How to use Hydra? | ![Forks](https://img.shields.io/github/forks/VolkanSah/work-with-Hydra) | [![Stars](https://img.shields.io/github/stars/VolkanSah/work-with-Hydra)](https://github.com/VolkanSah/work-with-Hydra) | [Link to](https://github.com/VolkanSah/work-with-Hydra)
 
 ##### Misk
 
