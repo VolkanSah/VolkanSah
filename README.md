@@ -103,7 +103,7 @@ Simple small lazyload function | ![Forks](https://img.shields.io/github/forks/Vo
 Web Interface for Running Python Scripts | ![Forks](https://img.shields.io/github/forks/VolkanSah/Web-Interface-for-Running-Python-Scripts) | [![Stars](https://img.shields.io/github/stars/VolkanSah/Web-Interface-for-Running-Python-Scripts)](https://github.com/VolkanSah/Web-Interface-for-Running-Python-Scripts/) | [Link to](https://github.com/VolkanSah/Web-Interface-for-Running-Python-Scripts)
 Modern Web-Business-Card | ![Forks](https://img.shields.io/github/forks/VolkanSah/Web-Business-Card) | [![Stars](https://img.shields.io/github/stars/VolkanSah/Web-Business-Card)](https://github.com/VolkanSah/Web-Business-Card/) | [Link to](https://github.com/VolkanSah/Web-Business-Card/)
 The Power of "wget" | ![Forks](https://img.shields.io/github/forks/VolkanSah/Website-Backup-with-Wget) | [![Stars](https://img.shields.io/github/stars/VolkanSah/Website-Backup-with-Wget)](https://github.com/VolkanSah/Website-Backup-with-Wget/) | [Link to](https://github.com/VolkanSah/Website-Backup-with-Wget)
-DOM Control / Event Listener | ![Forks](https://img.shields.io/github/forks/VolkanSah/JavaScript-DOM-Control-and-Event-Listeners) | [![Stars](https://img.shields.io/github/stars/VolkanSah/JavaScript-DOM-Control-and-Event-Listener) | [Link to](https://github.com/VolkanSah/JavaScript-DOM-Control-and-Event-Listeners/)
+DOM Control / Event Listener | ![Forks](https://img.shields.io/github/forks/VolkanSah/JavaScript-DOM-Control-and-Event-Listeners) | [![Stars](https://img.shields.io/github/stars/VolkanSah/JavaScript-DOM-Control-and-Event-Listener)](https://github.com/VolkanSah/JavaScript-DOM-Control-and-Event-Listener) | [Link to](https://github.com/VolkanSah/JavaScript-DOM-Control-and-Event-Listeners/)
 PHP/PosgreSQL with PDO & stmt | ![Forks](https://img.shields.io/github/forks/VolkanSah/Simple-CMS-Example-with-PHP-PostgreSQL-PDO-and-Prepared-Statements) | [![Stars](https://img.shields.io/github/stars/VolkanSah/Simple-CMS-Example-with-PHP-PostgreSQL-PDO-and-Prepared-Statements) | [Link to](https://github.com/VolkanSah/Simple-CMS-Example-with-PHP-PostgreSQL-PDO-and-Prepared-Statements)
 
 
@@ -148,6 +148,9 @@ SherlocksHome - Get all Bastards! | ![Forks](https://img.shields.io/github/forks
 Privat: How to kill a CP-Server (Hidden_Service) | ![Forks](https://img.shields.io/github/forks/VolkanSah/How-to-kill-a-cp-server) | [![Stars](https://img.shields.io/github/stars/VolkanSah/How-to-kill-a-cp-server)](https://github.com/VolkanSah/How-to-kill-a-cp-server/) | [Link to](https://github.com/VolkanSah/How-to-kill-a-cp-server)
 Privat: Nemesis Cyber Force | ![Forks](https://img.shields.io/github/forks/NemesisCyberForce) | [![Stars](https://img.shields.io/github/stars/NemesisCyberForce)](https://github.com/NemesisCyberForce/) | [Link to](https://github.com/NemesisCyberForce/)
 How to use Hydra? | ![Forks](https://img.shields.io/github/forks/VolkanSah/work-with-Hydra) | [![Stars](https://img.shields.io/github/stars/VolkanSah/work-with-Hydra)](https://github.com/VolkanSah/work-with-Hydra) | [Link to](https://github.com/VolkanSah/work-with-Hydra)
+John the Ripper meets Hydra | ![Forks](https://img.shields.io/github/forks/VolkanSah/John-the-Ripper-meets-Hydra) | [![Stars](https://img.shields.io/github/stars/VolkanSah/John-the-Ripper-meets-Hydra)](https://github.com/VolkanSah/John-the-Ripper-meets-Hydra) | [Link to](https://github.com/VolkanSah/John-the-Ripper-meets-Hydra)
+
+
 
 ##### Misk
 
