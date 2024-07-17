@@ -155,6 +155,8 @@ Privat: How to kill a CP-Server (Hidden_Service) | ![Forks](https://img.shields.
 Privat: Nemesis Cyber Force | ![Forks](https://img.shields.io/github/forks/NemesisCyberForce) | [![Stars](https://img.shields.io/github/stars/NemesisCyberForce)](https://github.com/NemesisCyberForce/) | [Link to](https://github.com/NemesisCyberForce/)
 How to use Hydra? | ![Forks](https://img.shields.io/github/forks/VolkanSah/work-with-Hydra) | [![Stars](https://img.shields.io/github/stars/VolkanSah/work-with-Hydra)](https://github.com/VolkanSah/work-with-Hydra) | [Link to](https://github.com/VolkanSah/work-with-Hydra)
 John the Ripper meets Hydra | ![Forks](https://img.shields.io/github/forks/VolkanSah/John-the-Ripper-meets-Hydra) | [![Stars](https://img.shields.io/github/stars/VolkanSah/John-the-Ripper-meets-Hydra)](https://github.com/VolkanSah/John-the-Ripper-meets-Hydra) | [Link to](https://github.com/VolkanSah/John-the-Ripper-meets-Hydra)
+How to Use fcrackzip | ![Forks](https://img.shields.io/github/forks/VolkanSah/How-to-use-fcrackzip) | [![Stars](https://img.shields.io/github/stars/VolkanSah/How-to-use-fcrackzip)](https://github.com/VolkanSah/How-to-use-fcrackzip) | [Link to](https://github.com/VolkanSah/How-to-use-fcrackzip)
+
 
 
 
