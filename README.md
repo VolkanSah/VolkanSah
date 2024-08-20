@@ -168,7 +168,7 @@ Tor-Network-Application-with-Stem-and-Scapy | ![Forks](https://img.shields.io/gi
 Tor-Scapy-Application | ![Forks](https://img.shields.io/github/forks/VolkanSah/Tor-Scapy-Application) | [![Stars](https://img.shields.io/github/stars/VolkanSah/Tor-Scapy-Application)](https://github.com/VolkanSah/Tor-Scapy-Application/) | [Link to](https://github.com/VolkanSah/Tor-Scapy-Application)
 intelligent Proxy-Management-System for PythonScripts | ![Forks](https://img.shields.io/github/forks/VolkanSah/intelligent-Proxy-Management-System) | [![Stars](https://img.shields.io/github/stars/VolkanSah/intelligent-Proxy-Management-System)](https://github.com/VolkanSah/intelligent-Proxy-Management-System/) | [Link to](https://github.com/VolkanSah/intelligent-Proxy-Management-System)
 BrowserGamesSpy | ![Forks](https://img.shields.io/github/forks/VolkanSah/BrowserGamesSpy) | [![Stars](https://img.shields.io/github/stars/VolkanSah/BrowserGamesSpy)](https://github.com/VolkanSah/BrowserGamesSpy/) | [Link to](https://github.com/VolkanSah/BrowserGamesSpy/)
-How to Kill Crypto Money | ![Forks](https://img.shields.io/github/forks/VolkanSah/How-to-Kill-Crypto-Money) | [![Stars](https://img.shields.io/github/stars/VolkanSah/How-to-Kill-Crypto-Money)](https://github.com/VolkanSah/How-to-Kill-Crypto-Money/) | [Link to](https://github.com/VolkanSah/How-to-Kill-Crypto-Money/)
+How to Kill Crypto Money (ironic) | ![Forks](https://img.shields.io/github/forks/VolkanSah/How-to-Kill-Crypto-Money) | [![Stars](https://img.shields.io/github/stars/VolkanSah/How-to-Kill-Crypto-Money)](https://github.com/VolkanSah/How-to-Kill-Crypto-Money/) | [Link to](https://github.com/VolkanSah/How-to-Kill-Crypto-Money/)
 
 
 ### Defensive
