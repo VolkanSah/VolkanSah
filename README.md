@@ -9,13 +9,6 @@
 - html(5), xml, css³, php, js, typescript, python, perl, smalltalk, c, sql (Mysql, MariaDB, PostGre) ...
 - Lingua: german, english, turkish (and some other but not fluently)
 
-#### Note:
-
-- I update my whole gits and then make it public again.
-- Come back later if you can't find needed yet
-- Some private repos will not longer stay private in future
-- If you like my work, follow me, give me a star or become a sponsor
-
 php?>start sorting 😅
 ### Table of my own content
 - [Server Security and Performance](#server)
