@@ -1,13 +1,14 @@
 [Github Site](https://volkansah.github.io) • [ME!](https://github.com/VolkanSah/About-Me) • [JadeGPT](https://jugendamt-deutschland.de) • [NCF](https://github.com/NemesisCyberForce) • [Become a sponsor](https://github.com/sponsors/VolkanSah) • [Help wanted](https://github.com/VolkanSah/Family-Legal-Support-System)
-
+## Who am I
 "Yeah, yeah, just like Batman, Morty. I might not have any fancy superpowers, but who needs 'em when you've got sheer stubbornness and a drive to make the world a slightly less awful place. I know I can't fix all the endless chaos out there, but hey, that’s not gonna stop me from trying. And who knows, maybe one day I'll outwit that goody-two-shoes Superman. Ha! Now that would be something.
 
-- DevOps+
-- love freedom -> not broken windows or rotten fruits
-- html(5), xml, css³, php, js, typescript, python, perl, smalltalk, c, sql (Mysql, MariaDB, PostGre) ...
-- Lingua: german, english, turkish (and some other but not fluently)
+## Skills
+- "Yeah, yeah, DevOps+ and all that, Morty. When I say I love freedom, I’m not talking about broken windows or rotten fruit. I’m talking about Open Source, Linux, Unix – the real deal. Not that Windows or Apple crap, trying to suck every last penny out of you while you’re stuck in their shiny, hollow world.
 
-php?>start sorting 😅
+- And as for languages – html(5), xml, css³, php, js, typescript, python, perl, smalltalk, c, sql (Mysql, MariaDB, PostGre) … Pfft, I’ve got ‘em all covered, Morty. Oh, and yeah, I speak a few human languages too: German, English, Turkish – and some others, but don’t expect me to write Shakespeare.
+
+**And when I say ‘love freedom,’ I mean real freedom, not the junk they’re peddling. Freedom or nothing, Morty. Freedom or nothing!**
+
 ### Table of my own content
 - [Server Security and Performance](#server)
 - [Papers](#papers)
