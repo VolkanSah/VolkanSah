@@ -5,7 +5,7 @@
 ## Skills
 - "DevOps+ and all that other shit, Morty. When I say I love freedom, I’m not talking about broken windows or rotten fruit. I’m talking about Open Source, Linux, Unix, FUCK! Did you understand me Morty?  – the real deal Morty, the real deal! Not that Windows or Apple crap, trying to suck every last penny out of you while you’re stuck in their shiny, hollow world. Thats Fuck Morty, i dont want to die so!
 
-- Languages – html(5), xml, css³, php, js, typescript, python, perl, smalltalk, c, sql (Mysql, MariaDB, PostGre) … Pfft, I’ve got ‘em all covered, Morty. Oh, and yeah, I speak a few human languages too: German, English, Turkish – and some others, but don’t expect me to write Shakespeare. Get my time maschine and you get this shit!
+- Languages – html(5), xml, css³, php, js, typescript, python, perl, smalltalk, c, sql (Mysql, MariaDB, PostGre) and some other shit Morty … Pfft, I’ve got ‘em all covered an , Morty. Oh, and yeah, I speak some human languages too: German, English, Turkish – and some others, but don’t expect me to write Shakespeare ... you know where the timemachine stands, Morty!
 
 **Fuck Morty understand me? When I say ‘love freedom,’ I mean real freedom, not the junk shit they’re peddling as new inivation. Freedom or nothing, Morty. Freedom or nothing!**
 
