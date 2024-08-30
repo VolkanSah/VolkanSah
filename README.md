@@ -7,6 +7,8 @@
 - html(5), xml, css³, php, js, typescript, python, perl, smalltalk, c, sql (Mysql, MariaDB, PostGre) ...
 - Lingua: german, english, turkish (and some other but not fluently)
 
+ (German:) "Ja, ja, genau wie Batman, Morty. Ich hab vielleicht keine schicken Superkräfte, aber wer braucht die schon, wenn man pure Sturheit und den Drang hat, die Welt ein bisschen weniger beschissen zu machen. Ich weiß, ich kann nicht das ganze endlose Chaos da draußen reparieren, aber hey, das hält mich nicht davon ab, es zu versuchen. Und wer weiß, vielleicht trickse ich eines Tages diesen Saubermann Superman aus. Ha! Das wäre doch mal was."
+
 php?>start sorting 😅
 ### Table of my own content
 - [Server Security and Performance](#server)
