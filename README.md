@@ -7,8 +7,6 @@
 
 - Languages – html(5), xml, css³, php, js, typescript, python, perl, smalltalk, c, sql (Mysql, MariaDB, PostGre) and some other shit Morty … Pfft, I’ve got ‘em all covered an , Morty. Oh, and yeah, I speak some human languages too: German, English, Turkish – and some others, but don’t expect me to write Shakespeare ... you know where the timemachine stands, Morty!
 
-**Fuck Morty understand me? When I say ‘love freedom,’ I mean real freedom, not the junk shit they’re peddling as new inivation. Freedom or nothing, Morty. Freedom or nothing!**
-
 ### Table of my own content
 - [Server Security and Performance](#server)
 - [Papers](#papers)
@@ -24,6 +22,9 @@
 - [AI](#AI)
 - [Bots](#bots)
 - [End](#end)
+
+ **Fuck Morty! Again? Understand me? When I say ‘love freedom,’ I mean real freedom, not the junk shit they’re peddling as new inivation. Freedom or nothing, Morty. Freedom or nothing!**
+
 
 
 ## GitHub Stats
