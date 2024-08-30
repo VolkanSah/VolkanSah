@@ -27,7 +27,7 @@
 - [End](#end)
 
  **Fuck Morty! Again? Understand me? When I say ‘love freedom,’ I mean real freedom, not the junk shit they’re peddling as new inivation. Freedom or nothing, Morty. Freedom or nothing!**
-
+###### satire end!
 
 
 ## GitHub Stats
