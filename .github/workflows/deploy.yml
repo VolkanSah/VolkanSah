@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Läuft täglich um Mitternacht UTC
+    - cron: '40 * * * *'  # Läuft täglich um Mitternacht UTC
   workflow_dispatch:  # Erlaubt manuelle Ausführung
 
 jobs:
