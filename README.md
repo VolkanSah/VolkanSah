@@ -1,6 +1,6 @@
 [Github Site](https://volkansah.github.io) • [ME!](https://github.com/VolkanSah/About-Me) • [JadeGPT](https://jugendamt-deutschland.de) • [NCF](https://github.com/NemesisCyberForce) • [Become a sponsor](https://github.com/sponsors/VolkanSah) • [Help wanted](https://github.com/VolkanSah/Family-Legal-Support-System)
 
-"Just like Batman! I may not possess any superpowers, but I'm determined to make the world a better place. Even though I know I can't change everything, I keep pushing forward for the greater good. And who knows, perhaps one day I'll even outsmart the ever-annoying Superman!"
+"Yeah, yeah, just like Batman, Morty. I might not have any fancy superpowers, but who needs 'em when you've got sheer stubbornness and a drive to make the world a slightly less awful place. I know I can't fix all the endless chaos out there, but hey, that’s not gonna stop me from trying. And who knows, maybe one day I'll outwit that goody-two-shoes Superman. Ha! Now that would be something.
 
 - DevOps+
 - love freedom -> not broken windows or rotten fruits
