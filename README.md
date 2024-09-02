@@ -1,4 +1,3 @@
-## 🚨 Apologies for the server issues today. The Nuremberg Data Center is facing major issues, affecting all servers hosted there (who's attacking it? *lol stop it!). Not my fault, but I’m monitoring closely! 🙏
 [Github Site](https://volkansah.github.io) • [ME!](https://github.com/VolkanSah/About-Me) • [JadeGPT](https://jugendamt-deutschland.de) • [NCF](https://github.com/NemesisCyberForce) • [Help needed](https://github.com/VolkanSah/Family-Legal-Support-System)
 ##### satire starts!
 ## Who am I ?
