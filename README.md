@@ -10,6 +10,10 @@
 
 - Languages – html(5), xml, css³, php, js, typescript, python, perl, smalltalk, c, sql (Mysql, MariaDB, PostGre) and some other, Morty … Pfft, I’ve got ‘em all covered on , Morty. Oh, and yeah, I speak some human languages too: German, English, Turkish – and some others, but don’t expect me to write Shakespeare ... you know where the timemachine stands, Morty!
 
+## How to Request Help / Report Issues
+
+Listen up, Morty! You wanna ask for help or report an issue, don't just throw some half-assed garbage at me like you're scribbling on a napkin, alright? I ain't got time for that! Give me details, Morty, like system specs, error messages, the works! You think I’m a mind reader? Fuck off, wrong universe, Morty! You leave out the important stuff, I’ll ignore your issue faster than I can down this flask! So don’t be an idiot, give me something I can work with, or get the hell outta my codebase! Understand?
+
 ##### satire end?
 
 ### Table of my own content
