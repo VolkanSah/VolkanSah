@@ -104,10 +104,11 @@ Exploring the Code Interpreter in OpenAI ChatGPT | ![Forks](https://img.shields.
 
 ## Web
 
-###### Webtools, Design & more
+###### Webtools, Design & more soon, sorry
 
 Name | Forks | Stars | Link to it
 -- | -- | --- | ---
+Auto Proxy Fetcher | ![Forks](https://img.shields.io/github/forks/VolkanSah/Auto-Proxy-Fetcher) | [![Stars](https://img.shields.io/github/stars/VolkanSah/Auto-Proxy-Fetcher)](https://github.com/VolkanSah/Auto-Proxy-Fetcher/) | [Link to](https://github.com/VolkanSah/Auto-Proxy-Fetcher/tree/main)
 Simple small lazyload function | ![Forks](https://img.shields.io/github/forks/VolkanSah/simple-lazyload-function) | [![Stars](https://img.shields.io/github/stars/VolkanSah/simple-lazyload-function)](https://github.com/VolkanSah/simple-lazyload-function/) | [Link to](https://github.com/VolkanSah/simple-lazyload-function)
 Web Interface for Running Python Scripts | ![Forks](https://img.shields.io/github/forks/VolkanSah/Web-Interface-for-Running-Python-Scripts) | [![Stars](https://img.shields.io/github/stars/VolkanSah/Web-Interface-for-Running-Python-Scripts)](https://github.com/VolkanSah/Web-Interface-for-Running-Python-Scripts/) | [Link to](https://github.com/VolkanSah/Web-Interface-for-Running-Python-Scripts)
 Modern Web-Business-Card | ![Forks](https://img.shields.io/github/forks/VolkanSah/Web-Business-Card) | [![Stars](https://img.shields.io/github/stars/VolkanSah/Web-Business-Card)](https://github.com/VolkanSah/Web-Business-Card/) | [Link to](https://github.com/VolkanSah/Web-Business-Card/)
