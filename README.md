@@ -1,5 +1,5 @@
 [Free Global Proxies](https://github.com/VolkanSah/Auto-Proxy-Fetcher) • [JadeAI](https://jugendamt-deutschland.de) • [NCF](https://github.com/NemesisCyberForce) • [Help needed](https://github.com/VolkanSah/Family-Legal-Support-System)
-### Function: import brain from satire, start, end
+### Function: import brain !
 ## Who am I ?
 "Fuck, yeah, just like Batman, Morty, just like Batman! I might not have any fancy superpowers, but who needs 'em when you've got sheer stubbornness and a drive to make the world a slightly less awful place. I know I can't fix all the endless chaos out there, but hey, that’s not gonna stop me from trying. And who knows, maybe one day I'll outwit that goody-two-shoes Superman. Ha! Now that would be something Morty! 
 
