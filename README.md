@@ -1,7 +1,7 @@
 [Free Global Proxies](https://github.com/VolkanSah/Auto-Proxy-Fetcher) • [JadeAI](https://jugendamt-deutschland.de) • [NCF](https://github.com/NemesisCyberForce) • [Help needed](https://github.com/VolkanSah/Family-Legal-Support-System)
 ### First Steps, please! 
 - Windows: Use brain.exe!
-- Linux/Unix: use brain.bin
+- Linux/Unix: use brain.bin an ask me!
 - Mac: use function -> Import brain
 - all other: Import satire 😅
 ## Who am I ?
