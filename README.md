@@ -20,7 +20,8 @@ Listen up, Morty! You wanna ask for help or report an issue, don't just throw so
 
 ##### satire end?
 
-### Table of my own content [(view on jelly theme - Obsidian-Nightfall)]( https://volkansah.github.io/Obsidian-Nightfall/)
+### Table of my own content 
+[(view on jelly theme - Obsidian-Nightfall)]( https://volkansah.github.io/Obsidian-Nightfall/)
 - [Server Security and Performance](#server)
 - [Papers](#papers)
 - [Web](#web)
