@@ -1,4 +1,4 @@
-[Free Global Proxies](https://github.com/VolkanSah/Auto-Proxy-Fetcher) • [JadeAI](https://jugendamt-deutschland.de) • [NCF](https://github.com/NemesisCyberForce) • [Help needed](https://github.com/VolkanSah/Family-Legal-Support-System) 
+[Free Global Proxies](https://github.com/VolkanSah/Auto-Proxy-Fetcher) • [JadeAI](https://jugendamt-deutschland.de) • [NCF](https://github.com/NemesisCyberForce) • [Help needed](https://github.com/VolkanSah/Family-Legal-Support-System) • [Gist](https://gist.github.com/VolkanSah)
 ### First Steps, please! 
 - Windows Users: Use brain.exe!
 - Linux/Unix USers: use brain.bin and ask me!
