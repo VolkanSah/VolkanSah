@@ -1,6 +1,6 @@
 [Free Global Proxies](https://github.com/VolkanSah/Auto-Proxy-Fetcher) • [JadeAI](https://jugendamt-deutschland.de) • [NCF](https://github.com/NemesisCyberForce) • [Help needed](https://github.com/VolkanSah/Family-Legal-Support-System) • [Gist](https://gist.github.com/VolkanSah)
 
-# Releaseed
+# Released
 ![MinigreX-CMS](img/header_minigrex.png)
 ## Looking for Beta-Testers for an Exclusive, High-Security Micro CMS
 
