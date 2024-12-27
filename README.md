@@ -23,8 +23,7 @@ If you're interested or want to discuss potential collaboration, feel free to re
 
 
 
-### First Steps, please! 
- Import satire 😅 
+# About me
 
 
 
