@@ -2,25 +2,6 @@
 
 # Released
 ![MinigreX-CMS](img/header_minigrex.png)
-## Looking for Beta-Testers for an Exclusive, High-Security Micro CMS
-
-Are you a journalist, activist, offensive security admin or someone deeply invested in privacy and security? I’m looking for beta-testers for a groundbreaking Darknet-ready CMS designed with maximum security in mind.
-What sets this CMS apart? 
-
--  Built exclusively for those who prioritize safety and anonymity.
-- Strict verification process: This isn’t for criminals. To ensure the integrity of the system, every beta-tester will undergo:
-- Identity verification (including ID check).
-- Live video call confirmation to validate authenticity.
-
-### Beta Tester Perks
-- Lifetime free access to the CMS for all beta-testers.
-- Opportunity to collaborate and help shape a tool tailored for secure communication.
-
-### Note: Access will be highly restricted to maintain the safety of the platform and its users.
-
-
-If you're interested or want to discuss potential collaboration, feel free to reach out. Let’s work together to build a safer digital space!
-Please use our Google forms, you can access with TOR, too. [Form](https://forms.gle/7san5TyGkURorPy57)
 
 
 
