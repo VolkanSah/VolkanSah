@@ -18,8 +18,8 @@ What sets this CMS apart?
 
 ### Note: Access will be highly restricted to maintain the safety of the platform and its users.
 
-If you're interested or want to discuss potential collaboration, feel free to reach out. Let’s work together to build a safer digital space! Write me @Issues an message.
-
+If you're interested or want to discuss potential collaboration, feel free to reach out. Let’s work together to build a safer digital space!
+Please use our Google forms, you can access with TOR, too. [Form](https://forms.gle/7san5TyGkURorPy57)
 
 
 
