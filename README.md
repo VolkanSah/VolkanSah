@@ -5,7 +5,7 @@
 ## Looking for Beta-Testers for an Exclusive, High-Security Micro CMS
 
 Are you a journalist, activist, or someone deeply invested in privacy and security? I’m looking for beta-testers for a groundbreaking Darknet-ready CMS designed with maximum security in mind.
-What sets this CMS apart?
+What sets this CMS apart? Security Admins are welcome, too.
 
 -  Built exclusively for those who prioritize safety and anonymity.
 - Strict verification process: This isn’t for criminals. To ensure the integrity of the system, every beta-tester will undergo:
