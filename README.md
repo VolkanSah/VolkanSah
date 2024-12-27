@@ -4,8 +4,8 @@
 ![MinigreX-CMS](img/header_minigrex.png)
 ## Looking for Beta-Testers for an Exclusive, High-Security Micro CMS
 
-Are you a journalist, activist, or someone deeply invested in privacy and security? I’m looking for beta-testers for a groundbreaking Darknet-ready CMS designed with maximum security in mind.
-What sets this CMS apart? Security Admins are welcome, too.
+Are you a journalist, activist, offensive security admin or someone deeply invested in privacy and security? I’m looking for beta-testers for a groundbreaking Darknet-ready CMS designed with maximum security in mind.
+What sets this CMS apart? 
 
 -  Built exclusively for those who prioritize safety and anonymity.
 - Strict verification process: This isn’t for criminals. To ensure the integrity of the system, every beta-tester will undergo:
