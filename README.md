@@ -3,6 +3,9 @@
 # Released
 ![MinigreX-CMS](img/header_minigrex.png)
 
+### satire start ! 
+ATENTION/WARNING/DIKAT/ACHTUNG
+
 
 ### [Table of my own content ]( https://volkansah.github.io/Obsidian-Nightfall/)
 
@@ -25,6 +28,14 @@
 ## How to Request Help / Report Issues
 
 Listen up, Morty! You wanna ask for help or report an issue, don't just throw some half-assed garbage at me like you're scribbling on a napkin, alright? I ain't got time for that! Give me details, Morty, like system specs, error messages, the works! You think I’m a mind reader? Fuck off, wrong universe, Morty! You leave out the important stuff, I’ll ignore your issue faster than I can down this flask! So don’t be an idiot, give me something I can work with, or get the hell outta my codebase! Understand?
+
+## How to Avoid Being a Complete Idiot (Especially with Code)
+
+Hey Morty! Let me spell it out for you, nice and slow: DON’T. STEAL. MY. CODE. You think copying someone else's work and slapping your name on it makes you clever? No, Morty, it makes you a colossal idiot.
+
+Wanna know what happens when you pull that crap? I'll find you faster than a pissed-off Jerry with a grudge and an internet connection. And when I do, you’ll wish you had spent more time reading the LICENSE file and less time being a lazy sack of garbage. Oh, and pro tip: 'Ctrl+C' is not a substitute for actual skills.
+
+Look, Morty, we live in a universe of infinite possibilities. Infinite. So why the hell would you waste yours being the punchline to a bad joke? Use the code responsibly, follow the damn rules, and maybe—just maybe—you won’t end up on the wrong end of my verbal disintegrator. Get it, Morty? Good.
 
 ##### satire end?
 
