@@ -1,7 +1,9 @@
-[Free Global Proxies](https://github.com/VolkanSah/Auto-Proxy-Fetcher) • [JadeAI](https://jugendamt-deutschland.de) • [NCF](https://github.com/NemesisCyberForce) • [Help needed](https://github.com/VolkanSah/Family-Legal-Support-System) • [Gist](https://gist.github.com/VolkanSah)
-
 # Released
 ![MinigreX-CMS](img/header_minigrex.png)
+
+[Free Global Proxies](https://github.com/VolkanSah/Auto-Proxy-Fetcher) • [JadeAI](https://jugendamt-deutschland.de) • [NCF](https://github.com/NemesisCyberForce) • [Help needed](https://github.com/VolkanSah/Family-Legal-Support-System) • [Gist](https://gist.github.com/VolkanSah)
+
+
 
 #### [Table of my own content ]( https://volkansah.github.io/Obsidian-Nightfall/)
 
