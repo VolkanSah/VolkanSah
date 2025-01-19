@@ -1,5 +1,5 @@
 # Released
-![MinigreX-CMS](img/header_minigrex.png)
+![MinigreX-CMS](img/header_minigrex.png)(https://github.com/MiniGreX)
 
 [Free Global Proxies](https://github.com/VolkanSah/Auto-Proxy-Fetcher) • [JadeAI](https://jugendamt-deutschland.de) • [NCF](https://github.com/NemesisCyberForce) • [Help needed](https://github.com/VolkanSah/Family-Legal-Support-System) • [Gist](https://gist.github.com/VolkanSah)
 
