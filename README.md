@@ -1,19 +1,15 @@
 # Released
 ![MinigreX-CMS](img/header_minigrex.png)
 
-[Free Global Proxies](https://github.com/VolkanSah/Auto-Proxy-Fetcher) • [JadeAI](https://jugendamt-deutschland.de) • [NCF](https://github.com/NemesisCyberForce) • [Help needed](https://github.com/VolkanSah/Family-Legal-Support-System) • [Gist](https://gist.github.com/VolkanSah)  • [MiniGreX](https://github.com/MiniGreX)
+[Free Global Proxies](https://github.com/VolkanSah/Auto-Proxy-Fetcher) • [JadeAI](https://jugendamt-deutschland.de) • [NCF](https://github.com/NemesisCyberForce) • [Help needed](https://github.com/VolkanSah/Family-Legal-Support-System) • [Gist](https://gist.github.com/VolkanSah)  • [MiniGreX](https://github.com/MiniGreX)  
 
 
 
 #### [Table of my own content ]( https://volkansah.github.io/Obsidian-Nightfall/)
 
-### satire start ! 
-ATENTION/WARNING/DIKAT/ACHTUNG
+->You have DUMPY AI Users that cost you money and time? Have a look on [ADI](https://github.com/VolkanSah/Anti-Dump-Algorithm) from joke to solution 😅
 
-
-
-
-
+#### satire start ! 
 
 ## About me
 
