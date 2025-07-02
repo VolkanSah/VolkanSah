@@ -4,6 +4,12 @@
 [Free Global Proxies](https://github.com/VolkanSah/Auto-Proxy-Fetcher) • [JadeAI](https://jugendamt-deutschland.de) • [Gist](https://gist.github.com/VolkanSah)  • [MiniGreX](https://github.com/MiniGreX)  
 
 
+<!-- STATS-START -->
+Hier kommen automatisch die Stats rein.
+<!-- STATS-END -->
+
+
+
 
 #### [Table of my own content ]( https://volkansah.github.io/Obsidian-Nightfall/)
 
