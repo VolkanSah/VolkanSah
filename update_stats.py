@@ -1,26 +1,20 @@
 import requests
 import os
+import re
 
-# Hole den Token aus den Umgebungsvariablen
+# GitHub Username
+username = "VolkanSah"
+
+# Token holen
 token = os.getenv("GITHUB_TOKEN")
-username = "VolkanSah"  # Dein GitHub Username
+headers = {"Authorization": f"token {token}"}
 
-# Header für die Authentifizierung
-headers = {
-    "Authorization": f"token {token}"
-}
-
-# API-Endpunkte
+# API Abfragen
 user_url = f"https://api.github.com/users/{username}"
 repos_url = f"https://api.github.com/users/{username}/repos?per_page=100"
 
-# Benutzer-Infos abrufen
-user_response = requests.get(user_url, headers=headers)
-user_data = user_response.json()
-
-# Repos abrufen
-repos_response = requests.get(repos_url, headers=headers)
-repos_data = repos_response.json()
+user_data = requests.get(user_url, headers=headers).json()
+repos_data = requests.get(repos_url, headers=headers).json()
 
 # Stats berechnen
 total_stars = sum(repo["stargazers_count"] for repo in repos_data)
@@ -28,20 +22,33 @@ total_forks = sum(repo["forks_count"] for repo in repos_data)
 public_repos = user_data.get("public_repos", 0)
 followers = user_data.get("followers", 0)
 
-# Markdown generieren
-md_content = f"""
-# 📊 GitHub Stats for [{username}](https://github.com/{username})
+# Markdown Inhalt
+stats_md = f"""
+<!-- STATS-START -->
+# 📊 GitHub Stats
 
 - **Public Repositories:** {public_repos}
 - **Total Stars:** {total_stars}
 - **Total Forks:** {total_forks}
 - **Followers:** {followers}
 
-_Last updated automatically via [GitHub Actions](https://github.com/features/actions)._
+_Last updated automatically via GitHub Actions._
+<!-- STATS-END -->
 """
 
-# In stats.md speichern
-with open("stats.md", "w", encoding="utf-8") as f:
-    f.write(md_content)
+# README laden
+with open("README.md", "r", encoding="utf-8") as f:
+    readme_content = f.read()
 
-print("✅ Stats aktualisiert.")
+# Block ersetzen oder neu einfügen
+pattern = r"<!-- STATS-START -->(.|\n)*?<!-- STATS-END -->"
+if re.search(pattern, readme_content):
+    new_readme = re.sub(pattern, stats_md.strip(), readme_content, flags=re.DOTALL)
+else:
+    new_readme = readme_content.strip() + "\n\n" + stats_md
+
+# Speichern
+with open("README.md", "w", encoding="utf-8") as f:
+    f.write(new_readme)
+
+print("✅ Stats Bereich in README.md aktualisiert.")
