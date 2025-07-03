@@ -5,7 +5,7 @@
 
 
 <!-- STATS-START -->
-Hier kommen automatisch die Stats rein.
+
 <!-- STATS-END -->
 
 
