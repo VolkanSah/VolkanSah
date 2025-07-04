@@ -6,7 +6,7 @@ import re
 username = "VolkanSah"
 
 # Token holen
-token = os.getenv("GITHUB_TOKEN")
+token = os.getenv("GIT_TOKEN")
 headers = {"Authorization": f"token {token}"}
 
 # API Abfragen
