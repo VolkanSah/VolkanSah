@@ -16,7 +16,7 @@
 *Last updated automatically via GitHub Actions.*
 <!-- STATS-END -->
 
-
+![NOT A TOY](img/volkan_toy.png)
 
 
 #### satire start ! 
