@@ -3,6 +3,8 @@
 
 [Free Global Proxies](https://github.com/VolkanSah/Auto-Proxy-Fetcher) • [JadeAI](https://jugendamt-deutschland.de) • [Gist](https://gist.github.com/VolkanSah)  • [MiniGreX](https://github.com/MiniGreX) • [Table of own content ]( https://volkansah.github.io/Obsidian-Nightfall/)
 
+->You have DUMPY AI Users that cost you money and time? Have a look on [ADI](https://github.com/VolkanSah/Anti-Dump-Algorithm) from joke to solution 😅
+
 
 <!-- STATS-START -->
 ## 📊 Public GitHub Stats
@@ -16,10 +18,6 @@
 
 
 
-
-#### 
-
-->You have DUMPY AI Users that cost you money and time? Have a look on [ADI](https://github.com/VolkanSah/Anti-Dump-Algorithm) from joke to solution 😅
 
 #### satire start ! 
 
