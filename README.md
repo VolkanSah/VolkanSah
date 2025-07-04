@@ -50,10 +50,9 @@ Wanna know what happens when you pull that crap? I'll find you faster than a pis
 Look, Morty, we live in a universe of infinite possibilities. Infinite. So why the hell would you waste yours being the punchline to a bad joke? Use the code responsibly, follow the damn rules, and maybe—just maybe—you won’t end up on the wrong end of my verbal disintegrator. Get it, Morty? Good.
 
 ##### satire end?
-# Released
-![PoisonIvory - Nemesis Version](img/ivory.jpg)
+### Released
 
-
+[![PoisonIvory - Nemesis Version](img/ivory.jpg)](https://github.com/VolkanSah/PoisonIvory)
 
 ## More GitHub Stats
 
