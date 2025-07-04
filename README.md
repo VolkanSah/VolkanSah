@@ -1,6 +1,7 @@
 # Released
 ![MinigreX-CMS](img/header_minigrex.png)
 
+
 [Free Global Proxies](https://github.com/VolkanSah/Auto-Proxy-Fetcher) • [JadeAI](https://jugendamt-deutschland.de) • [Gist](https://gist.github.com/VolkanSah)  • [MiniGreX](https://github.com/MiniGreX) • [Table of own content ]( https://volkansah.github.io/Obsidian-Nightfall/)
 
 ->You have DUMPY AI Users that cost you money and time? Have a look on [ADI](https://github.com/VolkanSah/Anti-Dump-Algorithm) from joke to solution 😅
@@ -19,7 +20,7 @@
 ![NOT A TOY](img/volkan_toy.png)
 
 
-#### satire start ! 
+#### satire start !? 
 
 ## About me
 
@@ -49,6 +50,8 @@ Wanna know what happens when you pull that crap? I'll find you faster than a pis
 Look, Morty, we live in a universe of infinite possibilities. Infinite. So why the hell would you waste yours being the punchline to a bad joke? Use the code responsibly, follow the damn rules, and maybe—just maybe—you won’t end up on the wrong end of my verbal disintegrator. Get it, Morty? Good.
 
 ##### satire end?
+# Released
+![PoisonIvory - Nemesis Version](img/ivory.jpg)
 
 
 
