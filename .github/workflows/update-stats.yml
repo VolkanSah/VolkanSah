@@ -22,7 +22,7 @@ jobs:
 
       - name: Run Stats Script
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
         run: python update_stats.py
 
       - name: Commit & Push
