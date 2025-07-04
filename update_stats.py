@@ -1,3 +1,5 @@
+# Public Github Stats by Volkan S. Kücükbudak
+# https://github.com/VolkanSah/
 import requests
 import os
 import re
@@ -54,11 +56,11 @@ except Exception as e:
 
 # Markdown Inhalt
 stats_md = f"""<!-- STATS-START -->
-# 📊 GitHub Stats
+## 📊 Public GitHub Stats
 - **Public Repositories:** {public_repos}
-- **Total Stars:** {total_stars}
-- **Total Forks:** {total_forks}
-- **Followers:** {followers}
+- **Public Total Stars:** {total_stars}
+- **Public Total Forks:** {total_forks}
+- **Public Followers:** {followers}
 
 *Last updated automatically via GitHub Actions.*
 <!-- STATS-END -->"""
