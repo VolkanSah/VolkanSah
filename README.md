@@ -5,7 +5,13 @@
 
 
 <!-- STATS-START -->
+# 📊 GitHub Stats
+- **Public Repositories:** 175
+- **Total Stars:** 397
+- **Total Forks:** 127
+- **Followers:** 247
 
+*Last updated automatically via GitHub Actions.*
 <!-- STATS-END -->
 
 
