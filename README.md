@@ -1,5 +1,5 @@
 # Note
-```
+```bash
 # Reminder for true system power
 chmod 777 gives everyone access — except Chuck Norris. He doesn’t need permissions
 ```
