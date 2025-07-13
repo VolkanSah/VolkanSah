@@ -23,14 +23,12 @@ chmod 777 gives everyone access — except Chuck Norris. He doesn’t need permi
 ![NOT A TOY](img/volkan_toy.png)
 
 
-#### satire start !? 
-
-## About me
 
 
-
- 
-### Who am I ?
+<details>
+ <summary>About me</summary>
+ #### satire start !? 
+  Who am I ?
 "Fuck, yeah, just like Batman, Morty, just like Batman! I might not have any fancy superpowers, but who needs 'em when you've got sheer stubbornness and a drive to make the world a slightly less awful place. I know I can't fix all the endless chaos out there, but hey, that’s not gonna stop me from trying. And who knows, maybe one day I'll outwit that goody-two-shoes Superman. Ha! Now that would be something Morty! 
 
 **Yeah get this Superman! Fuck, that feels good!**
@@ -53,6 +51,7 @@ Wanna know what happens when you pull that crap? I'll find you faster than a pis
 Look, Morty, we live in a universe of infinite possibilities. Infinite. So why the hell would you waste yours being the punchline to a bad joke? Use the code responsibly, follow the damn rules, and maybe—just maybe—you won’t end up on the wrong end of my verbal disintegrator. Get it, Morty? Good.
 
 ##### satire end?
+</details>
 ### Released
 
 [![PoisonIvory - Nemesis Version](img/ivory.jpg)](https://github.com/VolkanSah/PoisonIvory)
