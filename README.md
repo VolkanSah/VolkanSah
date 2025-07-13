@@ -22,13 +22,11 @@ chmod 777 gives everyone access — except Chuck Norris. He doesn’t need permi
 
 ![NOT A TOY](img/volkan_toy.png)
 
-
-
-
-<details>
- <summary>About me</summary>
- #### satire start !? 
-  Who am I ?
+---
+## About me
+    satire start !? 
+    
+### Who am I ?
 "Fuck, yeah, just like Batman, Morty, just like Batman! I might not have any fancy superpowers, but who needs 'em when you've got sheer stubbornness and a drive to make the world a slightly less awful place. I know I can't fix all the endless chaos out there, but hey, that’s not gonna stop me from trying. And who knows, maybe one day I'll outwit that goody-two-shoes Superman. Ha! Now that would be something Morty! 
 
 **Yeah get this Superman! Fuck, that feels good!**
@@ -48,10 +46,10 @@ Hey Morty! Let me spell it out for you, nice and slow: DON’T. STEAL. MY. CODE.
 
 Wanna know what happens when you pull that crap? I'll find you faster than a pissed-off Jerry with a grudge and an internet connection. And when I do, you’ll wish you had spent more time reading the LICENSE file and less time being a lazy sack of garbage. Oh, and pro tip: 'Ctrl+C' is not a substitute for actual skills.
 
-Look, Morty, we live in a universe of infinite possibilities. Infinite. So why the hell would you waste yours being the punchline to a bad joke? Use the code responsibly, follow the damn rules, and maybe—just maybe—you won’t end up on the wrong end of my verbal disintegrator. Get it, Morty? Good.
+  Look, Morty, we live in a universe of infinite possibilities. Infinite. So why the hell would you waste yours being the punchline to a bad joke? Use the code responsibly, follow the damn rules, and maybe—just maybe—you won’t end up on the wrong end of my verbal disintegrator. Get it, Morty? Good.
 
-##### satire end?
-</details>
+satire end?
+
 ### Released
 
 [![PoisonIvory - Nemesis Version](img/ivory.jpg)](https://github.com/VolkanSah/PoisonIvory)
