@@ -5,7 +5,7 @@ chmod 777 gives everyone access — except Chuck Norris. He doesn’t need permi
 ## Released
 [![MinigreX-CMS](img/header_minigrex.png)](https://github.com/MiniGreX)
 
-#### [Free Global Proxies](https://github.com/VolkanSah/Auto-Proxy-Fetcher) • [JadeAI](https://jugendamt-deutschland.de) • [Gist](https://gist.github.com/VolkanSah)  • [Table of own public content ]( https://volkansah.github.io/Obsidian-Nightfall/)
+### [Free Global Proxies](https://github.com/VolkanSah/Auto-Proxy-Fetcher) • [JadeAI](https://jugendamt-deutschland.de) • [Gist](https://gist.github.com/VolkanSah)  • [Table of own public content ]( https://volkansah.github.io/Obsidian-Nightfall/)
 
 ->You have DUMPY AI Users that cost you money and time? Have a look on [ADI](https://github.com/VolkanSah/Anti-Dump-Algorithm) from joke to solution 😅
 
