@@ -15,7 +15,7 @@ chmod 777 gives everyone access — except Chuck Norris. He doesn’t need permi
 - **Public Repositories:** 184
 - **Public Total Stars:** 399
 - **Public Total Forks:** 125
-- **Public Followers:** 251
+- **Public Followers:** 250
 
 *Last updated automatically via GitHub Actions.*
 <!-- STATS-END -->
