@@ -13,8 +13,8 @@ chmod 777 gives everyone access — except Chuck Norris. He doesn’t need permi
 <!-- STATS-START -->
 ## 📊 Public GitHub Stats
 - **Public Repositories:** 184
-- **Public Total Stars:** 400
-- **Public Total Forks:** 125
+- **Public Total Stars:** 396
+- **Public Total Forks:** 120
 - **Public Followers:** 250
 
 *Last updated automatically via GitHub Actions.*
