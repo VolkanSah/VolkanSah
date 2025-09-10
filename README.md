@@ -13,7 +13,7 @@
 ---
 ## About me
 
-### <details>
+<details>
 
 ![NOT A TOY](img/volkan_toy.png)
 
