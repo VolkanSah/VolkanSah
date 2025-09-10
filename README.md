@@ -3,7 +3,7 @@
 
 ###  • [Free Global Proxies](https://github.com/VolkanSah/Auto-Proxy-Fetcher) • [JadeAI](https://jugendamt-deutschland.de) • [Gist](https://gist.github.com/VolkanSah)  • [Own public content ]( https://volkansah.github.io/Obsidian-Nightfall/)  • [NCF](https://nemesiscyberforce.github.io/)
 
-->You have DUMPY AI Users that cost you money and time? Have a look on [ADI](https://github.com/VolkanSah/Anti-Dump-Algorithm) from joke to solution 😅
+->You have DUMPY AI Users that cost you money and time? Have a look on [ADI](https://github.com/VolkanSah/Anti-Dump-Algorithm) from joke to solution? 😅
 
 
 
