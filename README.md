@@ -20,6 +20,8 @@
 
 ---
 ## About me
+
+<details>
     satire start !? 
     
 ### Who am I ?
@@ -55,7 +57,7 @@ Wanna know what happens when you pull that crap? I'll find you faster than a pis
 
 
     satire end?
-
+</details>
 ### Released
 
 [![PoisonIvory - Nemesis Version](img/ivory.jpg)](https://github.com/VolkanSah/PoisonIvory)
