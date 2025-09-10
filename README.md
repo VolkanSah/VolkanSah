@@ -6,15 +6,7 @@
 ->You have DUMPY AI Users that cost you money and time? Have a look on [ADI](https://github.com/VolkanSah/Anti-Dump-Algorithm) from joke to solution 😅
 
 
-<!-- STATS-START -->
-## 📊 Public GitHub Stats
-- **Public Repositories:** 184
-- **Public Total Stars:** 398
-- **Public Total Forks:** 121
-- **Public Followers:** 250
 
-*Last updated automatically via GitHub Actions.*
-<!-- STATS-END -->
 
 
 
@@ -76,6 +68,16 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
     
 </details>
 
+
+<!-- STATS-START -->
+## 📊 Public GitHub Stats
+- **Public Repositories:** 184
+- **Public Total Stars:** 398
+- **Public Total Forks:** 121
+- **Public Followers:** 250
+
+*Last updated automatically via GitHub Actions.*
+<!-- STATS-END -->
 
 
 ### Released
