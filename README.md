@@ -10,8 +10,6 @@
 
 
 
----
-
 ## About me
 
 <details>
