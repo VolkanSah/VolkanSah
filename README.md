@@ -16,7 +16,7 @@
 *Last updated automatically via GitHub Actions.*
 <!-- STATS-END -->
 
-![NOT A TOY](img/volkan_toy.png)
+
 
 ---
 ## About me
@@ -74,7 +74,7 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
     
 </details>
 
-
+![NOT A TOY](img/volkan_toy.png)
 
 ### Released
 
