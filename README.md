@@ -36,11 +36,19 @@ chmod 777 gives everyone access — except Chuck Norris. He doesn’t need permi
 
 - Languages – html(5), xml, css³, php, js, typescript, python, perl, smalltalk, c, sql (Mysql, MariaDB, PostGre) and some other, Morty … Pfft, I’ve got ‘em all covered on , Morty. Oh, and yeah, I speak some human languages too: German, English, Turkish – and some others, but don’t expect me to write Shakespeare ... you know where the timemachine stands, Morty!
 
+### My Philosophy
+
+Morty, listen close. You see a problem out there? With some bloated, broken piece of code that’s got all these schmucks whining about it? Most idiots just stand around, but me? I see a fucking mandate to build something that actually works. Lighter, better, safer.
+
+Yeah, I get it. Some clueless little shit will always ask, "Hey, if you're so smart, why ain't you rich?" Because my value, you pathetic sack of garbage, isn't measured in cash. It’s in the solution I built. It’s in the moment some poor developer uses my code to finally get a damn problem solved. I'm not doing this to get rich. I'm doing it because... well, because I'm not a sellout.
+
+This stuff is mine. It can't be fired, it can't be bought. It's the proof that I don't just talk about problems. I incinerate them. Now get out of my sight, Morty.
+
 ## How to Request Help / Report Issues
 
 Listen up, Morty! You wanna ask for help or report an issue, don't just throw some half-assed garbage at me like you're scribbling on a napkin, alright? I ain't got time for that! Give me details, Morty, like system specs, error messages, the works! You think I’m a mind reader? Fuck off, wrong universe, Morty! You leave out the important stuff, I’ll ignore your issue faster than I can down this flask! So don’t be an idiot, give me something I can work with, or get the hell outta my codebase! Understand?
 
-## How to Avoid Being a Complete Idiot (Especially with Code)
+### How to Avoid Being a Complete Idiot (Especially with Code)
 
 Hey Morty! Let me spell it out for you, nice and slow: DON’T. STEAL. MY. CODE. You think copying someone else's work and slapping your name on it makes you clever? No, Morty, it makes you a colossal idiot.
 
@@ -48,13 +56,7 @@ Wanna know what happens when you pull that crap? I'll find you faster than a pis
 
   Look, Morty, we live in a universe of infinite possibilities. Infinite. So why the hell would you waste yours being the punchline to a bad joke? Use the code responsibly, follow the damn rules, and maybe—just maybe—you won’t end up on the wrong end of my verbal disintegrator. Get it, Morty? Good.
 
-  ## My Philosophy
 
-Morty, listen close. You see a problem out there? With some bloated, broken piece of code that’s got all these schmucks whining about it? Most idiots just stand around, but me? I see a fucking mandate to build something that actually works. Lighter, better, safer.
-
-Yeah, I get it. Some clueless little shit will always ask, "Hey, if you're so smart, why ain't you rich?" Because my value, you pathetic sack of garbage, isn't measured in cash. It’s in the solution I built. It’s in the moment some poor developer uses my code to finally get a damn problem solved. I'm not doing this to get rich. I'm doing it because... well, because I'm not a sellout.
-
-This stuff is mine. It can't be fired, it can't be bought. It's the proof that I don't just talk about problems. I incinerate them. Now get out of my sight, Morty.
 
     satire end?
 
