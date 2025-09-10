@@ -1,7 +1,3 @@
-```bash
-# Reminder for true system power
-chmod 777 gives everyone access — except Chuck Norris. He doesn’t need permissions
-```
 ## Released
 [![MinigreX-CMS](img/header_minigrex.png)](https://minigrex.github.io)
 
@@ -78,6 +74,11 @@ Wanna know what happens when you pull that crap? I'll find you faster than a pis
 ## Much more Stats
 
 <img src="https://github-profile-trophy.vercel.app/?username=volkansah" style="width: 100%;"/>
+
+```bash
+# Reminder for true system power
+chmod 777 gives everyone access — except Chuck Norris. He doesn’t need permissions
+```
 
 
 
