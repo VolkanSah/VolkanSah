@@ -54,6 +54,10 @@ This stuff is mine. It can't be fired, it can't be bought. It's the proof that I
 
 ----
 
+![NOT A TOY](img/volkan_toy.png)
+
+----
+
 
 ### How to Request Help / Report Issues
 
@@ -74,7 +78,7 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
     
 </details>
 
-![NOT A TOY](img/volkan_toy.png)
+
 
 ### Released
 
