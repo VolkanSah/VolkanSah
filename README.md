@@ -3,7 +3,7 @@
 chmod 777 gives everyone access — except Chuck Norris. He doesn’t need permissions
 ```
 ## Released
-[![MinigreX-CMS](img/header_minigrex.png)](https://github.com/MiniGreX)
+[![MinigreX-CMS](img/header_minigrex.png)](https://minigrex.github.io)
 
 ###  • [Free Global Proxies](https://github.com/VolkanSah/Auto-Proxy-Fetcher) • [JadeAI](https://jugendamt-deutschland.de) • [Gist](https://gist.github.com/VolkanSah)  • [Own public content ]( https://volkansah.github.io/Obsidian-Nightfall/)  • [NCF](https://nemesiscyberforce.github.io/)
 
