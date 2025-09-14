@@ -85,19 +85,18 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
 [![PoisonIvory - Nemesis Version](img/ivory.jpg)](https://github.com/VolkanSah/PoisonIvory)
 
 ## More GitHub Stats
+<details>
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=volkansah&show_icons=true&theme=radical" style="width: 48%;"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=volkansah&theme=dark" style="width: 51%;"/>
 
 </div>
-
-
-
-
-## Much more Stats
-
 <img src="https://github-profile-trophy.vercel.app/?username=volkansah" style="width: 100%;"/>
+
+<details>
+
+
 
 ```bash
 # Reminder for true system power
