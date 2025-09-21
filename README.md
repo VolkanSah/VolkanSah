@@ -17,7 +17,8 @@ chmod 777 gives everyone access — except Chuck Norris. He doesn’t need permi
 
 <details>
 
-  <summary> About me  </summary>
+  <summary> About me </summary>
+  
 
 ![NOT A TOY](img/volkan_toy.png)
 
