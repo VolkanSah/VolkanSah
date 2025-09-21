@@ -8,8 +8,6 @@
 
 
 
-![Codey](https://github.com/VolkanSah/Codey/blob/main/codey.svg)
-
 
 <details>
 
