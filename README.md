@@ -1,11 +1,12 @@
 ## Released
-[![MinigreX-CMS](img/header_minigrex.png)](https://minigrex.github.io)
+![Codey - Your GitHub Pet](https://raw.githubusercontent.com/VolkanSah/Codey/main/codey.svg)
+###### Want your own Codey? Have a look on this repo : [Codey](https://github.com/VolkanSah/Codey)
+
 
 
 ###  • [Free Global Proxies](https://github.com/VolkanSah/Auto-Proxy-Fetcher) • [JadeAI](https://jugendamt-deutschland.de) • [Gist](https://gist.github.com/VolkanSah)  • [Own public content ]( https://volkansah.github.io/Obsidian-Nightfall/)  • [NCF](https://nemesiscyberforce.github.io/)
 
-![Codey - Your GitHub Pet](https://raw.githubusercontent.com/VolkanSah/Codey/main/codey.svg)
-###### Want your own Codey? Have a look on this repo : [Codey](https://github.com/VolkanSah/Codey)
+
 
 
 <details>
@@ -81,6 +82,7 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
 ### Released
 
 [![PoisonIvory - Nemesis Version](img/ivory.jpg)](https://github.com/VolkanSah/PoisonIvory)
+[![MinigreX-CMS](img/header_minigrex.png)](https://minigrex.github.io)
 
 ## More GitHub Stats
 <details>
