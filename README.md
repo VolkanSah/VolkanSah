@@ -145,7 +145,7 @@ Name | Forks | Stars | Release
 
 
 <details>
-  <summary> PHP  </summary>
+  <summary> PHP (The better alternative for Web!) </summary>
 
   ->soon!
 
@@ -153,28 +153,28 @@ Name | Forks | Stars | Release
 
   
 <details>
-  <summary> Python  </summary>
+  <summary> Python (Tools,Tips & Tricks  </summary>
 
   ->soon!
 
   </details>
 
   <details>
-  <summary> Shell/Bash  </summary>
+  <summary> Shell/Bash (Veteran) </summary>
 
   ->soon!
 
   </details>
 
   <details>
-  <summary> Papers </summary>
+  <summary> Papers ( Good to know!) </summary>
 
   ->soon!
 
   </details>
 
   <details>
-  <summary> Security  </summary>
+  <summary> Security (or maybe Hacking?)  </summary>
 
   ->soon!
 
@@ -190,7 +190,7 @@ Name | Forks | Stars | Release
 
 
 <details>
-  <summary> Misk </summary>
+  <summary> Misk (other stuff) </summary>
 
   ->soon!
 
