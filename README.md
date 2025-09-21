@@ -144,7 +144,55 @@ Name | Forks | Stars | Release
 </details>
 
 
+<details>
+  <summary> PHP  </summary>
 
+  ->soon!
+
+  </details>
+
+  
+<details>
+  <summary> Python  </summary>
+
+  ->soon!
+
+  </details>
+
+  <details>
+  <summary> Shell/Bash  </summary>
+
+  ->soon!
+
+  </details>
+
+  <details>
+  <summary> Papers </summary>
+
+  ->soon!
+
+  </details>
+
+  <details>
+  <summary> Security  </summary>
+
+  ->soon!
+
+  </details>
+
+    <details>
+  <summary> Ai/ML/LLM  </summary>
+
+  ->soon!
+
+  </details>
+
+    <details>
+  <summary> Misk </summary>
+
+  ->soon!
+
+  </details>
 
 
 
