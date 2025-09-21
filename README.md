@@ -85,7 +85,6 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
 
 ### Released
 
-[![PoisonIvory - Nemesis Version](img/ivory.jpg)](https://github.com/VolkanSah/PoisonIvory)
 [![MinigreX-CMS](img/header_minigrex.png)](https://minigrex.github.io)
 
 ## More GitHub Stats
