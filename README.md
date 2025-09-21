@@ -108,7 +108,7 @@ chmod 777 gives everyone access — except Chuck Norris. He doesn’t need permi
 
 
 <details>
-  <summary> WordPress
+  <summary> WordPress  </summary>summary>
 
 ##  Plugins
 
@@ -125,7 +125,7 @@ Super Sexy Custom Buttons | ![Forks](https://img.shields.io/github/forks/VolkanS
 Media Upload only for Admins | ![Forks](https://img.shields.io/github/forks/VolkanSah/Media-Upload-only-for-Admins-in-WordPress) | [![Stars](https://img.shields.io/github/stars/VolkanSah/Media-Upload-only-for-Admins-in-WordPress)](https://github.com/VolkanSah/Media-Upload-only-for-Admins-in-WordPress/) | [![Release](https://img.shields.io/github/v/release/VolkanSah/Media-Upload-only-for-Admins-in-WordPress)](https://github.com/VolkanSah/Media-Upload-only-for-Admins-in-WordPress/releases)
 View All Posts (WP Admin) | ![Forks](https://img.shields.io/github/forks/VolkanSah/WP-Admin-Post-View-All) | [![Stars](https://img.shields.io/github/stars/VolkanSah/WP-Admin-Post-View-All)](https://github.com/VolkanSah/WP-Admin-Post-View-All/) | [![Release](https://img.shields.io/github/v/release/VolkanSah/WP-Admin-Post-View-All)](https://github.com/VolkanSah/WP-Admin-Post-View-All/releases)
 
----
+
 
 ## Papers
 
@@ -133,7 +133,7 @@ Name | Forks | Stars | Release
 -- | -- | --- | ---
 WordPress Security Scanner (Advanced Use) | ![Forks](https://img.shields.io/github/forks/VolkanSah/WordPress-Security-Scanner-advanced-use) | [![Stars](https://img.shields.io/github/stars/VolkanSah/WordPress-Security-Scanner-advanced-use)](https://github.com/VolkanSah/WordPress-Security-Scanner-advanced-use/) | [![Release](https://img.shields.io/github/v/release/VolkanSah/WordPress-Security-Scanner-advanced-use)](https://github.com/VolkanSah/WordPress-Security-Scanner-advanced-use/releases)
 
----
+
 
 ## Misc
 
