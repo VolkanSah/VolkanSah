@@ -15,10 +15,6 @@ chmod 777 gives everyone access — except Chuck Norris. He doesn’t need permi
 > Have a look on this repo : [Codey](https://github.com/VolkanSah/Codey)
 
 
-
-
-
-
 <details>
 
   <summary> About me  </summary>
@@ -75,38 +71,6 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
 
     
 </details>
-
-
-
-<!-- STATS-START -->
-## 📊 Public GitHub Stats
-- **Public Repositories:** 189
-- **Public Total Stars:** 365
-- **Public Total Forks:** 113
-- **Public Followers:** 249
-
-*Last updated automatically via GitHub Actions.*
-<!-- STATS-END -->
-
-
-### Released
-
-[![MinigreX-CMS](img/header_minigrex.png)](https://minigrex.github.io)
-
-<details>
-  <summary>More GitHub Stats  </summary>
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=volkansah&show_icons=true&theme=radical" style="width: 48%;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=volkansah&theme=dark" style="width: 51%;"/>
-
-</div>
-<img src="https://github-profile-trophy.vercel.app/?username=volkansah" style="width: 100%;"/>
-
-</details>
-
-
-
 
 
 ### My public stuff
@@ -330,6 +294,47 @@ Name | Forks | Stars | Release
 [How-to-kill-a-cp-server](https://github.com/VolkanSah/How-to-kill-a-cp-server) | ![Forks](https://img.shields.io/github/forks/VolkanSah/How-to-kill-a-cp-server) | ![Stars](https://img.shields.io/github/stars/VolkanSah/How-to-kill-a-cp-server) | [![Release](https://img.shields.io/github/v/release/VolkanSah/How-to-kill-a-cp-server)](https://github.com/VolkanSah/How-to-kill-a-cp-server/releases)
 
 </details>
+
+
+### Released (beta test)
+
+[![MinigreX-CMS](img/header_minigrex.png)](https://minigrex.github.io)
+
+
+
+
+
+
+<!-- STATS-START -->
+## 📊 Public GitHub Stats
+- **Public Repositories:** 189
+- **Public Total Stars:** 365
+- **Public Total Forks:** 113
+- **Public Followers:** 249
+
+*Last updated automatically via GitHub Actions.*
+<!-- STATS-END -->
+
+
+
+
+<details>
+  <summary>More GitHub Stats  </summary>
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=volkansah&show_icons=true&theme=radical" style="width: 48%;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=volkansah&theme=dark" style="width: 51%;"/>
+
+</div>
+<img src="https://github-profile-trophy.vercel.app/?username=volkansah" style="width: 100%;"/>
+
+</details>
+
+
+
+
+
+
 
 
 
