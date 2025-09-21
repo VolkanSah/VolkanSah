@@ -10,9 +10,9 @@
 
 
 
-## About me
-
 <details>
+
+  <summary> About me  </summary>
 
 ![NOT A TOY](img/volkan_toy.png)
 
