@@ -94,7 +94,7 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
 </div>
 <img src="https://github-profile-trophy.vercel.app/?username=volkansah" style="width: 100%;"/>
 
-<details>
+</details>
 
 
 
