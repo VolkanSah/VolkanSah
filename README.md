@@ -108,7 +108,7 @@ chmod 777 gives everyone access — except Chuck Norris. He doesn’t need permi
 
 
 <details>
-  <summary> WordPress  </summary>summary>
+  <summary> WordPress  </summary>
 
 ##  Plugins
 
