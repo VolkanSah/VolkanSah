@@ -88,9 +88,9 @@ Exploring the Code Interpreter in OpenAI ChatGPT | ![Forks](https://img.shields.
 
 ###### Webtools, Design & more soon, sorry
 
-Name | Forks | Stars | Link to it
+Name | Forks | Stars | Release
 -- | -- | --- | ---
-Auto Proxy Fetcher | ![Forks](https://img.shields.io/github/forks/VolkanSah/Auto-Proxy-Fetcher) | [![Stars](https://img.shields.io/github/stars/VolkanSah/Auto-Proxy-Fetcher)](https://github.com/VolkanSah/Auto-Proxy-Fetcher/) | [Link to](https://github.com/VolkanSah/Auto-Proxy-Fetcher/tree/main)
+Auto Proxy Fetcher | ![Forks](https://img.shields.io/github/forks/VolkanSah/Auto-Proxy-Fetcher) | [![Stars](https://img.shields.io/github/stars/VolkanSah/Auto-Proxy-Fetcher)](https://github.com/VolkanSah/Auto-Proxy-Fetcher/) 
 Simple small lazyload function | ![Forks](https://img.shields.io/github/forks/VolkanSah/simple-lazyload-function) | [![Stars](https://img.shields.io/github/stars/VolkanSah/simple-lazyload-function)](https://github.com/VolkanSah/simple-lazyload-function/) | [Link to](https://github.com/VolkanSah/simple-lazyload-function)
 Web Interface for Running Python Scripts | ![Forks](https://img.shields.io/github/forks/VolkanSah/Web-Interface-for-Running-Python-Scripts) | [![Stars](https://img.shields.io/github/stars/VolkanSah/Web-Interface-for-Running-Python-Scripts)](https://github.com/VolkanSah/Web-Interface-for-Running-Python-Scripts/) | [Link to](https://github.com/VolkanSah/Web-Interface-for-Running-Python-Scripts)
 Modern Web-Business-Card | ![Forks](https://img.shields.io/github/forks/VolkanSah/Web-Business-Card) | [![Stars](https://img.shields.io/github/stars/VolkanSah/Web-Business-Card)](https://github.com/VolkanSah/Web-Business-Card/) | [Link to](https://github.com/VolkanSah/Web-Business-Card/)
@@ -102,18 +102,37 @@ DOM Control / Event Listener | ![Forks](https://img.shields.io/github/forks/Volk
 
 ### WordPress
 
-Name | Forks | Stars | Link to it
+##### WP-Plugins
+
+Name | Forks | Stars | Release
 -- | -- | --- | ---
-AICC Comments Reply with OpenAI GPT| ![Forks](https://img.shields.io/github/forks/VolkanSah/aicc-comments-reply) | [![Stars](https://img.shields.io/github/stars/VolkanSah/aicc-comments-reply)](https://github.com/VolkanSah/aicc-comments-reply) | [Link to](https://github.com/VolkanSah/aicc-comments-reply)
-WP Claude 3.x Interface | ![Forks](https://img.shields.io/github/forks/VolkanSah/WP-Claude-Interface) | [![Stars](https://img.shields.io/github/stars/VolkanSah/WP-Claude-Interface)](https://github.com/VolkanSah/WP-Claude-Interface/) | [Link to](https://github.com/VolkanSah/WP-Claude-Interface)
-Custom Fields Eraser (Manager) | ![Forks](https://img.shields.io/github/forks/VolkanSah/Custom-Fields-Eraser) | [![Stars](https://img.shields.io/github/stars/VolkanSah/Custom-Fields-Eraser)](https://github.com/VolkanSah/Custom-Fields-Eraser/) | [Link to](https://github.com/VolkanSah/Custom-Fields-Eraser)
-Interaction & Debug Logger | ![Forks](https://img.shields.io/github/forks/VolkanSah/Interaction-Debug-Logger) | [![Stars](https://img.shields.io/github/stars/VolkanSah/Interaction-Debug-Logger)](https://github.com/VolkanSah/Interaction-Debug-Logger/) | [Link to](https://github.com/VolkanSah/Interaction-Debug-Logger)
-Super Sexy Custom Buttons | ![Forks](https://img.shields.io/github/forks/VolkanSah/Super-Sexy-Custom-Buttons) | [![Stars](https://img.shields.io/github/stars/VolkanSah/Super-Sexy-Custom-Buttons)](https://github.com/VolkanSah/Super-Sexy-Custom-Buttons/) | [Link to](https://github.com/VolkanSah/Super-Sexy-Custom-Buttons)
-Facebook Engagement Metrics (lite) Plugin | ![Forks](https://img.shields.io/github/forks/VolkanSah/WP-Facebook-Engagement-Metrics) | [![Stars](https://img.shields.io/github/stars/VolkanSah/WP-Facebook-Engagement-Metrics)](https://github.com/VolkanSah/WP-Facebook-Engagement-Metrics/) | [Link to](https://github.com/VolkanSah/WP-Facebook-Engagement-Metrics)
-Upload (admin only) | ![Forks](https://img.shields.io/github/forks/VolkanSah/Media-Upload-only-for-Admins-in-WordPress) | [![Stars](https://img.shields.io/github/stars/VolkanSah/Media-Upload-only-for-Admins-in-WordPress)](https://github.com/VolkanSah/Media-Upload-only-for-Admins-in-WordPress/) | [Link to](https://github.com/VolkanSah/Media-Upload-only-for-Admins-in-WordPress)
-Admin Post-View "all" | ![Forks](https://img.shields.io/github/forks/VolkanSah/WP-Admin-Post-View-All) | [![Stars](https://img.shields.io/github/stars/VolkanSah/WP-Admin-Post-View-All)](https://github.com/VolkanSah/WP-Admin-Post-View-All/) | [Link to](https://github.com/VolkanSah/WP-Admin-Post-View-All)
-Warning Popup | ![Forks](https://img.shields.io/github/forks/VolkanSah/Warning-function-for-WordPress) | [![Stars](https://img.shields.io/github/stars/VolkanSah/Warning-function-for-WordPress)](https://github.com/VolkanSah/Warning-function-for-WordPress/) | [Link to](https://github.com/VolkanSah/Warning-function-for-WordPress)
-WordPress Security with WPScan (advanced usage) | ![Forks](https://img.shields.io/github/forks/VolkanSah/wpscan-advanced-use) | [![Stars](https://img.shields.io/github/stars/VolkanSah/wpscan-advanced-use)](https://github.com/VolkanSah/wpscan-advanced-use/) | [Link to](https://github.com/VolkanSah/wpscan-advanced-use)
+Debug Logger | ![Forks](https://img.shields.io/github/forks/VolkanSah/Debug-Logger-Pro) | [![Stars](https://img.shields.io/github/stars/VolkanSah/Debug-Logger-Pro)](https://github.com/VolkanSah/Debug-Logger-Pro/) | [![Release](https://img.shields.io/github/v/release/VolkanSah/Debug-Logger-Pro)](https://github.com/VolkanSah/Debug-Logger-Pro/releases)
+AiCC Comments Reply with GPT (OpenAI) | ![Forks](https://img.shields.io/github/forks/VolkanSah/aicc-comments-reply) | [![Stars](https://img.shields.io/github/stars/VolkanSah/aicc-comments-reply)](https://github.com/VolkanSah/aicc-comments-reply/) | [![Release](https://img.shields.io/github/v/release/VolkanSah/aicc-comments-reply)](https://github.com/VolkanSah/aicc-comments-reply/releases)
+Facebook Engagement Metrics | ![Forks](https://img.shields.io/github/forks/VolkanSah/WP-Facebook-Engagement-Metrics) | [![Stars](https://img.shields.io/github/stars/VolkanSah/WP-Facebook-Engagement-Metrics)](https://github.com/VolkanSah/WP-Facebook-Engagement-Metrics/) | [![Release](https://img.shields.io/github/v/release/VolkanSah/WP-Facebook-Engagement-Metrics)](https://github.com/VolkanSah/WP-Facebook-Engagement-Metrics/releases)
+Custom-Fields-Eraser (Manager) | ![Forks](https://img.shields.io/github/forks/VolkanSah/Custom-Fields-Eraser) | [![Stars](https://img.shields.io/github/stars/VolkanSah/Custom-Fields-Eraser)](https://github.com/VolkanSah/Custom-Fields-Eraser/) | [![Release](https://img.shields.io/github/v/release/VolkanSah/Custom-Fields-Eraser)](https://github.com/VolkanSah/Custom-Fields-Eraser/releases)
+Simple Content Warning | ![Forks](https://img.shields.io/github/forks/VolkanSah/Warning-function-for-WordPress) | [![Stars](https://img.shields.io/github/stars/VolkanSah/Warning-function-for-WordPress)](https://github.com/VolkanSah/Warning-function-for-WordPress/) | [![Release](https://img.shields.io/github/v/release/VolkanSah/Warning-function-for-WordPress)](https://github.com/VolkanSah/Warning-function-for-WordPress/releases)
+Claude AI Chat | ![Forks](https://img.shields.io/github/forks/VolkanSah/WP-Claude-Interface) | [![Stars](https://img.shields.io/github/stars/VolkanSah/WP-Claude-Interface)](https://github.com/VolkanSah/WP-Claude-Interface/) | [![Release](https://img.shields.io/github/v/release/VolkanSah/WP-Claude-Interface)](https://github.com/VolkanSah/WP-Claude-Interface/releases)
+Viewer.js Images (AntiAugenKrebs) | ![Forks](https://img.shields.io/github/forks/VolkanSah/AntiAugenKrebs) | [![Stars](https://img.shields.io/github/stars/VolkanSah/AntiAugenKrebs)](https://github.com/VolkanSah/AntiAugenKrebs/) | [![Release](https://img.shields.io/github/v/release/VolkanSah/AntiAugenKrebs)](https://github.com/VolkanSah/AntiAugenKrebs/releases)
+Super Sexy Custom Buttons | ![Forks](https://img.shields.io/github/forks/VolkanSah/Super-Sexy-Custom-Buttons) | [![Stars](https://img.shields.io/github/stars/VolkanSah/Super-Sexy-Custom-Buttons)](https://github.com/VolkanSah/Super-Sexy-Custom-Buttons/) | [![Release](https://img.shields.io/github/v/release/VolkanSah/Super-Sexy-Custom-Buttons)](https://github.com/VolkanSah/Super-Sexy-Custom-Buttons/releases)
+Media Upload only for Admins | ![Forks](https://img.shields.io/github/forks/VolkanSah/Media-Upload-only-for-Admins-in-WordPress) | [![Stars](https://img.shields.io/github/stars/VolkanSah/Media-Upload-only-for-Admins-in-WordPress)](https://github.com/VolkanSah/Media-Upload-only-for-Admins-in-WordPress/) | [![Release](https://img.shields.io/github/v/release/VolkanSah/Media-Upload-only-for-Admins-in-WordPress)](https://github.com/VolkanSah/Media-Upload-only-for-Admins-in-WordPress/releases)
+View All Posts (WP Admin) | ![Forks](https://img.shields.io/github/forks/VolkanSah/WP-Admin-Post-View-All) | [![Stars](https://img.shields.io/github/stars/VolkanSah/WP-Admin-Post-View-All)](https://github.com/VolkanSah/WP-Admin-Post-View-All/) | [![Release](https://img.shields.io/github/v/release/VolkanSah/WP-Admin-Post-View-All)](https://github.com/VolkanSah/WP-Admin-Post-View-All/releases)
+
+---
+
+##### WP-Papers
+
+Name | Forks | Stars | Release
+-- | -- | --- | ---
+WordPress Security Scanner (Advanced Use) | ![Forks](https://img.shields.io/github/forks/VolkanSah/WordPress-Security-Scanner-advanced-use) | [![Stars](https://img.shields.io/github/stars/VolkanSah/WordPress-Security-Scanner-advanced-use)](https://github.com/VolkanSah/WordPress-Security-Scanner-advanced-use/) | [![Release](https://img.shields.io/github/v/release/VolkanSah/WordPress-Security-Scanner-advanced-use)](https://github.com/VolkanSah/WordPress-Security-Scanner-advanced-use/releases)
+
+---
+
+##### Wp-Misc
+
+Name | Forks | Stars | Release
+-- | -- | --- | ---
+External DB Dummy | ![Forks](https://img.shields.io/github/forks/VolkanSah/External-DB-Dummy-Plugin-for-WordPress) | [![Stars](https://img.shields.io/github/stars/VolkanSah/External-DB-Dummy-Plugin-for-WordPress)](https://github.com/VolkanSah/External-DB-Dummy-Plugin-for-WordPress/) | [![Release](https://img.shields.io/github/v/release/VolkanSah/External-DB-Dummy-Plugin-for-WordPress)](https://github.com/VolkanSah/External-DB-Dummy-Plugin-for-WordPress/releases)
+
 
 ### Social Networks
 
