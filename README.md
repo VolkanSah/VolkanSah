@@ -180,14 +180,16 @@ Name | Forks | Stars | Release
 
   </details>
 
-    <details>
+
+<details>
   <summary> Ai/ML/LLM  </summary>
 
   ->soon!
 
   </details>
 
-    <details>
+
+<details>
   <summary> Misk </summary>
 
   ->soon!
