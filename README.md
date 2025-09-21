@@ -109,8 +109,7 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
 
 
 
-### Stuff
-> will sort later all the stuff
+### My public stuff
 
 <details>
   <summary> WordPress (Plugins / Tips / Solutions)  </summary>
