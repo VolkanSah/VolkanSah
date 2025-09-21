@@ -4,7 +4,7 @@
 
 ###  • [Free Global Proxies](https://github.com/VolkanSah/Auto-Proxy-Fetcher) • [JadeAI](https://jugendamt-deutschland.de) • [Gist](https://gist.github.com/VolkanSah)  • [Own public content ]( https://volkansah.github.io/Obsidian-Nightfall/)  • [NCF](https://nemesiscyberforce.github.io/)
 
-![Codey -2](https://github.com/VolkanSah/Codey/blob/main/codey.svg)
+![Codey - Your GitHub Pet](https://raw.githubusercontent.com/VolkanSah/Codey/main/codey.svg)
 ###### Want your own Codey? Have a look on this repo : [Codey](https://github.com/VolkanSah/Codey)
 
 
