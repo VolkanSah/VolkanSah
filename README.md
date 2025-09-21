@@ -6,7 +6,7 @@
 
 ->You have DUMPY AI Users that cost you money and time? Have a look on [ADI](https://github.com/VolkanSah/Anti-Dump-Algorithm) from joke to solution? 😅
 
-![Codey](https://github.com/VolkanSah/Codey/blob/main/codey.svg)
+![Codey -2](https://github.com/VolkanSah/Codey/blob/main/codey.svg)
 
 
 <details>
