@@ -4,9 +4,6 @@
 
 
 [![Codey - Your GitHub Pet](https://raw.githubusercontent.com/VolkanSah/Codey/refs/heads/main/codey.svg)](https://github.com/VolkanSah/Codey)
-
-[![MinigreX-CMS](img/header_minigrex.png)](https://minigrex.github.io)
-
 > Codey Lite & Full Codey RPG. Want your own Codey?
 > Have a look on this repo : [Codey](https://github.com/VolkanSah/Codey)
 
