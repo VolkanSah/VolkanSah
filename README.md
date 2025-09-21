@@ -93,8 +93,8 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
 
 [![MinigreX-CMS](img/header_minigrex.png)](https://minigrex.github.io)
 
-## More GitHub Stats
 <details>
+  <summary>More GitHub Stats  </summary>
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=volkansah&show_icons=true&theme=radical" style="width: 48%;"/>
