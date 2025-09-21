@@ -93,19 +93,7 @@ Name | Forks | Stars | Release
 [Super Sexy Custom Buttons](https://github.com/VolkanSah/Super-Sexy-Custom-Buttons) | ![Forks](https://img.shields.io/github/forks/VolkanSah/Super-Sexy-Custom-Buttons) | ![Stars](https://img.shields.io/github/stars/VolkanSah/Super-Sexy-Custom-Buttons) | [![Release](https://img.shields.io/github/v/release/VolkanSah/Super-Sexy-Custom-Buttons)](https://github.com/VolkanSah/Super-Sexy-Custom-Buttons/releases)
 [Media Upload only for Admins](https://github.com/VolkanSah/Media-Upload-only-for-Admins-in-WordPress) | ![Forks](https://img.shields.io/github/forks/VolkanSah/Media-Upload-only-for-Admins-in-WordPress) | ![Stars](https://img.shields.io/github/stars/VolkanSah/Media-Upload-only-for-Admins-in-WordPress) | [![Release](https://img.shields.io/github/v/release/VolkanSah/Media-Upload-only-for-Admins-in-WordPress)](https://github.com/VolkanSah/Media-Upload-only-for-Admins-in-WordPress/releases)
 [View All Posts (WP Admin)](https://github.com/VolkanSah/WP-Admin-Post-View-All) | ![Forks](https://img.shields.io/github/forks/VolkanSah/WP-Admin-Post-View-All) | ![Stars](https://img.shields.io/github/stars/VolkanSah/WP-Admin-Post-View-All) | [![Release](https://img.shields.io/github/v/release/VolkanSah/WP-Admin-Post-View-All)](https://github.com/VolkanSah/WP-Admin-Post-View-All/releases)
-
-
-## Papers
-
-Name | Forks | Stars | Release
--- | -- | --- | ---
 [⭐ WordPress Security Scanner (Advanced Use)](https://github.com/VolkanSah/WordPress-Security-Scanner-advanced-use) | ![Forks](https://img.shields.io/github/forks/VolkanSah/WordPress-Security-Scanner-advanced-use) | ![Stars](https://img.shields.io/github/stars/VolkanSah/WordPress-Security-Scanner-advanced-use) | [![Release](https://img.shields.io/github/v/release/VolkanSah/WordPress-Security-Scanner-advanced-use)](https://github.com/VolkanSah/WordPress-Security-Scanner-advanced-use/releases)
-
-
-## Misc
-
-Name | Forks | Stars | Release
--- | -- | --- | ---
 [External DB Dummy](https://github.com/VolkanSah/External-DB-Dummy-Plugin-for-WordPress) | ![Forks](https://img.shields.io/github/forks/VolkanSah/External-DB-Dummy-Plugin-for-WordPress) | ![Stars](https://img.shields.io/github/stars/VolkanSah/External-DB-Dummy-Plugin-for-WordPress) | [![Release](https://img.shields.io/github/v/release/VolkanSah/External-DB-Dummy-Plugin-for-WordPress)](https://github.com/VolkanSah/External-DB-Dummy-Plugin-for-WordPress/releases)
 
 </details>
@@ -212,7 +200,6 @@ Name | Forks | Stars | Release
 [⭐ Python-Modules-Overview](https://github.com/VolkanSah/Python-Modules-Overview) | ![Forks](https://img.shields.io/github/forks/VolkanSah/Python-Modules-Overview) | ![Stars](https://img.shields.io/github/stars/VolkanSah/Python-Modules-Overview) | [![Release](https://img.shields.io/github/v/release/VolkanSah/Python-Modules-Overview)](https://github.com/VolkanSah/Python-Modules-Overview/releases)
 [Secure-Hidden-Service](https://github.com/VolkanSah/Secure-Hidden-Service) | ![Forks](https://img.shields.io/github/forks/VolkanSah/Secure-Hidden-Service) | ![Stars](https://img.shields.io/github/stars/VolkanSah/Secure-Hidden-Service) | [![Release](https://img.shields.io/github/v/release/VolkanSah/Secure-Hidden-Service)](https://github.com/VolkanSah/Secure-Hidden-Service/releases)
 [⭐ Security-Headers](https://github.com/VolkanSah/Security-Headers) | ![Forks](https://img.shields.io/github/forks/VolkanSah/Security-Headers) | ![Stars](https://img.shields.io/github/stars/VolkanSah/Security-Headers) | [![Release](https://img.shields.io/github/v/release/VolkanSah/Security-Headers)](https://github.com/VolkanSah/Security-Headers/releases)
-[WordPress-Security-Scanner-advanced-use](https://github.com/VolkanSah/WordPress-Security-Scanner-advanced-use) | ![Forks](https://img.shields.io/github/forks/VolkanSah/WordPress-Security-Scanner-advanced-use) | ![Stars](https://img.shields.io/github/stars/VolkanSah/WordPress-Security-Scanner-advanced-use) | [![Release](https://img.shields.io/github/v/release/VolkanSah/WordPress-Security-Scanner-advanced-use)](https://github.com/VolkanSah/WordPress-Security-Scanner-advanced-use/releases)
 
 </details>
 
