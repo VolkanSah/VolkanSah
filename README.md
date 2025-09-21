@@ -1,3 +1,8 @@
+```bash
+# Reminder for true system power
+chmod 777 gives everyone access — except Chuck Norris. He doesn’t need permissions
+```
+
 #####  • [Free Global Proxies](https://github.com/VolkanSah/Auto-Proxy-Fetcher) • [JadeAI](https://jugendamt-deutschland.de) • [Gist](https://gist.github.com/VolkanSah)  • [Own public content ]( https://volkansah.github.io/Obsidian-Nightfall/)  • [NCF](https://nemesiscyberforce.github.io/)
 
 #### Released
@@ -100,10 +105,6 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
 
 
 
-```bash
-# Reminder for true system power
-chmod 777 gives everyone access — except Chuck Norris. He doesn’t need permissions
-```
 
 
 ### Stuff
