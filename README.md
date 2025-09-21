@@ -221,7 +221,7 @@ Name | Forks | Stars | Release
 [OpenAI-Cost-Calculator](https://github.com/VolkanSah/OpenAI-Cost-Calculator) | ![Forks](https://img.shields.io/github/forks/VolkanSah/OpenAI-Cost-Calculator) | ![Stars](https://img.shields.io/github/stars/VolkanSah/OpenAI-Cost-Calculator) | [![Release](https://img.shields.io/github/v/release/VolkanSah/OpenAI-Cost-Calculator)](https://github.com/VolkanSah/OpenAI-Cost-Calculator/releases)
 [Text-to-Speech-PyGUI-for-Whisper](https://github.com/VolkanSah/Text-to-Speech-PyGUI-for-Whisper) | ![Forks](https://img.shields.io/github/forks/VolkanSah/Text-to-Speech-PyGUI-for-Whisper) | ![Stars](https://img.shields.io/github/stars/VolkanSah/Text-to-Speech-PyGUI-for-Whisper) | [![Release](https://img.shields.io/github/v/release/VolkanSah/Text-to-Speech-PyGUI-for-Whisper)](https://github.com/VolkanSah/Text-to-Speech-PyGUI-for-Whisper/releases)
 [Twitter-X-AINewsBot](https://github.com/VolkanSah/Twitter-X-AINewsBot) | ![Forks](https://img.shields.io/github/forks/VolkanSah/Twitter-X-AINewsBot) | ![Stars](https://img.shields.io/github/stars/VolkanSah/Twitter-X-AINewsBot) | [![Release](https://img.shields.io/github/v/release/VolkanSah/Twitter-X-AINewsBot)](https://github.com/VolkanSah/Twitter-X-AINewsBot/releases)
-[⭐ ShellMaster] | .. | .. |  ...
+[⭐ ShellMaster](#) | .. | .. |  ...
 
 </details>
 
@@ -271,7 +271,7 @@ Name | Forks | Stars | Release
 [Jump-and-run](https://github.com/VolkanSah/Jump-and-run) | ![Forks](https://img.shields.io/github/forks/VolkanSah/Jump-and-run) | ![Stars](https://img.shields.io/github/stars/VolkanSah/Jump-and-run) | [![Release](https://img.shields.io/github/v/release/VolkanSah/Jump-and-run)](https://github.com/VolkanSah/Jump-and-run/releases)
 [Space-Invalides](https://github.com/VolkanSah/Space-Invalides) | ![Forks](https://img.shields.io/github/forks/VolkanSah/Space-Invalides) | ![Stars](https://img.shields.io/github/stars/VolkanSah/Space-Invalides) | [![Release](https://img.shields.io/github/v/release/VolkanSah/Space-Invalides)](https://github.com/VolkanSah/Space-Invalides/releases)
 [⭐ WW3-Warzone-Commander](https://github.com/VolkanSah/WW3-Warzone-Commander) | ![Forks](https://img.shields.io/github/forks/VolkanSah/WW3-Warzone-Commander) | ![Stars](https://img.shields.io/github/stars/VolkanSah/WW3-Warzone-Commander) | [![Release](https://img.shields.io/github/v/release/VolkanSah/WW3-Warzone-Commander)](https://github.com/VolkanSah/WW3-Warzone-Commander/releases)
-[⭐ Codey] | .. | .. | ...
+[⭐ Codey](#) | .. | .. | ...
 
 </details>
 
