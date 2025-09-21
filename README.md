@@ -297,6 +297,22 @@ Name | Forks | Stars | Release
 
 </details>
 
+<details>
+  <summary>Organizations</summary>
+
+| Name | Description |
+|------|-------------|
+| [AiCodeCraft](https://github.com/AiCodeCraft) | AI tools & experiments (not all public) |
+| [MiniGreX](https://github.com/MiniGreX) | Closed org – focus on freedom of speech |
+| [Command-n-Conquer](https://github.com/Command-n-Conquer) | C&C community (private) |
+| [koeniglichepost](https://github.com/koeniglichepost) | TSO & The Guild community projects |
+| [RustySafe](https://github.com/RustySafe) | Gaming economy system |
+| [SDCPT](https://github.com/SDCPT) | Bots & automation tools |
+| [NemesisCyberForce](https://github.com/NemesisCyberForce) | Smart cyber security projects |
+
+</details>
+
+
 
 ### Released (beta test)
 
