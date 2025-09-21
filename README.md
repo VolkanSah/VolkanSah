@@ -2,6 +2,7 @@
 
 ## Released
 
+
 ![Codey - Your GitHub Pet](https://raw.githubusercontent.com/VolkanSah/Codey/refs/heads/main/codey.svg)
 
 > Codey Lite & Full Codey RPG. Want your own Codey?
