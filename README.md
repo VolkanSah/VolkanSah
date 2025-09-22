@@ -10,7 +10,7 @@ chmod 777 gives everyone access — except Chuck Norris. He doesn’t need permi
 #### ⭐ Released NOW ⭐ your brutal Github Pet (stats)
 
 
-[![Codey - Your GitHub Pet](https://raw.githubusercontent.com/VolkanSah/Codey/refs/heads/main/codey.svg)](https://github.com/VolkanSah/Codey)
+[![Codey - Your GitHub Pet](https://raw.githubusercontent.com/VolkanSah/Codey/refs/heads/main/codey.svg)](https://volkansah.github.io/Codey/)
 > Codey Lite & Full Codey RPG. Want your own Codey?
 > Have a look on this repo : [Codey](https://github.com/VolkanSah/Codey)
 
@@ -271,7 +271,7 @@ Name | Forks | Stars | Release
 [Jump-and-run](https://github.com/VolkanSah/Jump-and-run) | ![Forks](https://img.shields.io/github/forks/VolkanSah/Jump-and-run) | ![Stars](https://img.shields.io/github/stars/VolkanSah/Jump-and-run) | [![Release](https://img.shields.io/github/v/release/VolkanSah/Jump-and-run)](https://github.com/VolkanSah/Jump-and-run/releases)
 [Space-Invalides](https://github.com/VolkanSah/Space-Invalides) | ![Forks](https://img.shields.io/github/forks/VolkanSah/Space-Invalides) | ![Stars](https://img.shields.io/github/stars/VolkanSah/Space-Invalides) | [![Release](https://img.shields.io/github/v/release/VolkanSah/Space-Invalides)](https://github.com/VolkanSah/Space-Invalides/releases)
 [⭐ WW3-Warzone-Commander](https://github.com/VolkanSah/WW3-Warzone-Commander) | ![Forks](https://img.shields.io/github/forks/VolkanSah/WW3-Warzone-Commander) | ![Stars](https://img.shields.io/github/stars/VolkanSah/WW3-Warzone-Commander) | [![Release](https://img.shields.io/github/v/release/VolkanSah/WW3-Warzone-Commander)](https://github.com/VolkanSah/WW3-Warzone-Commander/releases)
-[⭐ Codey](#) | .. | .. | ...
+[⭐ Codey](https://volkansah.github.io/Codey/) | ![Forks](https://img.shields.io/github/forks/VolkanSah/Codey) | ![Stars](https://img.shields.io/github/stars/VolkanSah/Codey) | [![Release](https://img.shields.io/github/v/release/olkanSah/Codey)](https://github.com/VolkanSah/Codey/releases)
 
 </details>
 
