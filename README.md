@@ -7,7 +7,7 @@ chmod 777 gives everyone access — except Chuck Norris. He doesn’t need permi
 
 
 
-#### ⭐ Released NOW ⭐ your Github Pet
+#### ⭐ Released NOW ⭐ your brutal Github Pet (stats)
 
 
 [![Codey - Your GitHub Pet](https://raw.githubusercontent.com/VolkanSah/Codey/refs/heads/main/codey.svg)](https://github.com/VolkanSah/Codey)
