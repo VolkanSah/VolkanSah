@@ -274,16 +274,6 @@ Name | Forks | Stars | Release
 
 </details>
 
-<details>
-  <summary>RedTeam</summary>
-
-## RedTeam
-
-Name | Forks | Stars | Release
--- | -- | --- | ---
-[⭐ How-to-kill-a-cp-server](https://github.com/VolkanSah/How-to-kill-a-cp-server) | ![Forks](https://img.shields.io/github/forks/VolkanSah/How-to-kill-a-cp-server) | ![Stars](https://img.shields.io/github/stars/VolkanSah/How-to-kill-a-cp-server) | [![Release](https://img.shields.io/github/v/release/VolkanSah/How-to-kill-a-cp-server)](https://github.com/VolkanSah/How-to-kill-a-cp-server/releases)
-
-</details>
 
 <details>
   <summary>Organizations</summary>
