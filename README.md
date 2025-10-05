@@ -304,9 +304,9 @@ Name | Forks | Stars | Release
 
 <!-- STATS-START -->
 ## 📊 Public GitHub Stats
-- **Public Repositories:** 190
-- **Public Total Stars:** 354
-- **Public Total Forks:** 114
+- **Public Repositories:** 189
+- **Public Total Stars:** 370
+- **Public Total Forks:** 119
 - **Public Followers:** 249
 
 *Last updated automatically via GitHub Actions.*
