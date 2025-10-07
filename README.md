@@ -14,7 +14,7 @@ chmod 777 gives everyone access — except Chuck Norris. He doesn’t need permi
 - Codey only counts your own repos & stars. Forks and self-stars? Not in Codey's world.
 - Honest stats, no fluff – your true GitHub power in one pet. [Get Codey](https://github.com/VolkanSah/Codey)
 
-
+----
 
 <details>
 
