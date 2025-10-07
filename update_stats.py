@@ -1,129 +1,102 @@
-# GitHub Stats Auto-Update v2 (Workflow clean by Batman 🦇)
-import requests
+# Public GitHub Stats by Volkan S. Kücükbudak
+# https://github.com/VolkanSah/
 import os
 import re
-from collections import Counter
+import requests
 
-# Optional für schönere Tabellen
-try:
-    from tabulate import tabulate
-    TABULATE_AVAILABLE = True
-except ImportError:
-    TABULATE_AVAILABLE = False
+# GitHub Username
+USERNAME = "VolkanSah"
 
-username = "VolkanSah"
-token = os.getenv("GITHUB_TOKEN")
-if not token:
-    print("❌ GITHUB_TOKEN nicht gefunden!")
+# Token holen
+TOKEN = os.getenv("GITHUB_TOKEN")
+if not TOKEN:
+    print("❌ GITHUB_TOKEN nicht gefunden! Bitte setzen Sie die Umgebungsvariable.")
     exit(1)
-headers = {"Authorization": f"Bearer {token}"}
 
-try:
-    # --- User Data ---
-    user_url = f"https://api.github.com/users/{username}"
-    user_response = requests.get(user_url, headers=headers)
-    user_response.raise_for_status()
-    user_data = user_response.json()
+HEADERS = {"Authorization": f"Bearer {TOKEN}"}
 
-    followers = user_data.get("followers", 0)
-    following = user_data.get("following", 0)
+# API-Endpunkte
+USER_URL = f"https://api.github.com/users/{USERNAME}"
+REPOS_URL = f"https://api.github.com/users/{USERNAME}/repos?per_page=100"
 
-    # --- Repo Data ---
-    repos_data = []
-    page = 1
-    while True:
-        repos_url_page = f"https://api.github.com/users/{username}/repos?per_page=100&page={page}"
-        repos_response = requests.get(repos_url_page, headers=headers)
+def fetch_github_data():
+    """Daten von der GitHub-API abrufen."""
+    try:
+        # Benutzer-Daten abrufen
+        print("🔍 Hole Benutzer-Daten...")
+        user_response = requests.get(USER_URL, headers=HEADERS)
+        user_response.raise_for_status()
+        user_data = user_response.json()
+
+        # Repository-Daten abrufen
+        print("🔍 Hole Repository-Daten...")
+        repos_response = requests.get(REPOS_URL, headers=HEADERS)
         repos_response.raise_for_status()
-        page_data = repos_response.json()
-        if not page_data:
-            break
-        repos_data.extend(page_data)
-        page += 1
+        repos_data = repos_response.json()
 
-    # --- Stats ---
-    own_public_repos = [r for r in repos_data if not r.get("fork", False)]
-    forked_public_repos = [r for r in repos_data if r.get("fork", False)]
+        # Debug: Anzahl der Repositories überprüfen
+        print(f"📊 Gefundene Repositories: {len(repos_data)}")
 
-    own_total_stars = sum(r.get("stargazers_count", 0) for r in own_public_repos)
-    own_total_forks = sum(r.get("forks_count", 0) for r in own_public_repos)
-    own_public_repo_count = len(own_public_repos)
+        # Prüfen, ob die Daten korrekt formatiert sind
+        if not isinstance(repos_data, list):
+            print(f"❌ Fehler: Repositories-Daten sind {type(repos_data)}, erwartet: list")
+            print(f"Antwort: {repos_data}")
+            exit(1)
 
-    forked_total_stars = sum(r.get("stargazers_count", 0) for r in forked_public_repos)
-    forked_total_forks = sum(r.get("forks_count", 0) for r in forked_public_repos)
-    forked_public_repo_count = len(forked_public_repos)
+        return user_data, repos_data
 
-    own_languages = Counter(r.get("language") or "Unknown" for r in own_public_repos)
-    forked_languages = Counter(r.get("language") or "Unknown" for r in forked_public_repos)
+    except requests.exceptions.RequestException as e:
+        print(f"❌ API-Fehler: {e}")
+        exit(1)
+    except Exception as e:
+        print(f"❌ Fehler: {e}")
+        exit(1)
 
-    total_open_issues = sum(r.get("open_issues_count", 0) for r in repos_data)
+def calculate_stats(user_data, repos_data):
+    """Statistiken berechnen."""
+    total_stars = sum(repo.get("stargazers_count", 0) for repo in repos_data)
+    total_forks = sum(repo.get("forks_count", 0) for repo in repos_data)
+    public_repos = user_data.get("public_repos", 0)
+    followers = user_data.get("followers", 0)
 
-    # --- CLI Output ---
-    if TABULATE_AVAILABLE:
-        table = [
-            ["Own Public Repos", own_public_repo_count, own_total_stars, own_total_forks],
-            ["Forked Public Repos", forked_public_repo_count, forked_total_stars, forked_total_forks],
-        ]
-        print(tabulate(table, headers=["Category", "Repos", "Stars", "Forks"], tablefmt="fancy_grid"))
-    else:
-        print(f"📂 Own: {own_public_repo_count} repos, ⭐ {own_total_stars}, 🍴 {own_total_forks}")
-        print(f"📂 Forked: {forked_public_repo_count} repos, ⭐ {forked_total_stars}, 🍴 {forked_total_forks}")
+    print(f"⭐ Stars: {total_stars}, 🍴 Forks: {total_forks}, 📁 Repos: {public_repos}, 👥 Followers: {followers}")
+    return total_stars, total_forks, public_repos, followers
 
-    print(f"👥 Followers: {followers}, 🫂 Following: {following}")
-    print(f"🐛 Open Issues (total): {total_open_issues}")
-    print(f"🧠 Own Languages: {own_languages}")
-    print(f"🧩 Forked Languages: {forked_languages}")
-
-except requests.exceptions.RequestException as e:
-    print(f"❌ API Error: {e}")
-    exit(1)
-except Exception as e:
-    print(f"❌ Error: {e}")
-    exit(1)
-
-# --- Markdown Output ---
-def format_languages(lang_counter):
-    return "\n".join(f"- {lang}: {count}" for lang, count in lang_counter.items())
-
-stats_md = f"""<!-- STATS-START -->
-### 📊 GitHub Stats
-- **Own Public Repositories:** {own_public_repo_count}
-  - ⭐ Stars: {own_total_stars}
-  - 🍴 Forks: {own_total_forks}
-- **Forked Public Repositories:** {forked_public_repo_count}
-  - ⭐ Stars: {forked_total_stars}
-  - 🍴 Forks: {forked_total_forks}
-- **Followers:** {followers}
-- **Following:** {following}
-- **🐛 Open Issues (total):** {total_open_issues}
-
-### 🧠 Languages (Own)
-{format_languages(own_languages)}
-
-### 🧩 Languages (Forked)
-{format_languages(forked_languages)}
+def update_readme(total_stars, total_forks, public_repos, followers):
+    """Markdown-Inhalt aktualisieren."""
+    stats_md = f"""<!-- STATS-START -->
+## 📊 Public GitHub Stats
+- **Public Repositories:** {public_repos}
+- **Public Total Stars:** {total_stars}
+- **Public Total Forks:** {total_forks}
+- **Public Followers:** {followers}
 
 *Last updated automatically via GitHub Actions.*
-<!-- STATS-END -->
-"""
+<!-- STATS-END -->"""
 
-# --- README Update ---
-try:
-    with open("README.md", "r", encoding="utf-8") as f:
-        readme_content = f.read()
-except FileNotFoundError:
-    print("❌ README.md nicht gefunden!")
-    exit(1)
+    try:
+        with open("README.md", "r", encoding="utf-8") as f:
+            readme_content = f.read()
+    except FileNotFoundError:
+        print("❌ README.md nicht gefunden!")
+        exit(1)
 
-pattern = r"<!-- STATS-START -->.*?<!-- STATS-END -->"
-if re.search(pattern, readme_content, re.DOTALL):
-    new_readme = re.sub(pattern, stats_md, readme_content, flags=re.DOTALL)
-    print("✅ Stats section updated in README.md.")
-else:
-    new_readme = readme_content.strip() + "\n\n" + stats_md
-    print("✅ Stats section added to README.md.")
+    # Stats-Block ersetzen oder hinzufügen
+    pattern = r"<!-- STATS-START -->.*?<!-- STATS-END -->"
+    if re.search(pattern, readme_content, re.DOTALL):
+        new_readme = re.sub(pattern, stats_md, readme_content, flags=re.DOTALL)
+        print("✅ Stats-Bereich in README.md aktualisiert.")
+    else:
+        new_readme = readme_content.strip() + "\n\n" + stats_md
+        print("✅ Stats-Bereich zu README.md hinzugefügt.")
 
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(new_readme)
+    # Änderungen speichern
+    with open("README.md", "w", encoding="utf-8") as f:
+        f.write(new_readme)
 
-print("🎉 Done! Auto-update completed successfully.")
+    print("🎉 Fertig! Die README.md wurde erfolgreich aktualisiert.")
+
+if __name__ == "__main__":
+    user_data, repos_data = fetch_github_data()
+    total_stars, total_forks, public_repos, followers = calculate_stats(user_data, repos_data)
+    update_readme(total_stars, total_forks, public_repos, followers)
