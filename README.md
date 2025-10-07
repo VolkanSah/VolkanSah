@@ -303,34 +303,11 @@ Name | Forks | Stars | Release
 
 
 <!-- STATS-START -->
-### 📊 GitHub Stats
-- **Own Public Repositories:** 121
-  - ⭐ Stars: 542
-  - 🍴 Forks: 169
-- **Forked Public Repositories:** 68
-  - ⭐ Stars: 36
-  - 🍴 Forks: 2
-- **Followers:** 249
-- **Following:** 71
-- **🐛 Open Issues (total):** 2
-
-### 🧠 Languages (Own)
-- Shell: 5
-- PHP: 16
-- Python: 43
-- Unknown: 40
-- HTML: 9
-- JavaScript: 6
-- Java: 1
-- C#: 1
-
-### 🧩 Languages (Forked)
-- Unknown: 58
-- Python: 6
-- Shell: 1
-- JavaScript: 1
-- PHP: 1
-- TypeScript: 1
+## 📊 Public GitHub Stats
+- **Public Repositories:** 189
+- **Public Total Stars:** 371
+- **Public Total Forks:** 120
+- **Public Followers:** 249
 
 *Last updated automatically via GitHub Actions.*
 <!-- STATS-END -->
