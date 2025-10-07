@@ -303,14 +303,14 @@ Name | Forks | Stars | Release
 
 
 <!-- STATS-START -->
-## 📊 GitHub Stats
-- **Own Public Repositories:** 124
-  - ⭐ Stars: 549
+## 📊 GitHub Stats (Active Repos Only)
+- **Own Public Repositories:** 119
+  - ⭐ Stars: 481
 - **Forked Public Repositories:** 68
   - ⭐ Stars: 36
-- **Total Public Stars:** 585
+- **Total Public Stars:** 517
 
-*Last updated automatically via GitHub Actions.*
+*Last updated automatically via GitHub Actions. Excludes archived/disabled repositories.*
 <!-- STATS-END -->
 
 
