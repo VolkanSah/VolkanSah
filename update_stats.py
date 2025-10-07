@@ -1,32 +1,25 @@
-# GitHub-Stats-Auto-Update v2
-# by Volkan S. Kücükbudak (Extended by Batman 😎)
-# https://github.com/VolkanSah/
+# GitHub Stats Auto-Update v2 (Workflow clean by Batman 🦇)
 import requests
 import os
 import re
 from collections import Counter
 
-# Optional: für schönere Tabellen, kein Pflichtimport
+# Optional für schönere Tabellen
 try:
     from tabulate import tabulate
     TABULATE_AVAILABLE = True
 except ImportError:
     TABULATE_AVAILABLE = False
 
-# GitHub Username
-username = "volkansah"
-
-# Token holen
+username = "VolkanSah"
 token = os.getenv("GITHUB_TOKEN")
 if not token:
-    print("❌ GITHUB_TOKEN not found!")
+    print("❌ GITHUB_TOKEN nicht gefunden!")
     exit(1)
-
 headers = {"Authorization": f"Bearer {token}"}
 
 try:
-    # --- USER DATA ---
-    print("🔍 Fetching user data...")
+    # --- User Data ---
     user_url = f"https://api.github.com/users/{username}"
     user_response = requests.get(user_url, headers=headers)
     user_response.raise_for_status()
@@ -35,8 +28,7 @@ try:
     followers = user_data.get("followers", 0)
     following = user_data.get("following", 0)
 
-    # --- REPO DATA ---
-    print("🔍 Fetching repo data...")
+    # --- Repo Data ---
     repos_data = []
     page = 1
     while True:
@@ -49,31 +41,24 @@ try:
         repos_data.extend(page_data)
         page += 1
 
-    print(f"📊 Total Repositories found: {len(repos_data)}")
-
-    # --- STATS ---
+    # --- Stats ---
     own_public_repos = [r for r in repos_data if not r.get("fork", False)]
     forked_public_repos = [r for r in repos_data if r.get("fork", False)]
 
-    # Eigene Repos
     own_total_stars = sum(r.get("stargazers_count", 0) for r in own_public_repos)
     own_total_forks = sum(r.get("forks_count", 0) for r in own_public_repos)
     own_public_repo_count = len(own_public_repos)
 
-    # Geforkte Repos
     forked_total_stars = sum(r.get("stargazers_count", 0) for r in forked_public_repos)
     forked_total_forks = sum(r.get("forks_count", 0) for r in forked_public_repos)
     forked_public_repo_count = len(forked_public_repos)
 
-    # Sprachen mit Fallback auf "Unknown"
     own_languages = Counter(r.get("language") or "Unknown" for r in own_public_repos)
     forked_languages = Counter(r.get("language") or "Unknown" for r in forked_public_repos)
 
-    # Open Issues (gesamt)
     total_open_issues = sum(r.get("open_issues_count", 0) for r in repos_data)
 
-    # --- CLI OUTPUT ---
-    print("\n📦 GitHub Summary:")
+    # --- CLI Output ---
     if TABULATE_AVAILABLE:
         table = [
             ["Own Public Repos", own_public_repo_count, own_total_stars, own_total_forks],
@@ -87,7 +72,7 @@ try:
     print(f"👥 Followers: {followers}, 🫂 Following: {following}")
     print(f"🐛 Open Issues (total): {total_open_issues}")
     print(f"🧠 Own Languages: {own_languages}")
-    print(f"🧩 Forked Languages: {forked_languages}\n")
+    print(f"🧩 Forked Languages: {forked_languages}")
 
 except requests.exceptions.RequestException as e:
     print(f"❌ API Error: {e}")
@@ -96,9 +81,8 @@ except Exception as e:
     print(f"❌ Error: {e}")
     exit(1)
 
-# --- MARKDOWN OUTPUT ---
+# --- Markdown Output ---
 def format_languages(lang_counter):
-    """Konvertiert Sprachstatistiken in Markdown-Listen"""
     return "\n".join(f"- {lang}: {count}" for lang, count in lang_counter.items())
 
 stats_md = f"""<!-- STATS-START -->
@@ -119,16 +103,16 @@ stats_md = f"""<!-- STATS-START -->
 ### 🧩 Languages (Forked)
 {format_languages(forked_languages)}
 
-*Real & Clean STATS [use it >](https://github.com/VolkanSah/GitHub-Stats-Auto-Update/)*
+*Last updated automatically via GitHub Actions.*
 <!-- STATS-END -->
 """
 
-# --- README UPDATE ---
+# --- README Update ---
 try:
     with open("README.md", "r", encoding="utf-8") as f:
         readme_content = f.read()
 except FileNotFoundError:
-    print("❌ README.md not found!")
+    print("❌ README.md nicht gefunden!")
     exit(1)
 
 pattern = r"<!-- STATS-START -->.*?<!-- STATS-END -->"
