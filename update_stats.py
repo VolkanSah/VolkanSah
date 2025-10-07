@@ -80,7 +80,15 @@ def calculate_stats(repos, repo_type):
         and r.get("owner", {}).get("login") == USERNAME
     ]
     
-    archived = len(repos) - len(active_repos)
+    # Archivierte Repos separat
+    archived_repos = [
+        r for r in repos 
+        if (r.get("isArchived", False) or r.get("isDisabled", False) or r.get("isLocked", False))
+        and r.get("owner", {}).get("login") == USERNAME
+    ]
+    
+    archived = len(archived_repos)
+    archived_stars = sum(repo.get("stargazerCount", 0) for repo in archived_repos)
     
     total_stars = sum(repo.get("stargazerCount", 0) for repo in active_repos)
     total_repos = len(active_repos)
@@ -88,8 +96,12 @@ def calculate_stats(repos, repo_type):
     print(f"\n📊 {repo_type.capitalize()} Repositories:")
     print(f"  ✅ Aktiv: {total_repos}")
     if archived > 0:
-        print(f"  🗄️  Archiviert/Deaktiviert: {archived}")
-    print(f"⭐ {repo_type.capitalize()} Sterne (nur aktive): {total_stars}")
+        print(f"  🗄️  Archiviert/Deaktiviert: {archived} (mit {archived_stars} ⭐)")
+    print(f"⭐ {repo_type.capitalize()} Sterne:")
+    print(f"  Aktiv: {total_stars}")
+    if archived_stars > 0:
+        print(f"  Archiv: {archived_stars} 💎")
+    print(f"  Gesamt: {total_stars + archived_stars}")
     
     # Top 10 mit meisten Stars + Statuscheck
     print(f"\n🏆 Top 10 {repo_type} Repos:")
