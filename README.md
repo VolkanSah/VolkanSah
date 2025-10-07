@@ -332,8 +332,9 @@ Name | Forks | Stars | Release
 - PHP: 1
 - TypeScript: 1
 
-*Real & Clean STATS [use it >](https://github.com/VolkanSah/GitHub-Stats-Auto-Update/)*
+*Last updated automatically via GitHub Actions.*
 <!-- STATS-END -->
+
 
 
 
