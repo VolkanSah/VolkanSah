@@ -1,10 +1,11 @@
 import requests
 import os
+from collections import Counter
 
 # GitHub Username
 USERNAME = "VolkanSah"
 
-# Token holen
+# GitHub Token
 TOKEN = os.getenv("GITHUB_TOKEN")
 if not TOKEN:
     print("❌ GITHUB_TOKEN nicht gefunden! Bitte setzen Sie die Umgebungsvariable.")
@@ -12,8 +13,8 @@ if not TOKEN:
 
 HEADERS = {"Authorization": f"Bearer {TOKEN}"}
 
-# GraphQL-Abfrage
-QUERY = """
+# GraphQL-Abfrage für eigene Repos
+OWN_REPOS_QUERY = """
 {
   user(login: "%s") {
     repositories(first: 100, privacy: PUBLIC, isFork: false) {
@@ -26,13 +27,26 @@ QUERY = """
 }
 """ % USERNAME
 
-def fetch_github_data():
+# GraphQL-Abfrage für geforkte Repos
+FORKED_REPOS_QUERY = """
+{
+  user(login: "%s") {
+    repositories(first: 100, privacy: PUBLIC, isFork: true) {
+      nodes {
+        name
+        stargazerCount
+      }
+    }
+  }
+}
+""" % USERNAME
+
+def fetch_github_data(query):
     """Daten von der GitHub GraphQL API abrufen."""
     try:
-        print("🔍 Hole Repository-Daten über GraphQL...")
         response = requests.post(
             "https://api.github.com/graphql",
-            json={"query": QUERY},
+            json={"query": query},
             headers=HEADERS
         )
         response.raise_for_status()
@@ -49,27 +63,34 @@ def fetch_github_data():
         print(f"❌ API-Fehler: {e}")
         exit(1)
 
-def calculate_stats(data):
-    """Statistiken basierend auf den GraphQL-Daten berechnen."""
+def calculate_stats(data, repo_type):
+    """Statistiken für eigene oder geforkte Repos berechnen."""
     repositories = data.get("data", {}).get("user", {}).get("repositories", {}).get("nodes", [])
     if not repositories:
-        print("❌ Keine Repositories gefunden oder Daten ungültig.")
-        exit(1)
+        print(f"❌ Keine {repo_type} Repositories gefunden oder Daten ungültig.")
+        return 0, 0
 
     total_stars = sum(repo.get("stargazerCount", 0) for repo in repositories)
     total_repos = len(repositories)
 
-    print(f"📊 Gefundene Repositories: {total_repos}")
-    print(f"⭐ Gesamtanzahl Sterne: {total_stars}")
+    print(f"📊 {repo_type.capitalize()} Repositories: {total_repos}")
+    print(f"⭐ {repo_type.capitalize()} Sterne: {total_stars}")
+
+    # Debug: Details zu jedem Repo
+    for repo in repositories:
+        print(f"  - Repo: {repo['name']}, Stars: {repo.get('stargazerCount', 0)}")
 
     return total_repos, total_stars
 
-def update_readme(total_repos, total_stars):
+def update_readme(own_repos, own_stars, forked_repos, forked_stars):
     """Aktualisiere die README.md mit den neuen Statistiken."""
     stats_md = f"""<!-- STATS-START -->
 ## 📊 GitHub Stats
-- **Public Repositories:** {total_repos}
-- **Public Total Stars:** {total_stars}
+- **Own Public Repositories:** {own_repos}
+  - ⭐ Stars: {own_stars}
+- **Forked Public Repositories:** {forked_repos}
+  - ⭐ Stars: {forked_stars}
+- **Total Public Stars:** {own_stars + forked_stars}
 
 *Last updated automatically via GitHub Actions.*
 <!-- STATS-END -->"""
@@ -98,6 +119,13 @@ def update_readme(total_repos, total_stars):
     print("🎉 Fertig! Die README.md wurde erfolgreich aktualisiert.")
 
 if __name__ == "__main__":
-    data = fetch_github_data()
-    total_repos, total_stars = calculate_stats(data)
-    update_readme(total_repos, total_stars)
+    # Eigene Repositories abrufen und berechnen
+    own_data = fetch_github_data(OWN_REPOS_QUERY)
+    own_repos, own_stars = calculate_stats(own_data, "eigene")
+
+    # Geforkte Repositories abrufen und berechnen
+    forked_data = fetch_github_data(FORKED_REPOS_QUERY)
+    forked_repos, forked_stars = calculate_stats(forked_data, "geforkte")
+
+    # README.md aktualisieren
+    update_readme(own_repos, own_stars, forked_repos, forked_stars)
