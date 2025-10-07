@@ -87,23 +87,23 @@ def calculate_stats(repos, repo_type):
         and r.get("owner", {}).get("login") == USERNAME
     ]
     
-    archived = len(archived_repos)
+    archived_count = len(archived_repos)
     archived_stars = sum(repo.get("stargazerCount", 0) for repo in archived_repos)
     
-    total_stars = sum(repo.get("stargazerCount", 0) for repo in active_repos)
-    total_repos = len(active_repos)
+    active_stars = sum(repo.get("stargazerCount", 0) for repo in active_repos)
+    active_count = len(active_repos)
     
     print(f"\n📊 {repo_type.capitalize()} Repositories:")
-    print(f"  ✅ Aktiv: {total_repos}")
-    if archived > 0:
-        print(f"  🗄️  Archiviert/Deaktiviert: {archived} (mit {archived_stars} ⭐)")
+    print(f"  ✅ Aktiv: {active_count}")
+    if archived_count > 0:
+        print(f"  🗄️  Archiviert/Deaktiviert: {archived_count} (mit {archived_stars} ⭐)")
     print(f"⭐ {repo_type.capitalize()} Sterne:")
-    print(f"  Aktiv: {total_stars}")
+    print(f"  Aktiv: {active_stars}")
     if archived_stars > 0:
         print(f"  Archiv: {archived_stars} 💎")
-    print(f"  Gesamt: {total_stars + archived_stars}")
+    print(f"  Gesamt: {active_stars + archived_stars}")
     
-    # Top 10 mit meisten Stars + Statuscheck
+    # Top 10 mit meisten Stars
     print(f"\n🏆 Top 10 {repo_type} Repos:")
     top_repos = sorted(active_repos, key=lambda x: x.get("stargazerCount", 0), reverse=True)[:10]
     for i, repo in enumerate(top_repos, 1):
@@ -114,7 +114,7 @@ def calculate_stats(repos, repo_type):
             status = " [DEAKTIVIERT]"
         print(f"  {i:2}. {repo['name']:40} {repo.get('stargazerCount', 0):4} ⭐{status}")
     
-    # Detaillierte Liste ALLER Repos mit Stars (zum manuellen Nachprüfen)
+    # Detaillierte Liste ALLER Repos mit Stars
     print(f"\n📋 Alle {repo_type} Repos mit Stars:")
     repos_with_stars = sorted(
         [r for r in active_repos if r.get("stargazerCount", 0) > 0],
@@ -124,21 +124,25 @@ def calculate_stats(repos, repo_type):
     for repo in repos_with_stars:
         print(f"  - {repo['name']:40} {repo.get('stargazerCount', 0):4} ⭐")
     
-    print(f"\n  Repos mit 0 Stars: {total_repos - len(repos_with_stars)}")
+    print(f"\n  Repos mit 0 Stars: {active_count - len(repos_with_stars)}")
     
-    return total_repos, total_stars, archived
+    return active_count, active_stars, archived_count, archived_stars
 
-def update_readme(own_repos, own_stars, forked_repos, forked_stars):
+def update_readme(own_repos, own_stars, own_archived_stars, forked_repos, forked_stars, forked_archived_stars):
     """Aktualisiert die README"""
     stats_md = f"""<!-- STATS-START -->
-## 📊 GitHub Stats (Active Repos Only)
+## 📊 GitHub Stats
 - **Own Public Repositories:** {own_repos}
-  - ⭐ Stars: {own_stars}
+  - ⭐ Active Stars: {own_stars}
+  - 💎 Archived Stars: {own_archived_stars}
+  - 🌟 Total Own Stars: {own_stars + own_archived_stars}
 - **Forked Public Repositories:** {forked_repos}
-  - ⭐ Stars: {forked_stars}
-- **Total Public Stars:** {own_stars + forked_stars}
+  - ⭐ Active Stars: {forked_stars}
+  - 💎 Archived Stars: {forked_archived_stars}
+  - 🌟 Total Fork Stars: {forked_stars + forked_archived_stars}
+- **🎯 Grand Total Stars:** {own_stars + own_archived_stars + forked_stars + forked_archived_stars}
 
-*Last updated automatically via GitHub Actions. Excludes archived/disabled repositories.*
+*Last updated automatically via GitHub Actions.*
 <!-- STATS-END -->"""
     
     try:
@@ -164,18 +168,20 @@ def update_readme(own_repos, own_stars, forked_repos, forked_stars):
 if __name__ == "__main__":
     print("🔍 Hole eigene Repositories...")
     own_repos_data = fetch_all_repos(False)
-    own_repos, own_stars, own_archived = calculate_stats(own_repos_data, "eigene")
+    own_repos, own_stars, own_archived, own_archived_stars = calculate_stats(own_repos_data, "eigene")
     
     print("\n" + "="*80)
     print("🔍 Hole geforkte Repositories...")
     forked_repos_data = fetch_all_repos(True)
-    forked_repos, forked_stars, forked_archived = calculate_stats(forked_repos_data, "geforkte")
+    forked_repos, forked_stars, forked_archived, forked_archived_stars = calculate_stats(forked_repos_data, "geforkte")
     
     print("\n" + "="*80)
-    print(f"📈 GESAMT (NUR AKTIVE):")
-    print(f"  Repos: {own_repos + forked_repos}")
-    print(f"  Stars: {own_stars + forked_stars}")
-    print(f"\n🗄️  Gesamt archiviert/deaktiviert: {own_archived + forked_archived}")
+    print(f"📈 GESAMT:")
+    print(f"  Aktive Repos: {own_repos + forked_repos}")
+    print(f"  Archivierte Repos: {own_archived + forked_archived}")
+    print(f"  ⭐ Aktive Stars: {own_stars + forked_stars}")
+    print(f"  💎 Archiv Stars: {own_archived_stars + forked_archived_stars}")
+    print(f"  🌟 GRAND TOTAL: {own_stars + own_archived_stars + forked_stars + forked_archived_stars} ⭐")
     
     # Manuelle Verifikation
     print("\n" + "="*80)
@@ -183,4 +189,4 @@ if __name__ == "__main__":
     print("Gehe zu: https://github.com/VolkanSah?tab=repositories")
     print("Zähle manuell die öffentlichen Repos und vergleiche!")
     
-    update_readme(own_repos, own_stars, forked_repos, forked_stars)
+    update_readme(own_repos, own_stars, own_archived_stars, forked_repos, forked_stars, forked_archived_stars)
