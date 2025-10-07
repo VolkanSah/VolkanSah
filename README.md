@@ -10,7 +10,7 @@ chmod 777 gives everyone access — except Chuck Norris. He doesn’t need permi
 #### ⭐ Released NOW ⭐ your RPG GitHub Pet – real stats, real fun!
 
 [![Codey - Your GitHub Pet](https://raw.githubusercontent.com/VolkanSah/Codey/refs/heads/main/codey.svg)](https://volkansah.github.io/Codey/)
-> Only counts your own repos & stars. Forks and self-stars? Not in Codey's world.  
+> Codey only counts your own repos & stars. Forks and self-stars? Not in Codey's world.
 > Honest stats, no fluff – your true GitHub power in one pet. [Get Codey](https://github.com/VolkanSah/Codey)
 
 
