@@ -322,17 +322,6 @@ Name | Forks | Stars | Release
 
 
 
-<details>
-  <summary>More GitHub Stats i do not trust!  </summary>
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=volkansah&show_icons=true&theme=radical" style="width: 48%;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=volkansah&theme=dark" style="width: 51%;"/>
-
-</div>
-<img src="https://github-profile-trophy.vercel.app/?username=volkansah" style="width: 100%;"/>
-
-</details>
 
 
 
