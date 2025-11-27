@@ -76,6 +76,7 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
 
 
 #### My public stuff
+###### not all of them , i am to lazy!
 
 <details>
   <summary> WordPress (Plugins / Tips / Solutions)  </summary>
