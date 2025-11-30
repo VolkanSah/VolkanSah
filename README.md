@@ -1,4 +1,4 @@
-######  [Free Global Proxies](https://github.com/VolkanSah/Auto-Proxy-Fetcher) • [JadeAI](https://jugendamt-deutschland.de) • [Gist](https://gist.github.com/VolkanSah)  • [Own Repos](
+######  [Free Global Proxies](https://github.com/VolkanSah/Auto-Proxy-Fetcher) • [JadeAI](https://jugendamt-deutschland.de) • [Gist](https://gist.github.com/VolkanSah)  • [Own Repos](https://volkansah.github.io/)
 
 ```bash
 # Reminder for true system power
