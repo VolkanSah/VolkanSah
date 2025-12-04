@@ -74,15 +74,6 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
 
 
 
-### Released (beta test)
-
-[![MinigreX-CMS](img/header_minigrex.png)](https://minigrex.github.io)
-
-
-
-
-
-
 <!-- STATS-START -->
 ## 📊 GitHub Stats
 - **Own Public Repositories:** 120
