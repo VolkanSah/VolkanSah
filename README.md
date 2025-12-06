@@ -7,7 +7,7 @@ chmod 777 gives everyone access — except Chuck Norris. He doesn’t need permi
 
 
 > [!IMPORTANT]
-> privat github account! "No Support" for orgas here! Use Orga request, please!
+> my privat github account where I invent, transform, create, and destroy!  "No Support" for Orgas here! Use Orga`s request, please!
 
 
 <details>
