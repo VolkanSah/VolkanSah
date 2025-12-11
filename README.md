@@ -13,7 +13,7 @@
   <summary> About me </summary>
   
 
-![NOT A TOY](volkan_toy.png)
+![NOT A TOY](img/volkan_toy.png)
 
 
 ###### satire start !? 
