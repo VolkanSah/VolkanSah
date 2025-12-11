@@ -13,7 +13,7 @@
   <summary> About me </summary>
   
 
-![NOT A TOY](brain.sh)
+![NOT A TOY](volkan_toy.png)
 
 
 ###### satire start !? 
