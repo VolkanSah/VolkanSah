@@ -5,12 +5,6 @@
 
 ######  [Free Global Proxies](https://github.com/VolkanSah/Auto-Proxy-Fetcher) • [JadeAI](https://jugendamt-deutschland.de) • [Gist](https://gist.github.com/VolkanSah)  • soon
 
-```bash
-# Reminder for true system power
-chmod 777 gives everyone access — except Chuck Norris. He doesn’t need permissions
-```
-
-
 
 <details>
 
