@@ -5,7 +5,7 @@
 
 ######  [Free Global Proxies](https://github.com/VolkanSah/Auto-Proxy-Fetcher) • [JadeAI](https://jugendamt-deutschland.de) • [Gist](https://gist.github.com/VolkanSah)  • soon
 
-![Bootcamp](cs_bootkamp.jpg)
+
 
 
 <details>
@@ -62,6 +62,8 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
 
 
 ##### satire end?
+
+![Bootcamp](cs_bootkamp.jpg)
 
     
 </details>
