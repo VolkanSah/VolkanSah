@@ -11,7 +11,7 @@
   <summary> About me </summary>
   
 
-![NOT A TOY](img/volkan_toy.png)
+![NOT A TOY]((img/volkan_toy.png)https://github.com/VolkanSah/brain.sh)
 
 
 ###### satire start !? 
