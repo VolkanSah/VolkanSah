@@ -70,7 +70,8 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
 ##### satire end?
 
 
-
+  <img src="https://github-readme-stats.vercel.app/api?username=volkansah&show_icons=true&theme=radical" style="width: 48%;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=volkansah&theme=dark" style="width: 51%;"/>
     
 </details>
 
@@ -96,11 +97,7 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
 <!-- STATS-END -->
 
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=volkansah&show_icons=true&theme=radical" style="width: 48%;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=volkansah&theme=dark" style="width: 51%;"/>
 
-</div>
 
 
 
