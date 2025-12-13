@@ -1,12 +1,15 @@
 
 
-> [!IMPORTANT]
-> my privat github account where I invent, transform, create, and destroy!  "No Support" for Orgas here! Use Orga`s request, please!
+
 
 ######  [Free Global Proxies](https://github.com/VolkanSah/Auto-Proxy-Fetcher) • [JadeAI](https://jugendamt-deutschland.de) • [Gist](https://gist.github.com/VolkanSah)  • 
 
-### Relased your GitHub Pet with no mercy 🍭
+### Relased 
+your GitHub Pet with no mercy 🍭
 [![Codey - your github pet](https://raw.githubusercontent.com/VolkanSah/Codey/refs/heads/main/codey.svg)](https://github.com/VolkanSah/Codey)
+
+> [!IMPORTANT]
+> my privat github account where I invent, transform, create, and destroy!  "No Support" for Orgas here! Use Orga`s request, please!
 
 
 
