@@ -40,19 +40,6 @@
 
 ----
 
-
-### My Philosophy
-
-Morty, listen close. You see a problem out there? With some bloated, broken piece of code that’s got all these schmucks whining about it? Most idiots just stand around, but me? I see a fucking mandate to build something that actually works. Lighter, better, safer.
-
-Yeah, I get it. Some clueless little shit will always ask, "Hey, if you're so smart, why ain't you rich?" Because my value, you pathetic sack of garbage, isn't measured in cash. It’s in the solution I built. It’s in the moment some poor developer uses my code to finally get a damn problem solved. I'm not doing this to get rich. I'm doing it because... well, because I'm not a sellout.
-
-This stuff is mine. It can't be fired, it can't be bought. It's the proof that I don't just talk about problems. I incinerate them. Now get out of my sight, Morty.
-
-
-----
-
-
 ### How to Request Help / Report Issues
 
 Listen up, Morty! You wanna ask for help or report an issue, don't just throw some half-assed garbage at me like you're scribbling on a napkin, alright? I ain't got time for that! Give me details, Morty, like system specs, error messages, the works! You think I’m a mind reader? Fuck off, wrong universe, Morty! You leave out the important stuff, I’ll ignore your issue faster than I can down this flask! So don’t be an idiot, give me something I can work with, or get the hell outta my codebase! Understand?
