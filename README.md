@@ -1,5 +1,6 @@
 > [!NOTE]
-> clean up my repos update my stuff cause my Codey (Pet) kills me! and will make some cool stuffs online to feed codey
+> Currently cleaning up my repos and feeding my code review pet "Codey" 🐉  
+> Expect some cool stuff going public soon — if I survive Codey's brutal feedback!
 
 
 
