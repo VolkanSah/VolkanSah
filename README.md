@@ -1,4 +1,5 @@
-
+> [!NOTE]
+> clean up my repos update my stuff cause my Codey (Pet) kills me! and will make some cool stuffs online to feed codey
 
 
 
