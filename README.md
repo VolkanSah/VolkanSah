@@ -1,5 +1,5 @@
 > [!NOTE]
-> Currently cleaning up my repos and feeding my code review pet "Codey" 🐉  
+> Currently cleaning up my repos & orgas and feeding my code review pet "Codey" 🐉  
 > Expect some cool stuff going public soon — if I survive Codey's brutal feedback!
 
 
