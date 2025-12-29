@@ -1,6 +1,6 @@
 > [!NOTE]
-> Currently cleaning up my repos & orgas and feeding my code review pet "Codey" 🐉  
-> Expect some cool stuff going public soon — if I survive Codey's brutal feedback!
+> 11+ Years old domain Pizza.Berlin for sell, i dont want work anymore for delivery services (get old)! To much stress! 36% of E-Commerce Traffic is delivery Service! DM me for more infos! Be realistic with your offers; the domain is worth six figures
+
 
 
 
