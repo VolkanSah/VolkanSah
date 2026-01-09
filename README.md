@@ -15,8 +15,6 @@ fi
 
 
 
-> [!NOTE]
-> 11+ Years old domain https://Pizza.Berlin for sell, i dont want work anymore for delivery services (get old)! To much stress! 36% of E-Commerce Traffic is delivery Service! DM me (minigrex@proton.me) for more infos! Be realistic with your offers; the domain is worth six figures  (no spam, clean seo)
 
 
 
@@ -100,6 +98,8 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
 *Last updated automatically via GitHub Actions.*
 <!-- STATS-END -->
 
+> [!NOTE]
+> 11+ Years old domain https://Pizza.Berlin for sell, i dont want work anymore for delivery services (get old)! To much stress! 36% of E-Commerce Traffic is delivery Service! DM me (minigrex@proton.me) for more infos! Be realistic with your offers; the domain is worth six figures  (no spam, clean seo)
 
 
 
