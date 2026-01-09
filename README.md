@@ -1,22 +1,5 @@
-> [!NOTE]
-> 11+ Years old domain https://Pizza.Berlin for sell, i dont want work anymore for delivery services (get old)! To much stress! 36% of E-Commerce Traffic is delivery Service! DM me (minigrex@proton.me) for more infos! Be realistic with your offers; the domain is worth six figures  (no spam, clean seo)
-
-
-
-
-######  [Free Global Proxies](https://github.com/VolkanSah/Auto-Proxy-Fetcher) • [JadeAI](https://jugendamt-deutschland.de) • [Gist](https://gist.github.com/VolkanSah)  • 
-
-
-
-> [!IMPORTANT]
-> my privat github account where I invent, transform, create, and destroy!  "No Support" for Orgas here! Use Orga`s request, please!
-
-
-
-
 
 ### Global Defense System
-```
 ```bash
 if [[ "$USER_TYPE" == "Jerry" ]]; then
   echo "Access Denied. Go mow the lawn or something."
@@ -26,6 +9,27 @@ else
 fi
 
 ```
+
+######  [Free Global Proxies](https://github.com/VolkanSah/Auto-Proxy-Fetcher) • [JadeAI](https://jugendamt-deutschland.de) • [Gist](https://gist.github.com/VolkanSah)  • 
+
+
+
+
+> [!NOTE]
+> 11+ Years old domain https://Pizza.Berlin for sell, i dont want work anymore for delivery services (get old)! To much stress! 36% of E-Commerce Traffic is delivery Service! DM me (minigrex@proton.me) for more infos! Be realistic with your offers; the domain is worth six figures  (no spam, clean seo)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <details>
 
@@ -76,7 +80,8 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
 
 
 
-
+> [!IMPORTANT]
+> my privat github account where I invent, transform, create, and destroy!  "No Support" for Orgas here! Use Orga`s request, please!
 
 
 
