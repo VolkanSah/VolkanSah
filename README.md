@@ -1,4 +1,5 @@
 
+######  [Free Global Proxies](https://github.com/VolkanSah/Auto-Proxy-Fetcher) • [JadeAI](https://jugendamt-deutschland.de) • [Gist](https://gist.github.com/VolkanSah)  • 
 ### Global Defense System
 ```bash
 if [[ "$USER_TYPE" == "Jerry" ]]; then
@@ -10,7 +11,6 @@ fi
 
 ```
 
-######  [Free Global Proxies](https://github.com/VolkanSah/Auto-Proxy-Fetcher) • [JadeAI](https://jugendamt-deutschland.de) • [Gist](https://gist.github.com/VolkanSah)  • 
 
 
 
