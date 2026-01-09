@@ -5,14 +5,14 @@
 
 
 ######  [Free Global Proxies](https://github.com/VolkanSah/Auto-Proxy-Fetcher) • [JadeAI](https://jugendamt-deutschland.de) • [Gist](https://gist.github.com/VolkanSah)  • 
-
+![Dimension](https://img.shields.io/badge/Location-C--137_sometimes_C--131-red)
 
 
 > [!IMPORTANT]
 > my privat github account where I invent, transform, create, and destroy!  "No Support" for Orgas here! Use Orga`s request, please!
 
 
-
+![Status](https://img.shields.io/badge/Status-Drinking_Flask-blueviolet) 
 
 <details>
 
