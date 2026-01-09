@@ -20,7 +20,7 @@
   
 
 ![NOT A TOY](img/volkan_toy.png)
-![Dimension](https://img.shields.io/badge/Location-C--137_sometimes_C--131-red) ![Status](https://img.shields.io/badge/Status-Drinking_Flask-blueviolet) 
+
 
 ###### satire start !? 
     
@@ -66,7 +66,8 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
 
 
 
-
+![Dimension](https://img.shields.io/badge/Location-C--137_sometimes_C--131-red) 
+![Status](https://img.shields.io/badge/Status-Drinking_Flask-blueviolet) 
 <!-- STATS-START -->
 ## 📊 GitHub Stats
 - **Own Public Repositories:** 123
