@@ -7,7 +7,7 @@ if [[ "$USER_TYPE" == "Jerry" ]]; then
   echo "Access Denied. Go mow the lawn or something."
   curl -X POST [https://multiverse.api/v1/eject/dimension/C-137](https://multiverse.api/v1/eject/dimension/C-137)
 else
-  echo "Wubba Lubba Dub Dub! Welcome to the codebase."
+  echo "Wubba Lubba Dub Dub! Welcome to my codebase."
 fi
 
 ```
