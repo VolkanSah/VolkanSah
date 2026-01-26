@@ -14,6 +14,7 @@ fi
 
 ```
 
+---
 
 
 
@@ -31,10 +32,7 @@ fi
 
 
 
-
-<details>
-
-  <summary> About me </summary>
+###  About me
   
 
 ![NOT A TOY](img/volkan_toy.png)
@@ -77,9 +75,7 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
 
 
     
-</details>
-
-
+---
 
 > [!IMPORTANT]
 > my privat github account where I invent, transform, create, and destroy!  "No Support" for Orgas here! Use Orga`s request, please!
