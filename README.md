@@ -4,10 +4,12 @@
 ### Global Defense System
 ```bash
 if [[ "$USER_TYPE" == "Jerry" ]]; then
-  echo "Access Denied. Go mow the lawn or something."
-  curl -X POST [https://multiverse.api/v1/eject/dimension/C-137](https://multiverse.api/v1/eject/dimension/C-137)
+  echo "Access Denied. Go mow the lawn or something, Jerry."
+  curl -X POST https://multiverse.api/v1/eject/dimension/C-137 2>/dev/null
+  exit 137
 else
   echo "Wubba Lubba Dub Dub! Welcome to my codebase."
+  echo "Remember: Don't be a Jerry. Read the damn LICENSE."
 fi
 
 ```
