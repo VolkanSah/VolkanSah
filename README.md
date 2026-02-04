@@ -1,4 +1,9 @@
 
+[![wall of shames](https://raw.githubusercontent.com/Wall-of-Shames/.github/main/profile/wall-of-shames.jpg)](https://github.com/Wall-of-Shames)
+
+
+
+
 ######  [Free Global Proxies](https://github.com/VolkanSah/Auto-Proxy-Fetcher) • [JadeAI](https://jugendamt-deutschland.de) • [Gist](https://gist.github.com/VolkanSah)  • [Free SD-Gen (R34)](https://perchance.org/hot-images)
 
 ### Global Defense System
@@ -13,11 +18,6 @@ else
 fi
 
 ```
-[![wall of shames](https://raw.githubusercontent.com/Wall-of-Shames/.github/main/profile/wall-of-shames.jpg)](https://github.com/Wall-of-Shames)
-
-
-
-
 
 
 
