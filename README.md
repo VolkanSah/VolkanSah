@@ -31,8 +31,10 @@ fi
 
 
 ---
+<details>
 
-###  About me
+<summary>###  About me</summary>
+
   
 
 ![NOT A TOY](img/volkan_toy.png)
@@ -70,9 +72,9 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
 
 
 
-##### satire end?
+##### satire end!
 
-
+</details>
 
     
 ---
