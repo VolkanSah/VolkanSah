@@ -33,7 +33,7 @@ fi
 ---
 <details>
 
-<summary>###  About me</summary>
+<summary> ---------------------------  About me  --------------------------- </summary>
 
   
 
