@@ -1,7 +1,7 @@
 
 [![wall of shames](https://raw.githubusercontent.com/Wall-of-Shames/.github/main/profile/wall-of-shames.jpg)](https://github.com/Wall-of-Shames)
 
-Last busted Hacx-GPT from#  ["BlackTechX011/Hacx-GPT"](https://github.com/Wall-of-Shames/Hacx-GPT---SCAM/tree/main/backups-from-website)
+Last busted Hacx-GPT from ["BlackTechX011/Hacx-GPT"](https://github.com/Wall-of-Shames/Hacx-GPT---SCAM/tree/main/backups-from-website) you will love to read the conversations 😄
 
 
 
