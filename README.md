@@ -111,6 +111,7 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
 
 [![wall of shames](https://raw.githubusercontent.com/Wall-of-Shames/.github/main/profile/wall-of-shames.jpg)](https://github.com/Wall-of-Shames)
 
+[ brain_bug.logs] 80% of the world is trash & debug. We are the other 20%. Project Driven by EmojiQL (PinkyDB Enignering) | NCF | Licensed under MIT + ESOL.v1.1- Stop the flex..
 
 
 
