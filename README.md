@@ -128,14 +128,11 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
 <summary>Released</summary>
 
 <!-- LAST_RELEASED-START -->
-
-| Version | Name | Date | Notes |
-|---------|------|------|-------|
-| 0.1.0 | First Light | 2026-01-01 | Initial release, just the beginning |
-| 1.2.0 | Bug Hunt | 2026-01-15 | Minor fixes, added basic logging |
-| 1.2.8 | Chaos Mode | 2026-02-01 | First experimental features added |
-| 0.4.0 | Stealth Ops | 2026-02-08 | Security improvements, hidden goodies |
-
+| 2.1.0 | 2.1.0 | 2026-02-13 | Auto imported |
+| 2.0.6.1 | 2.0.6.1 | 2025-11-15 | Auto imported |
+| 2.0.6 | v.2.0.6-pre | 2025-10-16 | Auto imported |
+| 2.0.4 | Codey v.2.0.4 | 2025-10-01 | Auto imported |
+| 2.0.3 | Codey v.2.0.3 | 2025-10-01 | Auto imported |
 <!-- LAST_RELEASED-END -->
 
 </details>
@@ -144,15 +141,11 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
 <summary>Last Fixes / Updates</summary>
 
 <!-- LAST_FIX-START -->
-
-| Date | Fix / Update | Author | Status |
-|------|--------------|--------|--------|
-| 2026-02-07 | Brain bug patch | Volkan | ✅ Fixed |
-| 2026-02-06 | Proxy fetcher update | BadTin | ✅ Tested |
-| 2026-02-05 | Minor UI adjustments | Volkan | ✅ Fixed |
-| 2026-02-04 | Database schema tweak | BadTin | ⚠ In review |
-| 2026-02-13 | Codey Fixed, hoply | VolkanSah | or 💔
-
+| 2026-02-15 | 🐾 Daily Codey update | actions-user | ✅ |
+| 2026-02-14 | 🐾 Daily Codey update | actions-user | ✅ |
+| 2026-02-13 | Create .po | VolkanSah | ✅ |
+| 2026-02-13 | Create FUNDING.yml | VolkanSah | ✅ |
+| 2026-02-13 | 🐾 Daily Codey update | actions-user | ✅ |
 <!-- LAST_FIX-END -->
 
 </details>
