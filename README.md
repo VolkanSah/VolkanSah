@@ -1,3 +1,28 @@
+<details>
+<summary>QNavi</summary>
+
+#### QTipps:
+[Free Global Proxies](https://github.com/VolkanSah/Auto-Proxy-Fetcher) • [Free SD-Gen (R34)](https://perchance.org/hot-images) • 
+[Gist](https://gist.github.com/VolkanSah) • [HF](https://huggingface.co/Alibrown/) • [JadeAI](https://jugendamt-deutschland.de) •
+
+#### Work
+[MiniGreX](https://github.com/MiniGreX) • [NCF](https://github.com/NemesisCyberForce) •
+
+#### EDU & Development
+[AiCC](https://github.com/AiCodeCraft) • [ESOL](https://github.com/ESOL-License) • [Pinky](https://github.com/EmojiQL) • 
+[RustySafe](https://github.com/RustySafe) • [WoS](https://github.com/wall-of-shames/) • [_CL](https://github.com/codey-lab/) •
+
+#### Gaming
+[C-n-C](https://github.com/Command-n-Conquer) • [Post](https://github.com/koeniglichepost) • [SHP](https://github.com/System-Hell-Provocation) •
+
+#### Misc
+[PDF-CVE](https://github.com/PDF-CVE) • [SDCPT](https://github.com/SDCPT) •
+
+</details>
+
+
+
+
 ### 🐾 Codey - Your Brutally Honest GitHub Pet
 > RPG "No Mercy" Edition v2.1 - Where Your Code Gets Judged For Real
 
@@ -15,7 +40,6 @@
 
 ---
 
-###### QTipps 4 me: [Free Global Proxies](https://github.com/VolkanSah/Auto-Proxy-Fetcher) • [JadeAI](https://jugendamt-deutschland.de) • [Gist](https://gist.github.com/VolkanSah) • [Free SD-Gen (R34)](https://perchance.org/hot-images) • [SideKick](https://github.com/badtin) • [HF](https://huggingface.co/Alibrown) • [NEON](https://neon.com/)
 
 
 
