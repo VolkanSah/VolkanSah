@@ -39,9 +39,10 @@
 
 
 ---
+<details>
+<summary>Global Defense System</summary>
 
-### Global Defense System
-```bash
+  ```bash
 if [[ "$USER_TYPE" == "Jerry" ]]; then
   echo "Access Denied. Go mow the lawn or something, Jerry."
   curl -X POST https://multiverse.api/v1/eject/dimension/C-137 2>/dev/null
@@ -51,6 +52,7 @@ else
   echo "Remember: Don't be a Jerry. Read the damn LICENSE."
 fi
 ````
+</details>
 
 ---
 
