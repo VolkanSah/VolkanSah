@@ -159,6 +159,9 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
 
 ---
 
+<details>
+<summary>Other Stats</summary>
+
 <!-- STATS-START -->
 ## 📊 GitHub Stats
 - **Own Public Repositories:** 124
@@ -175,8 +178,45 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
 *Fake STATS updated automatically via GitHub Actions!*
 <!-- STATS-END -->
 
+</details>
 
 ---
 
+
+<details>
+<summary>Friends</summary>
+soon
+
+</details>
+
+---
+
+<details>
+<summary>Legal & Disclamer</summary>
+soon
+
+</details>
+
+---
+
+<details>
+<summary>Contact me</summary>
+soon
+
+</details>
+
+---
+
+<details>
+<summary>Last words</summary>
+
+
 > [ brain_bug.logs] 80% of the world is trash & debug. We are the other 20%. Stop the flex!
+
+</details>
+
+
+
+
+
 
