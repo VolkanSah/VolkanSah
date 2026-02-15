@@ -32,8 +32,8 @@ jobs:
           import requests, os, re
 
           USER = "VolkanSah"
-          REPO = "VolkanSah"  # Profil-README Repo
-          TARGET_REPO = "Codey"  # wo Releases/Commits herkommen
+          REPO = "VolkanSah"       # Profil-README Repo
+          TARGET_REPO = "Codey"    # Repo für Releases & Commits
           TOKEN = os.getenv("GITHUB_TOKEN")
 
           HEADERS = {
@@ -41,56 +41,43 @@ jobs:
               "Accept": "application/vnd.github+json"
           }
 
-          # ---------------- Releases ----------------
-          r = requests.get(
-              f"https://api.github.com/repos/{USER}/{TARGET_REPO}/releases",
-              headers=HEADERS
-          )
+          # ---------------- Releases (letzte 5) ----------------
+          r = requests.get(f"https://api.github.com/repos/{USER}/{TARGET_REPO}/releases", headers=HEADERS)
           releases = r.json()[:5]
 
           release_rows = []
           for rel in releases:
               version = rel.get("tag_name", "-")
-              name = rel.get("name") or "-"
+              name = rel.get("name") or version
               date = (rel.get("published_at") or "")[:10]
-              release_rows.append(
-                  f"| {version} | {name} | {date} | Auto imported |"
-              )
+              url = rel.get("html_url")
+              release_rows.append(f"| {version} | [{name}]({url}) | {date} | Auto imported |")
 
           release_md = "\n".join(release_rows) if release_rows else "| - | - | - | - |"
 
-          # ---------------- Commits ----------------
-          r = requests.get(
-              f"https://api.github.com/repos/{USER}/{TARGET_REPO}/commits",
-              headers=HEADERS
-          )
+          # ---------------- Fixes / Commits (letzte 5) ----------------
+          r = requests.get(f"https://api.github.com/repos/{USER}/{TARGET_REPO}/commits", headers=HEADERS)
           commits = r.json()[:5]
 
           fix_rows = []
           for c in commits:
               msg = c["commit"]["message"].split("\n")[0]
               date = c["commit"]["author"]["date"][:10]
-              author = c.get("author", {})
-              author = author.get("login", "ghost")
-
+              author = c.get("author", {}).get("login", "ghost")
+              url = c.get("html_url")
               status = "✅"
               low = msg.lower()
               if "wip" in low:
                   status = "⚠"
               elif "fix" in low:
                   status = "🩹"
-
-              fix_rows.append(f"| {date} | {msg} | {author} | {status} |")
+              fix_rows.append(f"| {date} | [{msg}]({url}) | {author} | {status} |")
 
           fix_md = "\n".join(fix_rows) if fix_rows else "| - | - | - | - |"
 
           # ---------------- README Replace ----------------
           with open("README.md", "r", encoding="utf-8") as f:
               content = f.read()
-
-          def replace(start, end, block):
-              pattern = rf"{start}.*?{end}"
-              return re.sub(pattern, f"{start}\n{block}\n{end}", content, flags=re.S)
 
           content = re.sub(
               r"<!-- LAST_RELEASED-START -->.*?<!-- LAST_RELEASED-END -->",
@@ -109,7 +96,7 @@ jobs:
           with open("README.md", "w", encoding="utf-8") as f:
               f.write(content)
 
-          print("✅ README updated")
+          print("✅ README updated with clean links & 5 latest entries")
           EOF
 
       - name: Commit
