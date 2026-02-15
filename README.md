@@ -150,17 +150,8 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
 <details>
 <summary>Misc</summary>
 
-<!-- BRAIN_BUG-START -->
-
-| Item | Description | Status |
-|------|------------|--------|
-| Codey Pet | Angry SVG pet on GitHub | 🐾 Active |
-| Stats Automation | GitHub stars & repo stats | ✅ Running |
-| Brain.bug.log | Last 30 logs from CI | 🔍 Monitoring |
-| Meme Vault | Collection of Evil Morty memes | 😎 Secret |
-| Fun Fact | Grandmas feel my aura | 💥 True |
-
-<!-- BRAIN_BUG-END -->
+### Some ideas
+- soon
 
 </details>
 
