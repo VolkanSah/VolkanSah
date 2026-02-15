@@ -141,11 +141,11 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
 
 <details>
 <summary>Last Fixes / Updates</summary>
-
+  
+<!-- LAST_FIX-START -->
 | Date | Fix / Update | Author | Status |
 |------|--------------|--------|--------|
-<!-- LAST_FIX-START -->
-| 2026-02-15 | [🐾 Daily Codey update](https://github.com/VolkanSah/Codey/commit/ab60125bd8aede597a8c5eec2226bc6aea05028d) | actions-user | ✅ |
+| 2026-02-15 | [ Daily Codey update](https://github.com/VolkanSah/Codey/commit/ab60125bd8aede597a8c5eec2226bc6aea05028d) | actions-user | ✅ |
 | 2026-02-14 | [🐾 Daily Codey update](https://github.com/VolkanSah/Codey/commit/291171a02079bd25975b3e1833ba2cd8c51918f1) | actions-user | ✅ |
 | 2026-02-13 | [Create .po](https://github.com/VolkanSah/Codey/commit/59e6bd5d24c2c1263d1fd4c024dfa98e1c7b2b35) | VolkanSah | ✅ |
 | 2026-02-13 | [Create FUNDING.yml](https://github.com/VolkanSah/Codey/commit/537f855430dc4c251eec1264451a433b3c751a6c) | VolkanSah | ✅ |
@@ -154,26 +154,6 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
 
 </details>
 
-<details>
-<summary>Organisations</summary>
-
-| Organisation | Type | GitHub |
-|-------------|------|--------|
-| AiCodeCraft | AI | [AiCodeCraft](https://github.com/AiCodeCraft) |
-| Codey-LAB | LAB | [Codey-LAB](https://github.com/Codey-LAB) |
-| Command-n-Conquer | MORTY | [Command-n-Conquer](https://github.com/Command-n-Conquer) |
-| EmojiQL | FUN-EDU | [EmojiQL](https://github.com/EmojiQL) |
-| ESOL-License | ESOL | [ESOL-License](https://github.com/ESOL-License) |
-| koeniglichepost | GAME | [koeniglichepost](https://github.com/koeniglichepost) |
-| MiniGreX | LEAD | [MiniGreX](https://github.com/MiniGreX) |
-| NemesisCyberForce | SEC/LEAD | [NemesisCyberForce](https://github.com/NemesisCyberForce) |
-| PDF-CVE | SEC-FUN | [PDF-CVE](https://github.com/PDF-CVE) |
-| RustySafe | GAME-LAB | [RustySafe](https://github.com/RustySafe) |
-| SDCPT | SECRET-LAB | [SDCPT](https://github.com/SDCPT) |
-| System-Hell-Provocation | SATIRE | [System-Hell-Provocation](https://github.com/System-Hell-Provocation) |
-| Wall-of-Shames | ANTI-BITCH | [Wall-of-Shames](https://github.com/Wall-of-Shames) |
-
-</details>
 
 
 
