@@ -1,0 +1,117 @@
+name: VolkanSah `s profile update
+
+on:
+  schedule:
+    - cron: "0 5 * * *"   # wie in .codey definiert
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install deps
+        run: pip install requests
+
+      - name: Update Release & Fix Blocks
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python << 'EOF'
+          import requests, os, re
+
+          # ---------------- Load .codey ----------------
+          with open(".codey", "r", encoding="utf-8") as f:
+              codey = f.read()
+
+          def get_setting(key, default=None):
+              m = re.search(rf"{key}\s*=\s*(\d+)", codey)
+              return int(m.group(1)) if m else default
+
+          RELEASED_PER_REPO = get_setting("RELEASED", 1)
+          RELEASED_REPO_COUNT = get_setting("RELEASED_REPO_COUNT", 5)
+          FIX_PER_REPO = get_setting("UPDATE_FIX", 1)
+          FIX_REPO_COUNT = get_setting("UPDATE_FIX_REPO_COUNT", 5)
+
+          USER = "VolkanSah"
+          TARGET_REPOS = ["Codey"]  # du könntest aus [REPO_LIST] parsen, hier hartcoded
+
+          TOKEN = os.getenv("GITHUB_TOKEN")
+          HEADERS = {"Authorization": f"Bearer {TOKEN}", "Accept": "application/vnd.github+json"}
+
+          release_rows = []
+          fix_rows = []
+
+          for repo in TARGET_REPOS[:RELEASED_REPO_COUNT]:
+              # Releases
+              r = requests.get(f"https://api.github.com/repos/{USER}/{repo}/releases", headers=HEADERS)
+              rels = r.json()[:RELEASED_PER_REPO]
+              for rel in rels:
+                  version = rel.get("tag_name", "-")
+                  name = rel.get("name") or version
+                  date = (rel.get("published_at") or "")[:10]
+                  url = rel.get("html_url")
+                  release_rows.append(f"| {version} | [{name}]({url}) | {date} | Auto imported |")
+
+              # Commits / Fixes
+              r = requests.get(f"https://api.github.com/repos/{USER}/{repo}/commits", headers=HEADERS)
+              commits = r.json()[:FIX_PER_REPO]
+              for c in commits:
+                  msg = c["commit"]["message"].split("\n")[0]
+                  date = c["commit"]["author"]["date"][:10]
+                  author = c.get("author", {}).get("login", "ghost")
+                  url = c.get("html_url")
+                  status = "✅"
+                  low = msg.lower()
+                  if "wip" in low:
+                      status = "⚠"
+                  elif "fix" in low:
+                      status = "🩹"
+                  fix_rows.append(f"| {date} | [{msg}]({url}) | {author} | {status} |")
+
+          release_md = "\n".join(release_rows) if release_rows else "| - | - | - | - |"
+          fix_md = "\n".join(fix_rows) if fix_rows else "| - | - | - | - |"
+
+          # ---------------- README Replace ----------------
+          with open("README.md", "r", encoding="utf-8") as f:
+              content = f.read()
+
+          # Replace entire <details> blocks
+          content = re.sub(
+              r"(<details>\s*<summary>Released</summary>.*?<!-- LAST_RELEASED-END -->\s*</details>)",
+              f"<details>\n<summary>Released</summary>\n\n<!-- LAST_RELEASED-START -->\n{release_md}\n<!-- LAST_RELEASED-END -->\n\n</details>",
+              content,
+              flags=re.S
+          )
+
+          content = re.sub(
+              r"(<details>\s*<summary>Last Fixes / Updates</summary>.*?<!-- LAST_FIX-END -->\s*</details>)",
+              f"<details>\n<summary>Last Fixes / Updates</summary>\n\n<!-- LAST_FIX-START -->\n{fix_md}\n<!-- LAST_FIX-END -->\n\n</details>",
+              content,
+              flags=re.S
+          )
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(content)
+
+          print("✅ README updated with clean Releases & Fixes links")
+          EOF
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "auto: update releases & fixes"
+          git push
