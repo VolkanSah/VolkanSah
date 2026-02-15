@@ -1,0 +1,121 @@
+name: Volkan` s Update Profile Readme (ESOL_1.1)
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # täglich 03:00
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install deps
+        run: pip install requests
+
+      - name: Update blocks
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python << 'EOF'
+          import requests, os, re
+
+          USER = "VolkanSah"
+          REPO = "VolkanSah"  # Profil-README Repo
+          TARGET_REPO = "Codey"  # wo Releases/Commits herkommen
+          TOKEN = os.getenv("GITHUB_TOKEN")
+
+          HEADERS = {
+              "Authorization": f"Bearer {TOKEN}",
+              "Accept": "application/vnd.github+json"
+          }
+
+          # ---------------- Releases ----------------
+          r = requests.get(
+              f"https://api.github.com/repos/{USER}/{TARGET_REPO}/releases",
+              headers=HEADERS
+          )
+          releases = r.json()[:5]
+
+          release_rows = []
+          for rel in releases:
+              version = rel.get("tag_name", "-")
+              name = rel.get("name") or "-"
+              date = (rel.get("published_at") or "")[:10]
+              release_rows.append(
+                  f"| {version} | {name} | {date} | Auto imported |"
+              )
+
+          release_md = "\n".join(release_rows) if release_rows else "| - | - | - | - |"
+
+          # ---------------- Commits ----------------
+          r = requests.get(
+              f"https://api.github.com/repos/{USER}/{TARGET_REPO}/commits",
+              headers=HEADERS
+          )
+          commits = r.json()[:5]
+
+          fix_rows = []
+          for c in commits:
+              msg = c["commit"]["message"].split("\n")[0]
+              date = c["commit"]["author"]["date"][:10]
+              author = c.get("author", {})
+              author = author.get("login", "ghost")
+
+              status = "✅"
+              low = msg.lower()
+              if "wip" in low:
+                  status = "⚠"
+              elif "fix" in low:
+                  status = "🩹"
+
+              fix_rows.append(f"| {date} | {msg} | {author} | {status} |")
+
+          fix_md = "\n".join(fix_rows) if fix_rows else "| - | - | - | - |"
+
+          # ---------------- README Replace ----------------
+          with open("README.md", "r", encoding="utf-8") as f:
+              content = f.read()
+
+          def replace(start, end, block):
+              pattern = rf"{start}.*?{end}"
+              return re.sub(pattern, f"{start}\n{block}\n{end}", content, flags=re.S)
+
+          content = re.sub(
+              r"<!-- LAST_RELEASED-START -->.*?<!-- LAST_RELEASED-END -->",
+              f"<!-- LAST_RELEASED-START -->\n{release_md}\n<!-- LAST_RELEASED-END -->",
+              content,
+              flags=re.S
+          )
+
+          content = re.sub(
+              r"<!-- LAST_FIX-START -->.*?<!-- LAST_FIX-END -->",
+              f"<!-- LAST_FIX-START -->\n{fix_md}\n<!-- LAST_FIX-END -->",
+              content,
+              flags=re.S
+          )
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(content)
+
+          print("✅ README updated")
+          EOF
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "auto: update releases & fixes"
+          git push
