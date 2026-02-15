@@ -189,18 +189,42 @@ soon
 
 </details>
 
+
+
+---
+
+<details> 
+<summary>Contact</summary>
+
+
+#### **For legitimate inquiries:**
+- Legal requests: Through proper legal channels
+-  Security concerns: See [SECURITY.md](SECURITY.md)
+- **Security Concerns:** minigrex@proton.me
+
+
+## Community (WoS)
+
+- WoS **Discussions:** Global [GitHub Discussions](https://github.com/orgs/Wall-of-Shames/discussions)
+- **Report a Scam:** [Open an Issue](https://github.com/Wall-of-Shames/scammer-analysis-guide/issues/new)
+- WoS **Discussions:** Scam [Scammer Analysis Guide -Discussions](https://github.com/Wall-of-Shames/scammer-analysis-guide/discussions)
+- WoS Security:  NemesisCyberForce@proton.me
+
+---
+
+**For scammers:**
+- Your site is archived 💀
+- Your violations are documented ☠️
+- Your lies won't work here 😆
+
+</details> 
+
+
+
 ---
 
 <details>
 <summary>Legal & Disclamer</summary>
-soon
-
-</details>
-
----
-
-<details>
-<summary>Contact me</summary>
 soon
 
 </details>
