@@ -1,0 +1,47 @@
+################################################
+#        VolkanSah `s profile config         #
+################################################ 
+LICENSE = "APACHE v2 / ESOL v1.1"
+ESOL_URL = "https://github.com/ESOL-License/ESOL"
+APACHE_URL = "https://github.com/VolkanSah/VolkanSah/"
+################################################
+# Exclude repos from update stats capture
+[CODEY_START]
+
+[EXCLUDE]
+[REPO_LIST]
+volkansah
+Auto-Proxy-Fetcher
+codey
+.codey-lab
+[REPO_LIST_END]
+
+[FILES_LIST]
+.codey
+.codey.jsonl
+.codey.json
+codey.jsonl
+_codey.jsonl
+_codey.json
+codey.json
+[FILES_LIST_END]
+[EXCLUDE_END]
+
+[SETTINGS]
+RELEASED = 1                 # releases per repo
+RELEASED_REPO_COUNT = 5      # how many repos to show releases for
+UPDATE_FIX = 1               # commits per repo
+UPDATE_FIX_REPO_COUNT = 5   # how many repos to show commits for
+[SETTINGS_END]
+
+[CRON]
+CODEY_CRON_ZONE = UTC
+CODEY_CRON_HOUR = 5
+CODEY_CRON_MIN = 5
+CODEY_CRON_RUN = daily        # options: daily | weekly | monthly | yearly
+CODEY_CRON_RUN_WD = 0         # 1-7 for weekdays
+CODEY_CRON_RUN_MD = 0         # 1-28 for day of month
+CODEY_CRON_RUN_JD = 0         # 1-365 for day of year
+[CRON_END]
+
+[CODEY_END]
