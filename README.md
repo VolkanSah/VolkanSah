@@ -40,13 +40,6 @@
 
 ---
 
-
-
-
-
-
----
-
 ### Global Defense System
 ```bash
 if [[ "$USER_TYPE" == "Jerry" ]]; then
