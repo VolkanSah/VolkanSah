@@ -128,6 +128,8 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
 <summary>Released</summary>
 
 <!-- LAST_RELEASED-START -->
+| Version | Name | Date | Notes |
+|---------|------|------|-------|
 | 2.1.0 | [2.1.0](https://github.com/VolkanSah/Codey/releases/tag/2.1.0) | 2026-02-13 | Auto imported |
 | 2.0.6.1 | [2.0.6.1](https://github.com/VolkanSah/Codey/releases/tag/2.0.6.1) | 2025-11-15 | Auto imported |
 | 2.0.6 | [v.2.0.6-pre](https://github.com/VolkanSah/Codey/releases/tag/2.0.6) | 2025-10-16 | Auto imported |
@@ -140,6 +142,8 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
 <details>
 <summary>Last Fixes / Updates</summary>
 
+| Date | Fix / Update | Author | Status |
+|------|--------------|--------|--------|
 <!-- LAST_FIX-START -->
 | 2026-02-15 | [🐾 Daily Codey update](https://github.com/VolkanSah/Codey/commit/ab60125bd8aede597a8c5eec2226bc6aea05028d) | actions-user | ✅ |
 | 2026-02-14 | [🐾 Daily Codey update](https://github.com/VolkanSah/Codey/commit/291171a02079bd25975b3e1833ba2cd8c51918f1) | actions-user | ✅ |
