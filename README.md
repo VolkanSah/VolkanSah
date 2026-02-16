@@ -131,6 +131,10 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
 
 <!-- LAST_RELEASED-START -->
 | 2.1.0 | [2.1.0](https://github.com/VolkanSah/Codey/releases/tag/2.1.0) | 2026-02-13 | Auto imported |
+| 2.0.6.1 | [2.0.6.1](https://github.com/VolkanSah/Codey/releases/tag/2.0.6.1) | 2025-11-15 | Auto imported |
+| 2.0.6 | [v.2.0.6-pre](https://github.com/VolkanSah/Codey/releases/tag/2.0.6) | 2025-10-16 | Auto imported |
+| 2.0.4 | [Codey v.2.0.4](https://github.com/VolkanSah/Codey/releases/tag/2.0.4) | 2025-10-01 | Auto imported |
+| 2.0.3 | [Codey v.2.0.3](https://github.com/VolkanSah/Codey/releases/tag/2.0.3) | 2025-10-01 | Auto imported |
 <!-- LAST_RELEASED-END -->
 
 </details>
@@ -142,6 +146,10 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
 
 <!-- LAST_FIX-START -->
 | 2026-02-15 | [🐾 Daily Codey update](https://github.com/VolkanSah/Codey/commit/ab60125bd8aede597a8c5eec2226bc6aea05028d) | actions-user | ✅ |
+| 2026-02-14 | [🐾 Daily Codey update](https://github.com/VolkanSah/Codey/commit/291171a02079bd25975b3e1833ba2cd8c51918f1) | actions-user | ✅ |
+| 2026-02-13 | [Create .po](https://github.com/VolkanSah/Codey/commit/59e6bd5d24c2c1263d1fd4c024dfa98e1c7b2b35) | VolkanSah | ✅ |
+| 2026-02-13 | [Create FUNDING.yml](https://github.com/VolkanSah/Codey/commit/537f855430dc4c251eec1264451a433b3c751a6c) | VolkanSah | ✅ |
+| 2026-02-13 | [🐾 Daily Codey update](https://github.com/VolkanSah/Codey/commit/414005a1b3d037d9f44f397efe88f939d8ab1272) | actions-user | ✅ |
 <!-- LAST_FIX-END -->
 
 </details>
