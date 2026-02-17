@@ -16,7 +16,7 @@
 [C-n-C](https://github.com/Command-n-Conquer) • [Post](https://github.com/koeniglichepost) • [SHP](https://github.com/System-Hell-Provocation) •
 
 #### Misc
-[PDF-CVE](https://github.com/PDF-CVE) • [SDCPT](https://github.com/SDCPT) •
+[PDF-CVE](https://github.com/PDF-CVE) • [SDCPT](https://github.com/SDCPT) • [GHOST](https://github.com/GH0STSQUAD)
 
 </details>
 
