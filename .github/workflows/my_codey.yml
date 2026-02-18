@@ -2,44 +2,44 @@
 # Project: .myCodey Profile Engine
 # Licensed under: Apache 2.0 & ESOL 1.1 or later
 # (This project is licensed under: https://githubt.com/ESOL-License/ESOL/)
-# ##############################################################################
+# ############################################################################
+# 
 
-name: .Codey Profile Update
+name: Update Stats v1 run
 
 on:
   schedule:
-    - cron: '0 6 * * *'  # Runs daily at 06:00 UTC
-  workflow_dispatch:     # Allows manual trigger for immediate testing
+    - cron: '0 6 * * *'  # Jeden Tag um 6 Uhr früh (war falsch mit **)
+  workflow_dispatch:  # Manuell auslösbar
 
 jobs:
-  update-profile:
+  update-stats:
     runs-on: ubuntu-latest
     permissions:
-      contents: write    # Required to update README.md
-    
+      contents: write  # Wichtig für push
     steps:
-      - name: Checkout Repository
+      - name: Checkout Repo
         uses: actions/checkout@v4
         with:
-          persist-credentials: true
-
-      - name: Setup Python Environment
-        uses: actions/setup-python@v5
+          token: ${{ secrets.GITHUB_TOKEN }}  # Standard Token reicht
+      
+      - name: Setup Python
+        uses: actions/setup-python@v4
         with:
-          python-version: '3.12'
-
+          python-version: '3.x'
+      
       - name: Install Dependencies
         run: pip install requests
-
-      - name: Run Shelby Engine
+      
+      - name: Run Stats Script
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Standard Token verwenden
         run: python update_stats.py
-
-      - name: Deployment (Push Changes)
+      
+      - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "docs: automated profile update [skip ci]" || exit 0
+          git commit -m "🤖 Automatisches Update der GitHub Public Stats" || exit 0
           git push
