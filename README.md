@@ -20,25 +20,10 @@
 
 </details>
 
----
-
-
-### 🐾 Codey - Your Brutally Honest GitHub Pet
-> RPG "No Mercy" Edition v2.1 - Where Your Code Gets Judged For Real
-
-<p align="center">
-  <a href="https://github.com/volkansah/codey/">
-    <img src="https://raw.githubusercontent.com/VolkanSah/Codey/main/codey.svg"
-         alt="Codey"
-         width="100%">
-  </a>
-</p>
-
-
->  ⚠️ Codey Current Status: Testing phase 08.02–18.02.2026 — needs testers brave enough to face the truth! v.2.1
 
 
 ---
+
 <details>
 <summary>Global Defense System</summary>
 
