@@ -1,119 +1,192 @@
 import requests
 import os
 import re
-import sys
 
-# --- Config ---
 USERNAME = "VolkanSah"
 TOKEN = os.getenv("GITHUB_TOKEN")
-README_FILE = "README.md"
-CODEY_FILE = ".codey"
 
 if not TOKEN:
-    print("❌ No Token")
-    sys.exit(1)
+    print("❌ GITHUB_TOKEN nicht gefunden!")
+    exit(1)
 
 HEADERS = {"Authorization": f"Bearer {TOKEN}"}
 
-def fetch_stats():
+def fetch_all_repos(is_fork):
+    """Holt ALLE Repos mit Pagination + erweiterten Infos"""
     all_repos = []
+    has_next = True
     cursor = None
-    print("📡 Fetching...")
     
-    for _ in range(10):  # Hard limit 10 pages
-        cursor_str = f', after: "{cursor}"' if cursor else ""
+    while has_next:
         query = """
         {
           user(login: "%s") {
-            repositories(first: 100, privacy: PUBLIC, ownerAffiliations: OWNER %s) {
+            repositories(first: 100, privacy: PUBLIC, isFork: %s, ownerAffiliations: OWNER%s) {
               nodes {
-                name, stargazerCount, isArchived
-                owner { login }
+                name
+                stargazerCount
+                isArchived
+                isDisabled
+                isLocked
+                owner {
+                  login
+                }
               }
-              pageInfo { hasNextPage, endCursor }
+              pageInfo {
+                hasNextPage
+                endCursor
+              }
             }
           }
         }
-        """ % (USERNAME, cursor_str)
+        """ % (USERNAME, str(is_fork).lower(), f', after: "{cursor}"' if cursor else '')
         
         try:
-            r = requests.post("https://api.github.com/graphql", json={"query": query}, headers=HEADERS, timeout=15)
-            data = r.json().get("data", {}).get("user", {}).get("repositories", {})
-            nodes = data.get("nodes", [])
-            if not nodes: break
+            response = requests.post(
+                "https://api.github.com/graphql",
+                json={"query": query},
+                headers=HEADERS
+            )
+            response.raise_for_status()
+            data = response.json()
             
-            all_repos.extend(nodes)
-            print(f"✅ +{len(nodes)} repos")
+            if "errors" in data:
+                print(f"❌ API-Fehler: {data['errors']}")
+                exit(1)
             
-            if not data.get("pageInfo", {}).get("hasNextPage"): break
-            cursor = data.get("pageInfo", {}).get("endCursor")
-        except:
-            break
+            repos = data["data"]["user"]["repositories"]
+            all_repos.extend(repos["nodes"])
+            
+            page_info = repos["pageInfo"]
+            has_next = page_info["hasNextPage"]
+            cursor = page_info["endCursor"]
+            
+            print(f"  📦 {len(repos['nodes'])} Repos geholt (Gesamt: {len(all_repos)})")
+            
+        except requests.exceptions.RequestException as e:
+            print(f"❌ API-Fehler: {e}")
+            exit(1)
+    
     return all_repos
 
-def parse_codey():
-    conf = {"repos": [], "sets": {}}
-    if not os.path.exists(CODEY_FILE): return conf
-    with open(CODEY_FILE, "r", encoding="utf-8") as f:
-        c = f.read()
+def calculate_stats(repos, repo_type):
+    """Berechnet Stats mit Filter"""
+    # Filter: Nur aktive, nicht-archivierte Repos
+    active_repos = [
+        r for r in repos 
+        if not r.get("isArchived", False) 
+        and not r.get("isDisabled", False)
+        and not r.get("isLocked", False)
+        and r.get("owner", {}).get("login") == USERNAME
+    ]
     
-    # Quick Regex extraction
-    repos = re.findall(r"^([^#\s\[].*)$", re.search(r"\[REPO_LIST\](.*?)\[REPO_LIST_END\]", c, re.S).group(1), re.M)
-    conf["repos"] = [r.strip() for r in repos if r.strip()]
+    # Archivierte Repos separat
+    archived_repos = [
+        r for r in repos 
+        if (r.get("isArchived", False) or r.get("isDisabled", False) or r.get("isLocked", False))
+        and r.get("owner", {}).get("login") == USERNAME
+    ]
     
-    sets = re.search(r"\[SETTINGS\](.*?)\[SETTINGS_END\]", c, re.S)
-    if sets:
-        for l in sets.group(1).splitlines():
-            if "=" in l:
-                k, v = l.split("#")[0].split("=")
-                try: conf["sets"][k.strip()] = int(v.strip())
-                except: pass
-    return conf
+    archived_count = len(archived_repos)
+    archived_stars = sum(repo.get("stargazerCount", 0) for repo in archived_repos)
+    
+    active_stars = sum(repo.get("stargazerCount", 0) for repo in active_repos)
+    active_count = len(active_repos)
+    
+    print(f"\n📊 {repo_type.capitalize()} Repositories:")
+    print(f"  ✅ Aktiv: {active_count}")
+    if archived_count > 0:
+        print(f"  🗄️  Archiviert/Deaktiviert: {archived_count} (mit {archived_stars} ⭐)")
+    print(f"⭐ {repo_type.capitalize()} Sterne:")
+    print(f"  Aktiv: {active_stars}")
+    if archived_stars > 0:
+        print(f"  Archiv: {archived_stars} 💎")
+    print(f"  Gesamt: {active_stars + archived_stars}")
+    
+    # Top 10 mit meisten Stars
+    print(f"\n🏆 Top 10 {repo_type} Repos:")
+    top_repos = sorted(active_repos, key=lambda x: x.get("stargazerCount", 0), reverse=True)[:10]
+    for i, repo in enumerate(top_repos, 1):
+        status = ""
+        if repo.get("isArchived"):
+            status = " [ARCHIVIERT]"
+        elif repo.get("isDisabled"):
+            status = " [DEAKTIVIERT]"
+        print(f"  {i:2}. {repo['name']:40} {repo.get('stargazerCount', 0):4} ⭐{status}")
+    
+    # Detaillierte Liste ALLER Repos mit Stars
+    print(f"\n📋 Alle {repo_type} Repos mit Stars:")
+    repos_with_stars = sorted(
+        [r for r in active_repos if r.get("stargazerCount", 0) > 0],
+        key=lambda x: x.get("stargazerCount", 0),
+        reverse=True
+    )
+    for repo in repos_with_stars:
+        print(f"  - {repo['name']:40} {repo.get('stargazerCount', 0):4} ⭐")
+    
+    print(f"\n  Repos mit 0 Stars: {active_count - len(repos_with_stars)}")
+    
+    return active_count, active_stars, archived_count, archived_stars
 
-def build_tables(config):
-    rel_rows, fix_rows = [], []
-    # Releases
-    for repo in config["repos"][:config["sets"].get("RELEASED_REPO_COUNT", 5)]:
-        try:
-            r = requests.get(f"https://api.github.com/repos/{USERNAME}/{repo}/releases", headers=HEADERS, timeout=10).json()
-            if r and isinstance(r, list):
-                rel = r[0]
-                rel_rows.append(f"| {rel['tag_name']} | [{repo}](https://github.com/{USERNAME}/{repo}) | {rel['published_at'][:10]} | Auto |")
-        except: continue
-    # Commits
-    for repo in config["repos"][:config["sets"].get("UPDATE_FIX_REPO_COUNT", 5)]:
-        try:
-            r = requests.get(f"https://api.github.com/repos/{USERNAME}/{repo}/commits", headers=HEADERS, timeout=10).json()
-            if r and isinstance(r, list):
-                c = r[0]
-                status = "🩹" if "fix" in c['commit']['message'].lower() else "✅"
-                fix_rows.append(f"| {c['commit']['author']['date'][:10]} | [{c['commit']['message'][:50]}]({c['html_url']}) | {repo} | {status} |")
-        except: continue
+def update_readme(own_repos, own_stars, own_archived_stars, forked_repos, forked_stars, forked_archived_stars):
+    """Aktualisiert die README"""
+    stats_md = f"""<!-- STATS-START -->
+## 📊 GitHub Stats
+- **Own Public Repositories:** {own_repos}
+  - ⭐ Active Stars: {own_stars}
+  - 💎 Archived Stars: {own_archived_stars}
+  - 🌟 Total Own Stars: {own_stars + own_archived_stars}
+- **Forked Public Repositories:** {forked_repos}
+  - ⭐ Active Stars: {forked_stars}
+  - 💎 Archived Stars: {forked_archived_stars}
+  - 🌟 Total Fork Stars: {forked_stars + forked_archived_stars}
+- **🎯 Grand Total Stars:** {own_stars + own_archived_stars + forked_stars + forked_archived_stars}
 
-    rt = "| Version | Repository | Date | Type |\n| :--- | :--- | :--- | :--- |\n" + ("\n".join(rel_rows) if rel_rows else "| - | - | - | - |")
-    ft = "| Date | Message | Repo | Status |\n| :--- | :--- | :--- | :--- |\n" + ("\n".join(fix_rows) if fix_rows else "| - | - | - | - |")
-    return rt, ft
+*Last updated automatically via GitHub Actions.*
+<!-- STATS-END -->"""
+    
+    try:
+        with open("README.md", "r", encoding="utf-8") as f:
+            readme_content = f.read()
+    except FileNotFoundError:
+        print("❌ README.md nicht gefunden!")
+        exit(1)
+    
+    pattern = r"<!-- STATS-START -->.*?<!-- STATS-END -->"
+    if re.search(pattern, readme_content, re.DOTALL):
+        new_readme = re.sub(pattern, stats_md, readme_content, flags=re.DOTALL)
+        print("\n✅ Stats-Bereich aktualisiert.")
+    else:
+        new_readme = readme_content.strip() + "\n\n" + stats_md
+        print("\n✅ Stats-Bereich hinzugefügt.")
+    
+    with open("README.md", "w", encoding="utf-8") as f:
+        f.write(new_readme)
+    
+    print("🎉 Fertig!")
 
 if __name__ == "__main__":
-    repos = fetch_stats()
-    if not repos: sys.exit(0)
+    print("🔍 Hole eigene Repositories...")
+    own_repos_data = fetch_all_repos(False)
+    own_repos, own_stars, own_archived, own_archived_stars = calculate_stats(own_repos_data, "eigene")
     
-    own = [r for r in repos if not r["isArchived"] and r["owner"]["login"] == USERNAME]
-    arch = [r for r in repos if r["isArchived"] and r["owner"]["login"] == USERNAME]
-    s_own, s_arch = sum(r["stargazerCount"] for r in own), sum(r["stargazerCount"] for r in arch)
-
-    stats_md = f"## 📊 Stats\n- **Repos:** {len(own)}\n  - ⭐ Active: {s_own}\n  - 💎 Archived: {s_arch}\n- **🎯 Total:** {s_own + s_arch}"
-
-    cfg = parse_codey()
-    rt, ft = build_tables(cfg)
+    print("\n" + "="*80)
+    print("🔍 Hole geforkte Repositories...")
+    forked_repos_data = fetch_all_repos(True)
+    forked_repos, forked_stars, forked_archived, forked_archived_stars = calculate_stats(forked_repos_data, "geforkte")
     
-    with open(README_FILE, "r", encoding="utf-8") as f:
-        text = f.read()
+    print("\n" + "="*80)
+    print(f"📈 GESAMT:")
+    print(f"  Aktive Repos: {own_repos + forked_repos}")
+    print(f"  Archivierte Repos: {own_archived + forked_archived}")
+    print(f"  ⭐ Aktive Stars: {own_stars + forked_stars}")
+    print(f"  💎 Archiv Stars: {own_archived_stars + forked_archived_stars}")
+    print(f"  🌟 GRAND TOTAL: {own_stars + own_archived_stars + forked_stars + forked_archived_stars} ⭐")
     
-    # Precision Injection
-    for tag, data in {"STATS": stats_md, "LAST_RELEASED": rt, "LAST_FIX": ft}.items():
-        text = re.sub(rf".*?", f"\n{data}\n", text, flags=re.S)
+    # Manuelle Verifikation
+    print("\n" + "="*80)
+    print("🔍 MANUELLE VERIFIKATION:")
+    print("Gehe zu: https://github.com/VolkanSah?tab=repositories")
+    print("Zähle manuell die öffentlichen Repos und vergleiche!")
     
-    with open(README_FILE, "w", encoding="utf-8") as f:
-        f.write(text)
-    print("🏁 Done")
+    update_readme(own_repos, own_stars, own_archived_stars, forked_repos, forked_stars, forked_archived_stars)
