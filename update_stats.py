@@ -14,17 +14,20 @@ if not TOKEN:
     exit(1)
 
 # --- PHASE 1: DER MOTOR -
+# --- FIX FÜR DEN GRAPHQL MOTOR ---
 def fetch_stats_graphql():
-    """Holt die großen Stats in einem Rutsch - Stabil & Schnell"""
     all_repos = []
     has_next = True
     cursor = None
     
     while has_next:
+        # Sicherer String-Bau für den Cursor
+        cursor_str = f', after: "{cursor}"' if cursor else ""
+        
         query = """
         {
           user(login: "%s") {
-            repositories(first: 100, privacy: PUBLIC, ownerAffiliations: OWNER) {
+            repositories(first: 100, privacy: PUBLIC, ownerAffiliations: OWNER %s) {
               nodes {
                 name, stargazerCount, isArchived, isDisabled, isLocked
                 owner { login }
@@ -33,18 +36,28 @@ def fetch_stats_graphql():
             }
           }
         }
-        """ % (USERNAME + (f'", after: "{cursor}' if cursor else ""))
+        """ % (USERNAME, cursor_str)
         
         try:
             r = requests.post("https://api.github.com/graphql", json={"query": query}, headers=HEADERS)
             r.raise_for_status()
             data = r.json()
-            repos = data["data"]["user"]["repositories"]
-            all_repos.extend(repos["nodes"])
-            has_next = repos["pageInfo"]["hasNextPage"]
-            cursor = repos["pageInfo"]["endCursor"]
-        except:
+            
+            # DER SICHERHEITS-CHECK: Existieren die Keys überhaupt?
+            if "data" in data and data["data"] and "user" in data["data"] and data["data"]["user"]:
+                repos_data = data["data"]["user"]["repositories"]
+                all_repos.extend(repos_data.get("nodes", []))
+                
+                page_info = repos_data.get("pageInfo", {})
+                has_next = page_info.get("hasNextPage", False)
+                cursor = page_info.get("endCursor", None)
+            else:
+                print(f"⚠️ API-Struktur unerwartet: {data.get('errors', 'Unbekannter Fehler')}")
+                break
+        except Exception as e:
+            print(f"❌ Schwerer Fehler beim Abrufen: {e}")
             break
+            
     return all_repos
 
 # --- PHASE 2: DAS GETRIEBE (Der .codey Parser) ---
