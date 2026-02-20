@@ -1,6 +1,9 @@
 <details>
 <summary>QNavi</summary>
 
+[![Codey - Your GitHub Pet](https://raw.githubusercontent.com/VolkanSah/Codey/refs/heads/main/codey.svg)](https://github.com/volkansah/codey/)
+
+
 #### QTipps:
 [Free Global Proxies](https://github.com/VolkanSah/Auto-Proxy-Fetcher) • [Free SD-Gen (R34)](https://perchance.org/hot-images) • 
 [Gist](https://gist.github.com/VolkanSah) • [HF](https://huggingface.co/Alibrown/) • [JadeAI](https://jugendamt-deutschland.de) •
