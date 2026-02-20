@@ -28,7 +28,14 @@
 
 # 🐾 Codey - Your Brutally Honest GitHub Pet v2
 
-[![Codey - Your GitHub Pet](https://raw.githubusercontent.com/VolkanSah/Codey/refs/heads/main/codey.svg)](https://github.com/volkansah/codey/)
+
+
+<p align="center">
+  <a href="https://github.com/volkansah/codey/b">
+    <img src="https://raw.githubusercontent.com/VolkanSah/Codey/refs/heads/main/codey.svg" width="99%">
+  </a>
+</p>
+
 
 > klick on codey to get codey
 
