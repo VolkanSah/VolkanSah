@@ -1,8 +1,6 @@
 <details>
 <summary>QNavi</summary>
 
-[![Codey - Your GitHub Pet](https://raw.githubusercontent.com/VolkanSah/Codey/refs/heads/main/codey.svg)](https://github.com/volkansah/codey/)
-
 
 #### QTipps:
 [Free Global Proxies](https://github.com/VolkanSah/Auto-Proxy-Fetcher) • [Free SD-Gen (R34)](https://perchance.org/hot-images) • 
@@ -22,6 +20,17 @@
 [PDF-CVE](https://github.com/PDF-CVE) • [SDCPT](https://github.com/SDCPT) • [GHOST](https://github.com/GH0STSQUAD)
 
 </details>
+
+
+---
+
+
+
+# 🐾 Codey - Your Brutally Honest GitHub Pet v2
+
+[![Codey - Your GitHub Pet](https://raw.githubusercontent.com/VolkanSah/Codey/refs/heads/main/codey.svg)](https://github.com/volkansah/codey/)
+
+> klick on codey to get codey
 
 
 
