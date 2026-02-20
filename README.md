@@ -31,7 +31,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/volkansah/codey/b">
+  <a href="https://github.com/volkansah/codey/">
     <img src="https://raw.githubusercontent.com/VolkanSah/Codey/refs/heads/main/codey.svg" width="99%">
   </a>
 </p>
