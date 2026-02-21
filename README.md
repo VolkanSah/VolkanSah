@@ -222,20 +222,7 @@ soon
 
 </details> 
 
-
-
 ---
-
-<details>
-<summary>Legal & Disclamer</summary>
-soon
-
-</details>
-
----
-
-<details>
-<summary>Last words</summary>
 
 
 > [ brain_bug.logs] 80% of the world is trash & debug. We are the other 20%. Stop the flex!
