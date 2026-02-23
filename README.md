@@ -1,3 +1,18 @@
+# 🐾 Codey - Your Cute & Brutally Honest GitHub Pet v2
+
+
+
+<p align="center">
+  <a href="https://github.com/volkansah/codey/">
+    <img src="https://raw.githubusercontent.com/VolkanSah/Codey/refs/heads/main/codey.svg" width="99%">
+  </a>
+</p>
+
+
+> klick on codey to get codey
+
+---
+
 <details>
 <summary>QNavi</summary>
 
@@ -20,25 +35,6 @@
 [PDF-CVE](https://github.com/PDF-CVE) • [SDCPT](https://github.com/SDCPT) • [GHOST](https://github.com/GH0STSQUAD)
 
 </details>
-
-
----
-
-
-
-# 🐾 Codey - Your Brutally Honest GitHub Pet v2
-
-
-
-<p align="center">
-  <a href="https://github.com/volkansah/codey/">
-    <img src="https://raw.githubusercontent.com/VolkanSah/Codey/refs/heads/main/codey.svg" width="99%">
-  </a>
-</p>
-
-
-> klick on codey to get codey
-
 
 
 ---
