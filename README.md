@@ -1,15 +1,17 @@
-# 🐾 Codey - Your Cute & Brutally Honest GitHub Pet v2
+
 
 
 
 <p align="center">
+  🐾 Codey - Your cute & brutally honest GitHub Pet v2
   <a href="https://github.com/volkansah/codey/">
-    <img src="https://raw.githubusercontent.com/VolkanSah/Codey/refs/heads/main/codey.svg" width="99%">
+    <img src="https://raw.githubusercontent.com/VolkanSah/Codey/refs/heads/main/codey.svg" width="75%">
   </a>
+
 </p>
 
+  > klick on codey to get codey, cuty, cyberCat and many more . Have fun and ⭐ this repo for a huge against fakes abd hate!
 
-> klick on codey to get codey
 
 ---
 
