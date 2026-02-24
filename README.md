@@ -111,9 +111,10 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
 
 ---
 
-
+>  New Project I start "Scammers (fraud)" on Github & Metaverse/Tiktok
 
 <p align="center">
+
   <a href="https://github.com/Wall-of-Shames">
     <img src="https://raw.githubusercontent.com/Wall-of-Shames/.github/main/profile/wall-of-shames.jpg" width="99%">
   </a>
