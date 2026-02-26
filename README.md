@@ -20,8 +20,8 @@
 
 
 #### QTipps:
-[Free Global Proxies](https://github.com/VolkanSah/Auto-Proxy-Fetcher) • [Free SD-Gen (R34)](https://perchance.org/hot-images) • 
-[Gist](https://gist.github.com/VolkanSah) • [HF](https://huggingface.co/Alibrown/) • [JadeAI](https://jugendamt-deutschland.de) •
+**Tools:** [Free Global Proxies](https://github.com/VolkanSah/Auto-Proxy-Fetcher) • [Free SD-Gen (R34)](https://perchance.org/hot-images) • [Logo to Vector](https://huggingface.co/spaces/Alibrown/VectorAi/)
+> Me: [Gist](https://gist.github.com/VolkanSah) • [HF](https://huggingface.co/Alibrown/) • [JadeAI](https://jugendamt-deutschland.de) •
 
 #### Work
 [MiniGreX](https://github.com/MiniGreX) • [NCF](https://github.com/NemesisCyberForce) •
