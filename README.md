@@ -3,9 +3,9 @@
 
 
 <p align="center">
-  🐾 Codey - Your cute & brutally honest GitHub Pet v2
+  🐾 Codey - brutally honest GitHub Pet v2
   <a href="https://github.com/volkansah/codey/">
-    <img src="https://raw.githubusercontent.com/VolkanSah/Codey/refs/heads/main/codey.svg" width="75%">
+    <img src="https://raw.githubusercontent.com/VolkanSah/Codey/refs/heads/main/codey.svg" width="100%">
   </a>
 
 </p>
