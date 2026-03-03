@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  🐾 Codey - brutally honest GitHub Pet v2
+  🐾 Codey - brutally honest GitHub Stats v2
   <a href="https://github.com/volkansah/codey/">
     <img src="https://raw.githubusercontent.com/VolkanSah/Codey/refs/heads/main/codey.svg" width="100%">
   </a>
