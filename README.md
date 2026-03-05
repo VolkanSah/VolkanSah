@@ -1,9 +1,6 @@
-
-
-
-
+>   🐾 Codey - a brutally honest GitHub Stats (PET) v2-dev
 <p align="center">
-  🐾 Codey - brutally honest GitHub Stats v2
+
   <a href="https://github.com/volkansah/codey/">
     <img src="https://raw.githubusercontent.com/VolkanSah/Codey/refs/heads/main/codey.svg" width="100%">
   </a>
@@ -41,6 +38,7 @@
 
 ---
 
+
 <details>
 <summary>Global Defense System</summary>
 
@@ -57,6 +55,11 @@ fi
 </details>
 
 ---
+
+
+
+
+
 
 <details>
 <summary>Who am I?</summary>
