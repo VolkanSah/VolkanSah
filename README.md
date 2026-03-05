@@ -20,15 +20,15 @@
 
 
 #### QTipps:
-**Tools:** [Free Global Proxies](https://github.com/VolkanSah/Auto-Proxy-Fetcher) • [Free SD-Gen (R34)](https://perchance.org/hot-images) • [Logo to Vector](https://huggingface.co/spaces/Alibrown/VectorAi/)
-> Me: [Gist](https://gist.github.com/VolkanSah) • [HF](https://huggingface.co/Alibrown/) • [JadeAI](https://jugendamt-deutschland.de) •
+**Tools:** [NativeCronGen](https://volkansah.github.io/NativeCron-Generator) • [Proxy-Fetcher](https://github.com/VolkanSah/Auto-Proxy-Fetcher) • [Logo to Vector](https://huggingface.co/spaces/Alibrown/VectorAi/)
+> Misk: [Gist](https://gist.github.com/VolkanSah) • [HF](https://huggingface.co/Alibrown/) • [JadeAI](https://jugendamt-deutschland.de) •  [Free SD-Gen (R34)](https://perchance.org/hot-images) •
 
 #### Work
 [MiniGreX](https://github.com/MiniGreX) • [NCF](https://github.com/NemesisCyberForce) •
 
 #### EDU & Development
 [AiCC](https://github.com/AiCodeCraft) • [ESOL](https://github.com/ESOL-License) • [Pinky](https://github.com/EmojiQL) • 
-[RustySafe](https://github.com/RustySafe) • [WoS](https://github.com/wall-of-shames/) • [_CL](https://github.com/codey-lab/) •
+[RustySafe](https://github.com/RustySafe) • [WoS](https://github.com/wall-of-shames/) • [Codey-LAB](https://github.com/codey-lab/) •
 
 #### Gaming
 [C-n-C](https://github.com/Command-n-Conquer) • [Post](https://github.com/koeniglichepost) • [SHP](https://github.com/System-Hell-Provocation) •
