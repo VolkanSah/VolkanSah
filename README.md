@@ -24,17 +24,17 @@
 > Misk: [Gist](https://gist.github.com/VolkanSah) • [HF](https://huggingface.co/Alibrown/) • [JadeAI](https://jugendamt-deutschland.de) •  [Free SD-Gen (R34)](https://perchance.org/hot-images) •
 
 #### Work
-[MiniGreX](https://github.com/MiniGreX) • [NCF](https://github.com/NemesisCyberForce) •
+> [MiniGreX](https://github.com/MiniGreX) • [NCF](https://github.com/NemesisCyberForce) •
 
 #### EDU & Development
-[AiCC](https://github.com/AiCodeCraft) • [ESOL](https://github.com/ESOL-License) • [Pinky](https://github.com/EmojiQL) • 
-[RustySafe](https://github.com/RustySafe) • [WoS](https://github.com/wall-of-shames/) • [Codey-LAB](https://github.com/codey-lab/) •
+> [AiCC](https://github.com/AiCodeCraft) • [ESOL](https://github.com/ESOL-License) • [Pinky](https://github.com/EmojiQL) • 
+> [RustySafe](https://github.com/RustySafe) • [WoS](https://github.com/wall-of-shames/) • [Codey-LAB](https://github.com/codey-lab/) •
 
 #### Gaming
-[C-n-C](https://github.com/Command-n-Conquer) • [Post](https://github.com/koeniglichepost) • [SHP](https://github.com/System-Hell-Provocation) •
+> [C-n-C](https://github.com/Command-n-Conquer) • [Post](https://github.com/koeniglichepost) • [SHP](https://github.com/System-Hell-Provocation) •
 
 #### Misc
-[PDF-CVE](https://github.com/PDF-CVE) • [SDCPT](https://github.com/SDCPT) • [GHOST](https://github.com/GH0STSQUAD)
+> [PDF-CVE](https://github.com/PDF-CVE) • [SDCPT](https://github.com/SDCPT) • [GHOST](https://github.com/GH0STSQUAD)
 
 </details>
 
