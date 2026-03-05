@@ -7,7 +7,7 @@
 
 </p>
 
-  > klick on codey to get codey, cuty, cyberCat and many more . Have fun and ⭐ this repo for a hug against fakes and hate!
+  > klick on codey to get codey, cuty, cyberCat and many many more . Have fun and! ⭐ this repo for a hug against fakes and scam!
 
 
 ---
