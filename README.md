@@ -17,6 +17,7 @@
 
 
 #### QTipps:
+> HF: [AI-HUB](https://huggingface.co/spaces/codey-lab/Multi-LLM-API-Gateway)
 **Tools:** [Tailwindcss-Extractor](https://github.com/VolkanSah/tailwindcss-extractor) • [NativeCronGen](https://volkansah.github.io/NativeCron-Generator) • [Proxy-Fetcher](https://github.com/VolkanSah/Auto-Proxy-Fetcher) • [Logo to Vector](https://huggingface.co/spaces/Alibrown/VectorAi/)
 > Misk: [Gist](https://gist.github.com/VolkanSah) • [HF](https://huggingface.co/Alibrown/) • [JadeAI](https://jugendamt-deutschland.de) •  [Free SD-Gen (R34)](https://perchance.org/hot-images) •
 
