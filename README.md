@@ -126,7 +126,7 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
 <summary>Released</summary>
 
 <!-- LAST_RELEASED-START -->
-| 2.1.0 | [2.1.0](https://github.com/VolkanSah/Codey/releases/tag/2.1.0) | 2026-02-13 | Auto imported |
+
 <!-- LAST_RELEASED-END -->
 
 </details>
@@ -137,7 +137,7 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
 <summary>Last Fixes / Updates</summary>
 
 <!-- LAST_FIX-START -->
-| 2026-02-16 | [🐾 Daily Codey update](https://github.com/VolkanSah/Codey/commit/eabab8d652c9e93ea51d6e111d62081086a0069c) | actions-user | ✅ |
+
 <!-- LAST_FIX-END -->
 
 </details>
@@ -159,7 +159,7 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
 <summary>Other Stats</summary>
 
 <!-- STATS-START -->
-soon
+soon!
 <!-- STATS-END -->
 
 </details>
@@ -211,11 +211,12 @@ soon
 </details>
 
 
-## GitHub Stats
+#### GitHub Stats
 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=volkansah&show_icons=true&theme=radical" style="width: 100%;"/>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=volkansah&theme=dark" style="width: 100%;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=volkansah&show_icons=true&theme=radical" style="width: 100%;"/>
 
 
 
