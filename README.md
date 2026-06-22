@@ -211,13 +211,6 @@ soon
 </details>
 
 
-#### GitHub Stats
-
-
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=volkansah&theme=dark" style="width: 100%;"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=volkansah&show_icons=true&theme=radical" style="width: 100%;"/>
-
 
 
 
