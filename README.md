@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Wall-of-Shames/.github/refs/heads/main/profile/wall-of-shames.jpg">
+<img src="https://github.com/Wall-of-Shames">
 
 
 <p align="center">
