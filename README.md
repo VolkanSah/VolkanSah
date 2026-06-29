@@ -1,3 +1,12 @@
+<img src="https://raw.githubusercontent.com/Wall-of-Shames/.github/refs/heads/main/profile/wall-of-shames.jpg">
+
+
+<p align="center">
+  <a href="https://github.com/Wall-of-Shames">
+    <img src="https://raw.githubusercontent.com/Wall-of-Shames/.github/refs/heads/main/profile/wall-of-shames.jpg" width="99%">
+  </a>
+</p>
+
 
 <details>
 <summary>QNavi</summary>
