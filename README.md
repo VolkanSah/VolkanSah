@@ -1,5 +1,3 @@
-<img src="https://github.com/Wall-of-Shames">
-
 
 <p align="center">
   <a href="https://github.com/Wall-of-Shames">
