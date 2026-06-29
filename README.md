@@ -1,18 +1,3 @@
->   🐾 Codey - a brutally honest GitHub Stats (PET) v2-dev
-<p align="center">
-
-  <a href="https://github.com/volkansah/codey/">
-    <img src="https://raw.githubusercontent.com/VolkanSah/Codey/refs/heads/main/codey.svg" width="90%">
-  </a>
-
-</p>
-
-  > klick on codey to get codey, cuty, cyberCat and many many more . Have fun and! ⭐ this repo for a hug against fakes and scam!
-
-
----
-
-<details>
 <summary>QNavi</summary>
 
 
