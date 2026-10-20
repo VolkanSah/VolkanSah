@@ -1,4 +1,9 @@
-
+<p align="center">
+  <a href="https://github.com/VolkanSah/Codey">
+    <img src="https://raw.githubusercontent.com/VolkanSah/Codey/refs/heads/main/codey.svg" width="99%">
+  </a>
+</p>
+--- 
 <p align="center">
   <a href="https://github.com/Wall-of-Shames">
     <img src="https://raw.githubusercontent.com/Wall-of-Shames/.github/refs/heads/main/profile/wall-of-shames.jpg" width="99%">
