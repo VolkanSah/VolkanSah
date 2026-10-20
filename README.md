@@ -4,7 +4,12 @@
   </a>
 </p>
 
---- 
+---
+
+> [!IMPORTANT]
+> my private github account where I invent, transform, create, and destroy! "No Support" for Orgas here! Use Orga`s request, please!
+
+---
 
 <p align="center">
   <a href="https://github.com/Wall-of-Shames">
@@ -117,10 +122,6 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
 ---
 
 
-> [!IMPORTANT]
-> my private github account where I invent, transform, create, and destroy! "No Support" for Orgas here! Use Orga`s request, please!
-
----
 
 
 <details>
