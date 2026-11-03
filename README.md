@@ -1,4 +1,4 @@
-## NEW CODEY THEMES (HTOP + KAWAII) 😙
+## NEW CODEY THEMES - HTOP + [KAWAII](https://github.com/VolkanSah/Codey/tree/main/.codey_themes/kawaii_korean) 😙
 
 <p align="center">
   <a href="https://github.com/VolkanSah/Codey">
