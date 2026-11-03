@@ -1,4 +1,4 @@
-## NEW CODEY THEMES + KAWAII 😙
+## NEW CODEY THEMES (HTOP + KAWAII) 😙
 
 <p align="center">
   <a href="https://github.com/VolkanSah/Codey">
