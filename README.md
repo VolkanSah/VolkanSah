@@ -1,3 +1,5 @@
+## NEW CODEY THEMES + KAWAII 😙
+
 <p align="center">
   <a href="https://github.com/VolkanSah/Codey">
     <img src="https://raw.githubusercontent.com/VolkanSah/Codey/refs/heads/main/codey.svg" width="99%">
