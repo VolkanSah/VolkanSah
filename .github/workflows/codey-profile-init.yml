@@ -1,0 +1,41 @@
+# ##############################################################################
+# Project:        .myCodey Profile Engine
+# Licensed under: Apache 2.0 & ESOL (https://github.com/ESOL-License)
+# ##############################################################################
+name: Profile - Releases and Fixes
+
+on:
+  schedule:
+    - cron: "0 5 * * *"          # daily 05:00 UTC
+  workflow_dispatch:              # manual run
+
+permissions:
+  contents: write
+
+concurrency:                      # all profile workflows write README.md: one at a time
+  group: profile-readme
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update Releases and Fixes blocks
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/update_releases_fixes.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "codey-bot"
+          git config user.email "codey-bot@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "nothing to commit"
+          else
+            git commit -m "auto: update releases & fixes"
+            git pull --rebase
+            git push
+          fi
