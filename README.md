@@ -129,7 +129,7 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
 <summary>Released</summary>
 
 <!-- LAST_RELEASED-START -->
-
+soon!
 <!-- LAST_RELEASED-END -->
 
 </details>
@@ -140,8 +140,19 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
 <summary>Last Fixes / Updates</summary>
 
 <!-- LAST_FIX-START -->
-
+soon!
 <!-- LAST_FIX-END -->
+
+</details>
+
+---
+
+<details>
+<summary>Star Report (auto-updated)</summary>
+
+<!-- STAR_REPORT-START -->
+soon!
+<!-- STAR_REPORT-END -->
 
 </details>
 
@@ -153,17 +164,6 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
 
 ### Some ideas
 - soon
-
-</details>
-
----
-
-<details>
-<summary>Other Stats</summary>
-
-<!-- STATS-START -->
-soon!
-<!-- STATS-END -->
 
 </details>
 
