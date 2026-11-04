@@ -90,7 +90,7 @@ I might not have any fancy superpowers, but who needs 'em when you've got sheer 
 
 #### "DevSecOps+ and all that other stuff, Morty."
 
-* When I say I love freedom, I’m not talking about broken windows or rotten fruit. I’m talking about Open Source, Linux, Unix and the other shit! FUCK. Morty! Did you understand me Morty? Morty? – the real deal Morty, the real deal! Not that Windows or Apple crap, trying to suck every last penny out of you while you’re stuck in their shiny, hollow world. That's fucked, Morty, I don't want to die like that!
+* When I say I love freedom, I’m not talking about broken windows or rotten fruit. I’m talking about Open Source, Linux, Unix and the other shit! FUCK. Morty! Did you understand me Morty? Morty? – the real deal Morty, the real deal! Not that Windows or Apple crap, trying to suck every last penny out of you while you’re stuck in their shiny, hollow world. That's fucked, Morty, I don't want to die so!
 
 * Languages – html(5), xml, css³, php, js, typescript, python, perl, smalltalk, c, sql (MySQL, MariaDB, PostgreSQL) and some others, but not fluently, Morty … Pfft, I’ve got ‘em all covered, Morty. Oh, and yeah, I speak some human languages too: German, English, Turkish – and some others (not fluent), but don’t expect me to write Shakespeare ... you know where the time machine stands, Morty!
 
@@ -116,9 +116,9 @@ You wanna ask for help or report an issue, don't just throw some half-assed garb
 
 Let me spell it out for you, nice and slow: DON’T. STEAL. MY. CODE. You think copying someone else's work and slapping your name on it makes you clever? No, Morty, it makes you a colossal idiot.
 
-Wanna know what happens when you pull that crap? I'll find you faster than a pissed-off Jerry with a grudge and an internet connection. And when I do, you’ll wish you had spent more time reading the [LICENSE](https://github.com/ESOL-License) file and less time being a lazy sack of garbage. Oh, and pro tip: 'Ctrl+C' is not a substitute for actual skills.
+Wanna know what happens when you pull that crap? I'll find you faster than a pissed-off Jerry with a grudge and an internet connection. And when I do, you’ll wish you had spent more time reading the [LICENSE](ESOL) file and less time being a lazy sack of garbage. Oh, and pro tip: 'Ctrl+C' is not a substitute for actual skills.
 
-Look, Morty, we live in a universe of infinite possibilities. Infinite. So why the hell would you waste yours being the punchline to a bad joke? Use the code responsibly, follow the damn rules, and maybe—just maybe—you won’t end up on the wrong end of my verbal disintegrator. Get it, Morty? Good.
+Look, Morty, we live in a universe of infinite possibilities. Infinite. So why the hell would you waste yours being the punchline to a bad joke? Use the code responsibly, follow the damn rules, and maybe - just maybe you won’t end up on the wrong end of my verbal disintegrator. Get it, Morty? Good.
 
 </details>
 
