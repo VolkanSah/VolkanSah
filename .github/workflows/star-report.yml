@@ -1,0 +1,37 @@
+name: Update Star Report
+
+on:
+  schedule:
+    - cron: "17 6 * * *"        # daily check, commits only when the report changed
+  workflow_dispatch:             # manual run
+  repository_dispatch:           # optional: Codey can trigger this right after a new report
+    types: [codey-report]
+
+permissions:
+  contents: write
+
+concurrency:                     # all profile workflows write README.md: one at a time
+  group: profile-readme
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Inject star report into README
+        run: python3 .github/scripts/inject_star_report.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "codey-bot"
+          git config user.email "codey-bot@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "nothing to commit"
+          else
+            git commit -m "chore: update star report"
+            git pull --rebase
+            git push
+          fi
