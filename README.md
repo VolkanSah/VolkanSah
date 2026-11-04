@@ -129,7 +129,11 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
 <summary>Released</summary>
 
 <!-- LAST_RELEASED-START -->
-soon!
+
+| Repo | Version | Release | Date |
+|---|---|---|---|
+| Codey | 2.2.3-Kawaii | [2.2.3 (Kawaii Theme added)](https://github.com/VolkanSah/Codey/releases/tag/2.2.3-Kawaii) | 2026-11-03 |
+
 <!-- LAST_RELEASED-END -->
 
 </details>
@@ -140,7 +144,11 @@ soon!
 <summary>Last Fixes / Updates</summary>
 
 <!-- LAST_FIX-START -->
-soon!
+
+| Date | Repo | Commit | Author | Status |
+|---|---|---|---|---|
+| 2026-11-03 | Codey | [Update update_codey.py](https://github.com/VolkanSah/Codey/commit/2a3671ca4505f47c8d2bbca7aacf55d94de17026) | VolkanSah | ✅ |
+
 <!-- LAST_FIX-END -->
 
 </details>
