@@ -138,7 +138,7 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
 
 | Repo | Version | Release | Date |
 |---|---|---|---|
-| Codey | 2.2.3-Kawaii | [2.2.3 (Kawaii Theme added)](https://github.com/VolkanSah/Codey/releases/tag/2.2.3-Kawaii) | 2026-11-03 |
+| Codey | 2.2.3-Htop | [2.2.3 (Htop Theme added)](https://github.com/VolkanSah/Codey/releases/tag/2.2.3-Htop) | 2026-11-04 |
 
 <!-- LAST_RELEASED-END -->
 
@@ -153,7 +153,7 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
 
 | Date | Repo | Commit | Author | Status |
 |---|---|---|---|---|
-| 2026-11-03 | Codey | [Update update_codey.py](https://github.com/VolkanSah/Codey/commit/2a3671ca4505f47c8d2bbca7aacf55d94de17026) | VolkanSah | ✅ |
+| 2026-11-05 | Codey | [🐾 Codey updated 🐾](https://github.com/VolkanSah/Codey/commit/7a621aa0f99c97f894205e1e206c81952a9a03cd) | actions-user | ✅ |
 
 <!-- LAST_FIX-END -->
 
