@@ -38,7 +38,7 @@ After 2,100+ Reddit views, exposed scam networks hit us with bot traffic and mal
 
 **Tools:** [Tailwindcss-Extractor](https://github.com/VolkanSah/tailwindcss-extractor) • [NativeCronGen](https://volkansah.github.io/NativeCron-Generator) • [Proxy-Fetcher](https://github.com/VolkanSah/Auto-Proxy-Fetcher) • [Logo to Vector](https://huggingface.co/spaces/Alibrown/VectorAi/)
 
-**Misc:** [Gist](https://gist.github.com/VolkanSah) • [HF](https://huggingface.co/Alibrown/)
+**Misc:** [Gist](https://gist.github.com/VolkanSah) • [HF](https://huggingface.co/Alibrown/) [Git-Emoji ](https://gist.github.com/VolkanSah/b1f90e44f612d99798da8e5b8e256ef2)
 
 #### Work
 
