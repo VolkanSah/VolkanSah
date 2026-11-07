@@ -81,7 +81,7 @@ def fix_rows(repo: str, n: int) -> list:
         author = (c.get("author") or {}).get("login") or (commit.get("author") or {}).get("name") or "ghost"
         url = c.get("html_url") or f"https://github.com/{USER}/{repo}/commits"
         low = msg.lower()
-        status = "⚠" if "wip" in low else ("🩹" if "fix" in low else "✅")
+        status = "⚠" if "wip" in low else ("🔧" if "fix" in low else "✔️")
         rows.append(f"| {date} | {cell(repo)} | [{cell(msg)}]({url}) | {cell(author, 30)} | {status} |")
     return rows
 
