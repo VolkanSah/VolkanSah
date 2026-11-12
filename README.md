@@ -23,8 +23,6 @@
 </p>
 
 
-<details>
-
 
 
 ---
@@ -39,6 +37,13 @@ After 2,100+ Reddit views, exposed scam networks hit us with bot traffic and mal
 
 
  ---
+
+
+<details>
+
+
+
+
 
  
 <summary>QNavi</summary>
