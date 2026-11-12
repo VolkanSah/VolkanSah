@@ -1,10 +1,4 @@
-> [!IMPORTANT]
-> 🚨 wall-of-shames currently down - why?
-After 2,100+ Reddit views, exposed scam networks hit us with bot traffic and malicious mass-reporting. Ticket with GitHub Support is open to restore everything. Proof that our work hits where it hurts!
 
-
-> ⚠️ I have limited my account prior for Contributors & Collaborators only, sorry.⚠️
- 
 
 
 ## NEW CODEY THEMES - HTOP + [KAWAII](https://github.com/VolkanSah/Codey/tree/main/.codey_themes/kawaii_korean) 😙
@@ -30,6 +24,23 @@ After 2,100+ Reddit views, exposed scam networks hit us with bot traffic and mal
 
 
 <details>
+
+
+
+---
+
+
+> [!IMPORTANT]
+> 🚨 wall-of-shames currently down - why?
+After 2,100+ Reddit views, exposed scam networks hit us with bot traffic and malicious mass-reporting. Ticket with GitHub Support is open to restore everything. Proof that our work hits where it hurts!
+
+
+> ⚠️ I have limited my account prior for Contributors & Collaborators only, sorry.⚠️
+
+
+ ---
+
+ 
 <summary>QNavi</summary>
 
 #### QTipps
