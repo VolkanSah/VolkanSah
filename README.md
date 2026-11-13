@@ -157,7 +157,7 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
 
 | Repo | Version | Release | Date |
 |---|---|---|---|
-| Codey | 2.2.3-Htop | [2.2.3 (Htop Theme added)](https://github.com/VolkanSah/Codey/releases/tag/2.2.3-Htop) | 2026-11-04 |
+| Codey | 2.2.3-space | [2.2.3 (Space Theme added)](https://github.com/VolkanSah/Codey/releases/tag/2.2.3-space) | 2026-11-12 |
 
 <!-- LAST_RELEASED-END -->
 
@@ -172,7 +172,7 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
 
 | Date | Repo | Commit | Author | Status |
 |---|---|---|---|---|
-| 2026-11-11 | Codey | [🐾 Codey updated 🐾](https://github.com/VolkanSah/Codey/commit/5408f42f83011b4beed137ee15eac18cb98ea956) | actions-user | ✔️ |
+| 2026-11-12 | Codey | [Update .gitignore](https://github.com/VolkanSah/Codey/commit/c3d0dfeb18dd47a1f16f9907bf147bbd3b71e091) | VolkanSah | ✔️ |
 
 <!-- LAST_FIX-END -->
 
