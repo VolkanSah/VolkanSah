@@ -153,6 +153,10 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
 <details>
 <summary>Released</summary>
 
+| Repo | Version | Release | Date |
+|---|---|---|---|
+| SDCPT | 1.0.0 | [Released - (rewritten)](https://github.com/SDCPT/Dynamic-CPT-Builder) | 20-11-10 | 
+
 <!-- LAST_RELEASED-START -->
 
 | Repo | Version | Release | Date |
